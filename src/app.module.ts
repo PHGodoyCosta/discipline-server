@@ -1,6 +1,8 @@
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 
+import { AvaliationsModule } from './avaliations/avaliations.module';
+
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
@@ -17,6 +19,8 @@ import { AppService } from './app.service';
 
       synchronize: true,
     }),
+
+    AvaliationsModule,
   ],
   controllers: [AppController],
   providers: [AppService],
