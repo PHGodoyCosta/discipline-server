@@ -11,11 +11,11 @@ import { UpdateAvaliationDto } from './dto/update-avaliation.dto';
 export class AvaliationsService {
   constructor(
     @InjectRepository(Avaliation)
-    private avaliationsRepository: Repository<Avaliation>,
+    private repository: Repository<Avaliation>,
   ) { }
 
   findAll(params: any): Promise<Avaliation[]> {
-    let query = this.avaliationsRepository
+    let query = this.repository
       .createQueryBuilder('avaliation')
       .select(["avaliation.title", "avaliation.year", "avaliation.updated_at"])
       .where('avaliation.is_active = :is_active', { is_active: 1 })
@@ -32,18 +32,18 @@ export class AvaliationsService {
   }
 
   findOne(hash: string): Promise<Avaliation | null> {
-    return this.avaliationsRepository.findOneBy({ hash });
+    return this.repository.findOneBy({ hash });
   }
 
   create(createAvaliationDto: CreateAvaliationDto): Promise<Avaliation> {
-    return this.avaliationsRepository.save(createAvaliationDto)
+    return this.repository.save(createAvaliationDto)
   }
 
   update(hash: string, updateAvaliationDto: UpdateAvaliationDto): Promise<any> {
-    return this.avaliationsRepository.update({ hash }, updateAvaliationDto);
+    return this.repository.update({ hash }, updateAvaliationDto);
   }
 
   async remove(hash: string): Promise<void> {
-    await this.avaliationsRepository.softDelete({ hash });
+    await this.repository.softDelete({ hash });
   }
 }

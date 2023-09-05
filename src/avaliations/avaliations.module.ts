@@ -1,7 +1,8 @@
 import { Module } from '@nestjs/common';
-import { TypeOrmModule } from '@nestjs/typeorm';
 
+import { TypeOrmModule } from '@nestjs/typeorm';
 import { Avaliation } from './entities/avaliation.entity';
+
 import { AvaliationsService } from './avaliations.service';
 import { AvaliationsController } from './avaliations.controller';
 
