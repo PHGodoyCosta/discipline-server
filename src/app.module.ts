@@ -8,6 +8,7 @@ import { AvaliationsModule } from './avaliations/avaliations.module';
 
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
+import { InstitutionsModule } from './institutions/institutions.module';
 
 @Module({
   imports: [
@@ -30,6 +31,7 @@ import { AppService } from './app.service';
     }),
 
     AvaliationsModule,
+    InstitutionsModule,
   ],
   controllers: [AppController],
   providers: [AppService],
