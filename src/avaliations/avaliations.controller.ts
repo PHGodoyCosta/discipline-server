@@ -1,21 +1,20 @@
-import { Controller, Get, Post, Body, Patch, Param, Delete, ClassSerializerInterceptor, UseInterceptors } from '@nestjs/common';
+import { Controller, Get, Post, Body, Patch, Param, Delete, Query } from '@nestjs/common';
 import { AvaliationsService } from './avaliations.service';
 
+import { Avaliation } from './entities/avaliation.entity';
 import { CreateAvaliationDto } from './dto/create-avaliation.dto';
 import { UpdateAvaliationDto } from './dto/update-avaliation.dto';
-import { Avaliation } from './entities/avaliation.entity';
+import { FilterAvaliationDto } from './dto/filter-avaliation.dto';
 
 @Controller('avaliations')
 export class AvaliationsController {
   constructor(private readonly avaliationsService: AvaliationsService) { }
 
-  @UseInterceptors(ClassSerializerInterceptor)
   @Get()
-  findAll(): Promise<Avaliation[]> {
-    return this.avaliationsService.findAll();
+  findAll(@Query() query: FilterAvaliationDto): Promise<Avaliation[]> {
+    return this.avaliationsService.findAll(query);
   }
 
-  @UseInterceptors(ClassSerializerInterceptor)
   @Get(':hash')
   findOne(@Param('hash') hash: string): Promise<Avaliation> {
     return this.avaliationsService.findOne(hash);

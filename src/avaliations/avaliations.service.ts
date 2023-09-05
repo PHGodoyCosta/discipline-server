@@ -14,8 +14,21 @@ export class AvaliationsService {
     private avaliationsRepository: Repository<Avaliation>,
   ) { }
 
-  findAll(): Promise<Avaliation[]> {
-    return this.avaliationsRepository.find();
+  findAll(params: any): Promise<Avaliation[]> {
+    let query = this.avaliationsRepository
+      .createQueryBuilder('avaliation')
+      .select(["avaliation.title", "avaliation.year", "avaliation.updated_at"])
+      .where('avaliation.is_active = :is_active', { is_active: 1 })
+
+    if (params.title) query.andWhere('avaliation.title like :title', {title: `%${params.title}%` })
+    if (params.year) query.andWhere('avaliation.year = :year', { year: params.year })
+
+    if (params.start) query.offset(params.start)
+    if (params.limit) query.limit(params.limit)
+
+    return query
+      .orderBy(params.sort ?? 'title', "ASC")
+      .getMany()
   }
 
   findOne(hash: string): Promise<Avaliation | null> {
