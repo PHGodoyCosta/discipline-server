@@ -1,6 +1,9 @@
 import { NestFactory } from '@nestjs/core';
-import { AppModule } from './app.module';
 import { CorsOptions } from '@nestjs/common/interfaces/external/cors-options.interface';
+import * as express from 'express';
+import * as path from "path";
+
+import { AppModule } from './app.module';
 
 async function bootstrap() {
   var corsConfig: CorsOptions = {
@@ -19,6 +22,9 @@ async function bootstrap() {
   const app = await NestFactory.create(AppModule, {
     cors: corsConfig,
   });
+
+  // Public Uploads Folder Access
+  app.use('/uploads', express.static(path.join(__dirname, '..', 'uploads')));
 
   await app.listen(process.env.PORT ? parseInt(process.env.PORT) : 3000, () => {
     const apiUrl = process.env.API_URL || `http://localhost:${process.env.PORT || '3000'}`
