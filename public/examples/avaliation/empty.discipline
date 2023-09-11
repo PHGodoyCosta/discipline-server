@@ -1,0 +1,34 @@
+{
+    "sections": [
+        {
+            "items": [
+                {
+                    "hash": "",
+                    "type": "question",
+                    "questionType": "radio",
+                    "header": [
+                        {
+                            "order": 1,
+                            "title": "",
+                            "message": {
+                                "text": "",
+                                "caption": ""
+                            },
+                            "image": {
+                                "source": "",
+                                "caption": ""
+                            }
+                        }
+                    ],
+                    "options": [
+                        {
+                            "order": 1,
+                            "text": "",
+                            "value": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

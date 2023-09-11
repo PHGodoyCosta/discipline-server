@@ -20,6 +20,11 @@ export class AvaliationsController {
     return this.avaliationsService.findOne(hash);
   }
 
+  @Get(':hash/export')
+  export(@Param('hash') hash: string): DisciplineFileData {
+    return this.avaliationsService.getDisciplineFile(hash);
+  }
+
   @Post()
   create(@Body() createAvaliationDto: CreateAvaliationDto) {
     return this.avaliationsService.create(createAvaliationDto);

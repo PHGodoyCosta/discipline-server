@@ -1,0 +1,219 @@
+{
+    "sections": [
+        {
+            "items": [
+                {
+                    "order": 1,
+                    "hash": "",
+                    "type": "question",
+                    "questionType": "radio",
+                    "header": [
+                        {
+                            "order": 1,
+                            "title": "<p>Um atleta ao ser submetido a um determinado treino específico apresenta, ao longo do tempo, ganho de massa muscular.</p>\n          <p>A função P(t) = P0 + 0,19 t, expressa o peso do atleta em função do tempo ao realizar esse treinamento, sendo P0 o seu peso inicial e t o tempo em dias.</p>\n          <p>Considere um atleta que antes do treinamento apresentava 55 kg e que necessita chegar ao peso de 60 kg, em um mês. Fazendo unicamente esse treinamento, será possível alcançar o resultado esperado?</p>",
+                            "image": {
+                                "source": "http://localhost:3000/public/examples/avaliation/images/question-1-image-1.png",
+                                "caption": "Função Afim"
+                            }
+                        }
+                    ],
+                    "options": [
+                        {
+                            "order": 1,
+                            "text": 20,
+                            "value": 20
+                        },
+                        {
+                            "order": 2,
+                            "text": 40,
+                            "value": 40
+                        },
+                        {
+                            "order": 3,
+                            "text": 50,
+                            "value": 50
+                        },
+                        {
+                            "order": 4,
+                            "text": 65,
+                            "value": 65
+                        },
+                        {
+                            "order": 5,
+                            "text": 70,
+                            "value": 70
+                        }
+                    ]
+                },
+                {
+                    "order": 2,
+                    "hash": "",
+                    "type": "question",
+                    "questionType": "radio",
+                    "header": [
+                        {
+                            "order": 1,
+                            "image": {
+                                "source": "http://localhost:3000/public/examples/avaliation/images/question-2-image-1.png"
+                            }
+                        }
+                    ],
+                    "options": [
+                        {
+                            "order": 1,
+                            "text": "necessidade de acessar informações confidenciais.",
+                            "value": 1
+                        },
+                        {
+                            "order": 2,
+                            "text": "dificuldade de conciliar diferentes anseios.",
+                            "value": 2
+                        },
+                        {
+                            "order": 3,
+                            "text": "desejo de dominar novas tecnologias.",
+                            "value": 3
+                        },
+                        {
+                            "order": 4,
+                            "text": "desafio de permanecer imparcial. E vontade de ler notícias positivas.",
+                            "value": 4
+                        },
+                        {
+                            "order": 5,
+                            "text": "outra alternativa",
+                            "value": 5
+                        }
+                    ]
+                },
+                {
+                    "_comment": "Enem 2022 Caderno 1 - AZUL - 1ª Aplicação, Página 6 - Questão 7",
+                    "order": 3,
+                    "hash": "",
+                    "type": "question",
+                    "questionType": "radio",
+                    "header": [
+                        {
+                            "order": 1,
+                            "title": "TEXTO I",
+                            "image": {
+                                "source": "http://localhost:3000/public/examples/avaliation/images/question-3-image-1.png",
+                                "caption": "Disponível em: https://amigodobicho.wordpress.com. Acesso em: 10 dez. 2017."
+                            }
+                        },
+                        {
+                            "order": 2,
+                            "title": "TEXTO II",
+                            "message": {
+                                "text": "Nas ruas, na cidade e no parque Ninguém nunca prendeu o Delegado. O vaivém de rua em rua e sua longa vida são relembrados e recontados. Exemplo de sobrevivência, liderança, inteligência canina, desde pequenininho seu focinho negro e seus olhos delineados desenharam um mapa mental olfativo-visual de Lavras. Corria de quem precisava correr e se aproximava de quem não lhe faria mal, distinguia este daquele. Assim, tornou-se um cão comunitário. Nunca se soube por que escolheu a rua, talvez lhe tenham feito mal dentro de quatro paredes. Idoso, teve câncer e desapareceu. O querido foi procurado pela cidade inteira por duas protetoras, mas nunca encontrado.",
+                                "caption": "COSTA, A. R. N. Viver o amor aos cães: Parque Francisco de Assis.<br/> Carmo do Cachoeira: Irdin, 2014 (adaptado)"
+                            }
+                        },
+                        {
+                            "order": 3,
+                            "title": "Os dois textos abordam a temática de animais de rua, porém, em relação ao Texto I, o Texto II"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "order": 1,
+                            "text": "problematiza a necessidade de adoção de animais sem lar.",
+                            "value": 1
+                        },
+                        {
+                            "order": 2,
+                            "text": "valida a troca afetiva entre os pets adotados e seus donos.",
+                            "value": 2
+                        },
+                        {
+                            "order": 3,
+                            "text": "reforça a importância da campanha de adoção de animais.",
+                            "value": 3
+                        },
+                        {
+                            "order": 4,
+                            "text": "exalta a natureza amigável de cães e de gatos.",
+                            "value": 4
+                        },
+                        {
+                            "order": 5,
+                            "text": "promove a campanha de adoção de animais.",
+                            "value": 5
+                        }
+                    ]
+                },
+                {
+                    "order": 4,
+                    "hash": "",
+                    "type": "group",
+                    "header": [
+                        {
+                            "order": 1,
+                            "title": "Preencha as lacunas com mais, mas ou más."
+                        }
+                    ],
+                    "questions": [
+                        {
+                            "order": 1,
+                            "hash": "",
+                            "type": "question",
+                            "questionType": "radio",
+                            "header": [
+                                {
+                                    "order": 1,
+                                    "title": "Porque não desse jeito?"
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "order": 1,
+                                    "text": "necessidade de acessar informações confidenciais.",
+                                    "value": 1
+                                },
+                                {
+                                    "order": 2,
+                                    "text": "dificuldade de conciliar diferentes anseios.",
+                                    "value": 2
+                                },
+                                {
+                                    "order": 3,
+                                    "text": "desejo de dominar novas tecnologias.",
+                                    "value": 3
+                                }
+                            ]
+                        },
+                        {
+                            "order": 2,
+                            "hash": "",
+                            "type": "question",
+                            "questionType": "radio",
+                            "header": [
+                                {
+                                    "order": 1,
+                                    "title": "E desse outro jeito, o que acha?"
+                                }
+                            ],
+                            "options": [
+                                {
+                                    "order": 1,
+                                    "text": "necessidade de acessar informações confidenciais.",
+                                    "value": 1
+                                },
+                                {
+                                    "order": 2,
+                                    "text": "dificuldade de conciliar diferentes anseios.",
+                                    "value": 2
+                                },
+                                {
+                                    "order": 3,
+                                    "text": "desejo de dominar novas tecnologias.",
+                                    "value": 3
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -25,6 +25,7 @@ async function bootstrap() {
 
   // Public Uploads Folder Access
   app.use('/uploads', express.static(path.join(__dirname, '..', 'uploads')));
+  app.use('/public', express.static(path.join(__dirname, '..', 'public')));
 
   await app.listen(process.env.PORT ? parseInt(process.env.PORT) : 3000, () => {
     const apiUrl = process.env.API_URL || `http://localhost:${process.env.PORT || '3000'}`

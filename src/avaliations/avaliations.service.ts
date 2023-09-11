@@ -20,7 +20,7 @@ export class AvaliationsService {
       .select(["avaliation.title", "avaliation.year", "avaliation.updated_at"])
       .where('avaliation.is_active = :is_active', { is_active: 1 })
 
-    if (params.title) query.andWhere('avaliation.title like :title', {title: `%${params.title}%` })
+    if (params.title) query.andWhere('avaliation.title like :title', { title: `%${params.title}%` })
     if (params.year) query.andWhere('avaliation.year = :year', { year: params.year })
 
     if (params.start) query.offset(params.start)
@@ -45,5 +45,247 @@ export class AvaliationsService {
 
   async remove(hash: string): Promise<void> {
     await this.repository.softDelete({ hash });
+  }
+
+  getDisciplineFile(hash: string): DisciplineFileData {
+    const fs = require('fs')
+    const empty = `${__dirname}/../../public/examples/avaliation/empty.discipline`
+    const mock = `${__dirname}/../../public/examples/avaliation/arquivo.discipline`
+    const path = `${__dirname}/../../uploads/avaliations/${hash}.discipline`
+
+    // return this.getDisciplineFileMock() 
+    if (hash === 'empty') return JSON.parse(fs.readFileSync(empty, 'utf-8'))
+    if (hash === 'mock') return JSON.parse(fs.readFileSync(mock, 'utf-8'))
+    return JSON.parse(fs.readFileSync(path, 'utf-8'))
+  }
+
+  getDisciplineFileMock() {
+    const sectionItem1: DcpQuestion = {
+      order: 1,
+      hash: "",
+      type: "question",
+      questionType: "radio",
+      header: [
+        {
+          order: 1,
+          title: `<p>Um atleta ao ser submetido a um determinado treino específico apresenta, ao longo do tempo, ganho de massa muscular.</p>
+          <p>A função P(t) = P0 + 0,19 t, expressa o peso do atleta em função do tempo ao realizar esse treinamento, sendo P0 o seu peso inicial e t o tempo em dias.</p>
+          <p>Considere um atleta que antes do treinamento apresentava 55 kg e que necessita chegar ao peso de 60 kg, em um mês. Fazendo unicamente esse treinamento, será possível alcançar o resultado esperado?</p>`,
+          image: {
+            source: "http://localhost:3000/public/examples/avaliation/images/question-1-image-1.png",
+            caption: "Função Afim"
+          }
+        }
+      ],
+      options: [
+        {
+          order: 1,
+          text: 20,
+          value: 20,
+        },
+        {
+          order: 2,
+          text: 40,
+          value: 40,
+        },
+        {
+          order: 3,
+          text: 50,
+          value: 50,
+        },
+        {
+          order: 4,
+          text: 65,
+          value: 65,
+        },
+        {
+          order: 5,
+          text: 70,
+          value: 70,
+        },
+      ]
+    }
+
+    const sectionItem2: DcpQuestion = {
+      order: 2,
+      hash: "",
+      type: "question",
+      questionType: "radio",
+      header: [
+        {
+          order: 1,
+          image: {
+            source: "http://localhost:3000/public/examples/avaliation/images/question-2-image-1.png",
+          }
+        }
+      ],
+      options: [
+        {
+          order: 1,
+          text: "necessidade de acessar informações confidenciais.",
+          value: 1,
+        },
+        {
+          order: 2,
+          text: "dificuldade de conciliar diferentes anseios.",
+          value: 2,
+        },
+        {
+          order: 3,
+          text: "desejo de dominar novas tecnologias.",
+          value: 3,
+        },
+        {
+          order: 4,
+          text: "desafio de permanecer imparcial. E vontade de ler notícias positivas.",
+          value: 4,
+        },
+        {
+          order: 5,
+          text: "outra alternativa",
+          value: 5,
+        },
+      ]
+    }
+
+    const sectionItem3: DcpQuestion = {
+      _comment: "Enem 2022 Caderno 1 - AZUL - 1ª Aplicação, Página 6 - Questão 7",
+      order: 3,
+      hash: "",
+      type: "question",
+      questionType: "radio",
+      header: [
+        {
+          order: 1,
+          title: "TEXTO I",
+          image: {
+            source: "http://localhost:3000/public/examples/avaliation/images/question-3-image-1.png",
+            caption: "Disponível em: https://amigodobicho.wordpress.com. Acesso em: 10 dez. 2017."
+          }
+        },
+        {
+          order: 2,
+          title: "TEXTO II",
+          message: {
+            text: "Nas ruas, na cidade e no parque Ninguém nunca prendeu o Delegado. O vaivém de rua em rua e sua longa vida são relembrados e recontados. Exemplo de sobrevivência, liderança, inteligência canina, desde pequenininho seu focinho negro e seus olhos delineados desenharam um mapa mental olfativo-visual de Lavras. Corria de quem precisava correr e se aproximava de quem não lhe faria mal, distinguia este daquele. Assim, tornou-se um cão comunitário. Nunca se soube por que escolheu a rua, talvez lhe tenham feito mal dentro de quatro paredes. Idoso, teve câncer e desapareceu. O querido foi procurado pela cidade inteira por duas protetoras, mas nunca encontrado.",
+            caption: "COSTA, A. R. N. Viver o amor aos cães: Parque Francisco de Assis.<br/> Carmo do Cachoeira: Irdin, 2014 (adaptado)"
+          }
+        },
+        {
+          order: 3,
+          title: "Os dois textos abordam a temática de animais de rua, porém, em relação ao Texto I, o Texto II"
+        }
+      ],
+      options: [
+        {
+          order: 1,
+          text: "problematiza a necessidade de adoção de animais sem lar.",
+          value: 1
+        },
+        {
+          order: 2,
+          text: "valida a troca afetiva entre os pets adotados e seus donos.",
+          value: 2
+        },
+        {
+          order: 3,
+          text: "reforça a importância da campanha de adoção de animais.",
+          value: 3
+        },
+        {
+          order: 4,
+          text: "exalta a natureza amigável de cães e de gatos.",
+          value: 4
+        },
+        {
+          order: 5,
+          text: "promove a campanha de adoção de animais.",
+          value: 5
+        }
+      ]
+    }
+
+    const sectionItem4: DcpQuestionGroup = {
+      order: 4,
+      hash: "",
+      type: "group",
+      header: [
+        {
+          order: 1,
+          title: "Preencha as lacunas com mais, mas ou más."
+        }
+      ],
+      questions: [
+        {
+          order: 1,
+          hash: "",
+          type: "question",
+          questionType: "radio",
+          header: [
+            {
+              order: 1,
+              title: "Porque não desse jeito?"
+            }
+          ],
+          options: [
+            {
+              order: 1,
+              text: "necessidade de acessar informações confidenciais.",
+              value: 1,
+            },
+            {
+              order: 2,
+              text: "dificuldade de conciliar diferentes anseios.",
+              value: 2,
+            },
+            {
+              order: 3,
+              text: "desejo de dominar novas tecnologias.",
+              value: 3,
+            },
+          ]
+        },
+        {
+          order: 2,
+          hash: "",
+          type: "question",
+          questionType: "radio",
+          header: [
+            {
+              order: 1,
+              title: "E desse outro jeito, o que acha?"
+            }
+          ],
+          options: [
+            {
+              order: 1,
+              text: "necessidade de acessar informações confidenciais.",
+              value: 1,
+            },
+            {
+              order: 2,
+              text: "dificuldade de conciliar diferentes anseios.",
+              value: 2,
+            },
+            {
+              order: 3,
+              text: "desejo de dominar novas tecnologias.",
+              value: 3,
+            },
+          ]
+        }
+      ]
+    }
+
+    let data: DisciplineFileData = {
+      sections: [
+        {
+          items: [
+            sectionItem1, sectionItem2, sectionItem3, sectionItem4
+          ]
+        }
+      ]
+    }
+    return data
   }
 }
