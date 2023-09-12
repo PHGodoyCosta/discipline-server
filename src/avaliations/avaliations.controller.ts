@@ -1,23 +1,39 @@
-import { Controller, Get, Post, Body, Patch, Param, Delete, Query } from '@nestjs/common';
+import {
+  Controller,
+  Get,
+  Post,
+  Body,
+  Patch,
+  Param,
+  Delete,
+  Query,
+  ClassSerializerInterceptor,
+  UseInterceptors
+} from '@nestjs/common';
+
 import { AvaliationsService } from './avaliations.service';
 
 import { Avaliation } from './entities/avaliation.entity';
 import { CreateAvaliationDto } from './dto/create-avaliation.dto';
 import { UpdateAvaliationDto } from './dto/update-avaliation.dto';
 import { FilterAvaliationDto } from './dto/filter-avaliation.dto';
+import { ResponseAvaliationDTO } from './dto/response-avaliation.dto';
 
 @Controller('avaliations')
+@UseInterceptors(ClassSerializerInterceptor)
 export class AvaliationsController {
   constructor(private readonly avaliationsService: AvaliationsService) { }
 
   @Get()
-  findAll(@Query() query: FilterAvaliationDto): Promise<Avaliation[]> {
-    return this.avaliationsService.findAll(query);
+  findAll(@Query() query: FilterAvaliationDto): Promise<ResponseAvaliationDTO[]> {
+    return this.avaliationsService.findAll(query)
+      .then(res => res.map(item => new ResponseAvaliationDTO(item)));
   }
 
   @Get(':hash')
-  findOne(@Param('hash') hash: string): Promise<Avaliation> {
-    return this.avaliationsService.findOne(hash);
+  findOne(@Param('hash') hash: string): Promise<ResponseAvaliationDTO> {
+    return this.avaliationsService.findOne(hash)
+      .then(res => new ResponseAvaliationDTO(res));
   }
 
   @Get(':hash/export')

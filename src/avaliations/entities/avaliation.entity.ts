@@ -30,13 +30,11 @@ export class Avaliation {
     })
     year: number;
 
-    @Exclude()
     @Column({
         default: true
     })
     is_active: boolean;
 
-    @Exclude()
     @CreateDateColumn({
         type: 'datetime',
     })
@@ -47,7 +45,6 @@ export class Avaliation {
     })
     updated_at: string;
 
-    @Exclude()
     @DeleteDateColumn({
         type: 'datetime',
     })
