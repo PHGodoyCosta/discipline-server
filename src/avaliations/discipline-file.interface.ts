@@ -38,6 +38,7 @@ interface DcpSectionItem {
 interface DcpQuestion extends DcpSectionItem {
     questionType: 'radio' | 'checkbox'
     options: DcpQuestionOption[]
+    correctAnswer: string
     tips?: DcpTip[]
 }
 
@@ -56,6 +57,11 @@ interface QuestionAnswer {
 }
 
 interface DisciplineFileData {
+    hash: string,
+    title: string,
+    description?: string
+    created_at: string
+    updated_at: string
     sections: DcpSection[]
     answers?: QuestionAnswer[]
 };
