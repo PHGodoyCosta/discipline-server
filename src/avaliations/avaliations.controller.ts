@@ -8,12 +8,14 @@ import {
   Delete,
   Query,
   ClassSerializerInterceptor,
-  UseInterceptors
+  UseInterceptors,
+  HttpStatus,
+  HttpException
 } from '@nestjs/common';
 
 import { AvaliationsService } from './avaliations.service';
 
-import { Avaliation } from './entities/avaliation.entity';
+import { DisciplineFileData } from '../discipline-file.interface';
 import { CreateAvaliationDto } from './dto/create-avaliation.dto';
 import { UpdateAvaliationDto } from './dto/update-avaliation.dto';
 import { FilterAvaliationDto } from './dto/filter-avaliation.dto';
@@ -37,8 +39,12 @@ export class AvaliationsController {
   }
 
   @Get(':hash/export')
-  export(@Param('hash') hash: string): DisciplineFileData {
-    return this.avaliationsService.getDisciplineFile(hash);
+  export(@Param('hash') hash: string): Promise<DisciplineFileData> {
+    return this.avaliationsService.getDisciplineFile(hash)
+      .catch(err => {
+        console.log(err)
+        throw new HttpException('Not Found', HttpStatus.NOT_FOUND)
+      });
   }
 
   @Post()

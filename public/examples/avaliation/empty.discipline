@@ -1,32 +1,43 @@
 {
+    "hash": "<UUID>",
+    "title": "Título da Avaliação",
+    "created_at": "2023-09-14 10:16:00",
+    "updated_at": "2023-09-18 12:54:00",
     "sections": [
         {
             "items": [
                 {
-                    "hash": "",
+                    "hash": "<UUID>",
                     "type": "question",
-                    "questionType": "radio",
+                    "question_type": "radio",
                     "header": [
                         {
-                            "order": 1,
-                            "title": "",
-                            "message": {
-                                "text": "",
-                                "caption": ""
-                            },
-                            "image": {
-                                "source": "",
-                                "caption": ""
-                            }
+                            "statement": ""
                         }
                     ],
                     "options": [
                         {
-                            "order": 1,
-                            "text": "",
-                            "value": ""
+                            "hash": "<UUID>",
+                            "text": ""
+                        },
+                        {
+                            "hash": "<UUID>",
+                            "text": ""
+                        },
+                        {
+                            "hash": "<UUID>",
+                            "text": ""
+                        },
+                        {
+                            "hash": "<UUID>",
+                            "text": ""
+                        },
+                        {
+                            "hash": "<UUID>",
+                            "text": ""
                         }
-                    ]
+                    ],
+                    "correct_answer": "<option.hash == UUID>"
                 }
             ]
         }

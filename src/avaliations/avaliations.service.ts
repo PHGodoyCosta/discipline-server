@@ -6,6 +6,7 @@ import { Avaliation } from './entities/avaliation.entity';
 
 import { CreateAvaliationDto } from './dto/create-avaliation.dto';
 import { UpdateAvaliationDto } from './dto/update-avaliation.dto';
+import { DcpQuestion, DcpQGroup, DcpQuestionType, DcpSectionItemType, DisciplineFileData } from 'src/discipline-file.interface';
 
 @Injectable()
 export class AvaliationsService {
@@ -46,237 +47,216 @@ export class AvaliationsService {
     await this.repository.softDelete({ hash });
   }
 
-  getDisciplineFile(hash: string): DisciplineFileData {
+  getDisciplineFile(hash: string): Promise<DisciplineFileData> {
     const fs = require('fs')
     const empty = `${__dirname}/../../public/examples/avaliation/empty.discipline`
-    const mock = `${__dirname}/../../public/examples/avaliation/arquivo.discipline`
-    const path = `${__dirname}/../../uploads/avaliations/${hash}.discipline`
+    const example = `${__dirname}/../../public/examples/avaliation/arquivo.discipline`
+    const path = `${__dirname}/../../uploads/avaliations/${hash}/arquivo.discipline`
 
-    // return this.getDisciplineFileMock() 
-    if (hash === 'empty') return JSON.parse(fs.readFileSync(empty, 'utf-8'))
-    if (hash === 'mock') return JSON.parse(fs.readFileSync(mock, 'utf-8'))
-    return JSON.parse(fs.readFileSync(path, 'utf-8'))
+    return new Promise((resolve, reject) => {
+      try {
+        let fileData
+
+        switch (hash) {
+          case 'empty': fileData = JSON.parse(fs.readFileSync(empty, 'utf-8'))
+          case 'example': fileData = JSON.parse(fs.readFileSync(example, 'utf-8'))
+          case 'mock': fileData = this.getDisciplineFileMock()
+          default: fileData = JSON.parse(fs.readFileSync(path, 'utf-8'))
+        }
+
+        resolve(fileData);
+      } catch (error) {
+        reject(error)
+      }
+    });
   }
 
   getDisciplineFileMock() {
     const sectionItem1: DcpQuestion = {
-      order: 1,
-      hash: "",
-      type: "question",
-      questionType: "radio",
+      hash: "<UUID>",
+      type: DcpSectionItemType.QUESTION,
+      question_type: DcpQuestionType.RADIO,
       header: [
         {
-          order: 1,
           title: `<p>Um atleta ao ser submetido a um determinado treino específico apresenta, ao longo do tempo, ganho de massa muscular.</p>
           <p>A função P(t) = P0 + 0,19 t, expressa o peso do atleta em função do tempo ao realizar esse treinamento, sendo P0 o seu peso inicial e t o tempo em dias.</p>
           <p>Considere um atleta que antes do treinamento apresentava 55 kg e que necessita chegar ao peso de 60 kg, em um mês. Fazendo unicamente esse treinamento, será possível alcançar o resultado esperado?</p>`,
-          image: {
-            source: "http://localhost:3000/public/examples/avaliation/images/question-1-image-1.png",
-            caption: "Função Afim"
-          }
+          image_source: "http://localhost:3000/public/examples/avaliation/images/question-1-image-1.png",
+          caption: "Função Afim"
         }
       ],
       options: [
         {
-          order: 1,
+          hash: "<UUID>",
           text: 20,
-          value: 20,
         },
         {
-          order: 2,
+          hash: "<UUID>",
           text: 40,
-          value: 40,
         },
         {
-          order: 3,
+          hash: "<UUID>",
           text: 50,
-          value: 50,
         },
         {
-          order: 4,
+          hash: "<UUID>",
           text: 65,
-          value: 65,
         },
         {
-          order: 5,
+          hash: "<UUID>",
           text: 70,
-          value: 70,
         },
-      ]
+      ],
+      correct_answer: "<option.hash == UUID>"
     }
 
     const sectionItem2: DcpQuestion = {
-      order: 2,
-      hash: "",
-      type: "question",
-      questionType: "radio",
+      hash: "<UUID>",
+      type: DcpSectionItemType.QUESTION,
+      question_type: DcpQuestionType.RADIO,
       header: [
         {
-          order: 1,
-          image: {
-            source: "http://localhost:3000/public/examples/avaliation/images/question-2-image-1.png",
-          }
+          image_source: "http://localhost:3000/public/examples/avaliation/images/question-2-image-1.png",
         }
       ],
       options: [
         {
-          order: 1,
+          hash: "<UUID>",
           text: "necessidade de acessar informações confidenciais.",
-          value: 1,
         },
         {
-          order: 2,
+          hash: "<UUID>",
           text: "dificuldade de conciliar diferentes anseios.",
-          value: 2,
         },
         {
-          order: 3,
+          hash: "<UUID>",
           text: "desejo de dominar novas tecnologias.",
-          value: 3,
         },
         {
-          order: 4,
+          hash: "<UUID>",
           text: "desafio de permanecer imparcial. E vontade de ler notícias positivas.",
-          value: 4,
         },
         {
-          order: 5,
+          hash: "<UUID>",
           text: "outra alternativa",
-          value: 5,
         },
-      ]
+      ],
+      correct_answer: "<option.hash == UUID>"
     }
 
     const sectionItem3: DcpQuestion = {
       _comment: "Enem 2022 Caderno 1 - AZUL - 1ª Aplicação, Página 6 - Questão 7",
-      order: 3,
-      hash: "",
-      type: "question",
-      questionType: "radio",
+      hash: "<UUID>",
+      type: DcpSectionItemType.QUESTION,
+      question_type: DcpQuestionType.RADIO,
       header: [
         {
-          order: 1,
           title: "TEXTO I",
-          image: {
-            source: "http://localhost:3000/public/examples/avaliation/images/question-3-image-1.png",
-            caption: "Disponível em: https://amigodobicho.wordpress.com. Acesso em: 10 dez. 2017."
-          }
+          image_source: "http://localhost:3000/public/examples/avaliation/images/question-3-image-1.png",
+          caption: "Disponível em: https://amigodobicho.wordpress.com. Acesso em: 10 dez. 2017."
         },
         {
-          order: 2,
           title: "TEXTO II",
-          message: {
-            text: "Nas ruas, na cidade e no parque Ninguém nunca prendeu o Delegado. O vaivém de rua em rua e sua longa vida são relembrados e recontados. Exemplo de sobrevivência, liderança, inteligência canina, desde pequenininho seu focinho negro e seus olhos delineados desenharam um mapa mental olfativo-visual de Lavras. Corria de quem precisava correr e se aproximava de quem não lhe faria mal, distinguia este daquele. Assim, tornou-se um cão comunitário. Nunca se soube por que escolheu a rua, talvez lhe tenham feito mal dentro de quatro paredes. Idoso, teve câncer e desapareceu. O querido foi procurado pela cidade inteira por duas protetoras, mas nunca encontrado.",
-            caption: "COSTA, A. R. N. Viver o amor aos cães: Parque Francisco de Assis.<br/> Carmo do Cachoeira: Irdin, 2014 (adaptado)"
-          }
+          text: "Nas ruas, na cidade e no parque Ninguém nunca prendeu o Delegado. O vaivém de rua em rua e sua longa vida são relembrados e recontados. Exemplo de sobrevivência, liderança, inteligência canina, desde pequenininho seu focinho negro e seus olhos delineados desenharam um mapa mental olfativo-visual de Lavras. Corria de quem precisava correr e se aproximava de quem não lhe faria mal, distinguia este daquele. Assim, tornou-se um cão comunitário. Nunca se soube por que escolheu a rua, talvez lhe tenham feito mal dentro de quatro paredes. Idoso, teve câncer e desapareceu. O querido foi procurado pela cidade inteira por duas protetoras, mas nunca encontrado.",
+          caption: "COSTA, A. R. N. Viver o amor aos cães: Parque Francisco de Assis.<br/> Carmo do Cachoeira: Irdin, 2014 (adaptado)"
         },
         {
-          order: 3,
-          title: "Os dois textos abordam a temática de animais de rua, porém, em relação ao Texto I, o Texto II"
+          statement: "Os dois textos abordam a temática de animais de rua, porém, em relação ao Texto I, o Texto II"
         }
       ],
       options: [
         {
-          order: 1,
+          hash: "<UUID>",
           text: "problematiza a necessidade de adoção de animais sem lar.",
-          value: 1
         },
         {
-          order: 2,
+          hash: "<UUID>",
           text: "valida a troca afetiva entre os pets adotados e seus donos.",
-          value: 2
         },
         {
-          order: 3,
+          hash: "<UUID>",
           text: "reforça a importância da campanha de adoção de animais.",
-          value: 3
         },
         {
-          order: 4,
+          hash: "<UUID>",
           text: "exalta a natureza amigável de cães e de gatos.",
-          value: 4
         },
         {
-          order: 5,
+          hash: "<UUID>",
           text: "promove a campanha de adoção de animais.",
-          value: 5
         }
-      ]
+      ],
+      correct_answer: "<option.hash == UUID>"
     }
 
-    const sectionItem4: DcpQuestionGroup = {
-      order: 4,
-      hash: "",
-      type: "group",
+    const sectionItem4: DcpQGroup = {
+      hash: "<UUID>",
+      type: DcpSectionItemType.GROUP,
       header: [
         {
-          order: 1,
-          title: "Preencha as lacunas com mais, mas ou más."
+          statement: "Preencha as lacunas com mais, mas ou más."
         }
       ],
       questions: [
         {
-          order: 1,
-          hash: "",
-          type: "question",
-          questionType: "radio",
+          hash: "<UUID>",
+          type: DcpSectionItemType.QUESTION,
+          question_type: DcpQuestionType.RADIO,
           header: [
             {
-              order: 1,
-              title: "Porque não desse jeito?"
+              statement: "Porque não desse jeito?"
             }
           ],
           options: [
             {
-              order: 1,
+              hash: "<UUID>",
               text: "necessidade de acessar informações confidenciais.",
-              value: 1,
             },
             {
-              order: 2,
+              hash: "<UUID>",
               text: "dificuldade de conciliar diferentes anseios.",
-              value: 2,
             },
             {
-              order: 3,
+              hash: "<UUID>",
               text: "desejo de dominar novas tecnologias.",
-              value: 3,
             },
-          ]
+          ],
+          correct_answer: "<option.hash == UUID>"
         },
         {
-          order: 2,
-          hash: "",
-          type: "question",
-          questionType: "radio",
+          hash: "<UUID>",
+          type: DcpSectionItemType.QUESTION,
+          question_type: DcpQuestionType.RADIO,
           header: [
             {
-              order: 1,
-              title: "E desse outro jeito, o que acha?"
+              statement: "E desse outro jeito, o que acha?"
             }
           ],
           options: [
             {
-              order: 1,
+              hash: "<UUID>",
               text: "necessidade de acessar informações confidenciais.",
-              value: 1,
             },
             {
-              order: 2,
+              hash: "<UUID>",
               text: "dificuldade de conciliar diferentes anseios.",
-              value: 2,
             },
             {
-              order: 3,
+              hash: "<UUID>",
               text: "desejo de dominar novas tecnologias.",
-              value: 3,
             },
-          ]
+          ],
+          correct_answer: "<option.hash == UUID>"
         }
       ]
     }
 
     let data: DisciplineFileData = {
+      hash: "d2d343b8-1a12-4243-8f8e-65ddece48918",
+      title: "Enem 2020",
+      description: "Arquivo Discipline de Teste 2 - Prova do 1º Dia - Caderno 1 – Azul – Aplicação Regular - https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+      created_at: "2023-09-14 10:16:00",
+      updated_at: "2023-09-18 12:54:00",
       sections: [
         {
           items: [
