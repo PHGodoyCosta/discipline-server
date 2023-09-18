@@ -59,9 +59,13 @@ export class AvaliationsService {
 
         switch (hash) {
           case 'empty': fileData = JSON.parse(fs.readFileSync(empty, 'utf-8'))
+            break;
           case 'example': fileData = JSON.parse(fs.readFileSync(example, 'utf-8'))
+            break;
           case 'mock': fileData = this.getDisciplineFileMock()
+            break;
           default: fileData = JSON.parse(fs.readFileSync(path, 'utf-8'))
+            break;
         }
 
         resolve(fileData);
