@@ -18,23 +18,23 @@
                     "options": [
                         {
                             "hash": "<UUID>",
-                            "text": ""
+                            "option_text": ""
                         },
                         {
                             "hash": "<UUID>",
-                            "text": ""
+                            "option_text": ""
                         },
                         {
                             "hash": "<UUID>",
-                            "text": ""
+                            "option_text": ""
                         },
                         {
                             "hash": "<UUID>",
-                            "text": ""
+                            "option_text": ""
                         },
                         {
                             "hash": "<UUID>",
-                            "text": ""
+                            "option_text": ""
                         }
                     ],
                     "correct_answer": "<option.hash == UUID>"

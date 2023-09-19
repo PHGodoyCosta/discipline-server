@@ -26,14 +26,13 @@ export interface DcpQImage {
 
 export interface DcpTip {
     order?: number
-    text: string
+    tip_text: string
 }
 
 export interface DcpQOption {
     order?: number
     hash: string
-    text?: number | string
-    value?: number | string
+    option_text?: number | string
     image?: DcpQImage
 }
 

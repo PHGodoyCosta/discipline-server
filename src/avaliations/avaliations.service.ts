@@ -92,23 +92,23 @@ export class AvaliationsService {
       options: [
         {
           hash: "<UUID>",
-          text: 20,
+          option_text: 20,
         },
         {
           hash: "<UUID>",
-          text: 40,
+          option_text: 40,
         },
         {
           hash: "<UUID>",
-          text: 50,
+          option_text: 50,
         },
         {
           hash: "<UUID>",
-          text: 65,
+          option_text: 65,
         },
         {
           hash: "<UUID>",
-          text: 70,
+          option_text: 70,
         },
       ],
       correct_answer: "<option.hash == UUID>"
@@ -126,23 +126,23 @@ export class AvaliationsService {
       options: [
         {
           hash: "<UUID>",
-          text: "necessidade de acessar informações confidenciais.",
+          option_text: "necessidade de acessar informações confidenciais.",
         },
         {
           hash: "<UUID>",
-          text: "dificuldade de conciliar diferentes anseios.",
+          option_text: "dificuldade de conciliar diferentes anseios.",
         },
         {
           hash: "<UUID>",
-          text: "desejo de dominar novas tecnologias.",
+          option_text: "desejo de dominar novas tecnologias.",
         },
         {
           hash: "<UUID>",
-          text: "desafio de permanecer imparcial. E vontade de ler notícias positivas.",
+          option_text: "desafio de permanecer imparcial. E vontade de ler notícias positivas.",
         },
         {
           hash: "<UUID>",
-          text: "outra alternativa",
+          option_text: "outra alternativa",
         },
       ],
       correct_answer: "<option.hash == UUID>"
@@ -171,23 +171,23 @@ export class AvaliationsService {
       options: [
         {
           hash: "<UUID>",
-          text: "problematiza a necessidade de adoção de animais sem lar.",
+          option_text: "problematiza a necessidade de adoção de animais sem lar.",
         },
         {
           hash: "<UUID>",
-          text: "valida a troca afetiva entre os pets adotados e seus donos.",
+          option_text: "valida a troca afetiva entre os pets adotados e seus donos.",
         },
         {
           hash: "<UUID>",
-          text: "reforça a importância da campanha de adoção de animais.",
+          option_text: "reforça a importância da campanha de adoção de animais.",
         },
         {
           hash: "<UUID>",
-          text: "exalta a natureza amigável de cães e de gatos.",
+          option_text: "exalta a natureza amigável de cães e de gatos.",
         },
         {
           hash: "<UUID>",
-          text: "promove a campanha de adoção de animais.",
+          option_text: "promove a campanha de adoção de animais.",
         }
       ],
       correct_answer: "<option.hash == UUID>"
@@ -214,15 +214,15 @@ export class AvaliationsService {
           options: [
             {
               hash: "<UUID>",
-              text: "necessidade de acessar informações confidenciais.",
+              option_text: "necessidade de acessar informações confidenciais.",
             },
             {
               hash: "<UUID>",
-              text: "dificuldade de conciliar diferentes anseios.",
+              option_text: "dificuldade de conciliar diferentes anseios.",
             },
             {
               hash: "<UUID>",
-              text: "desejo de dominar novas tecnologias.",
+              option_text: "desejo de dominar novas tecnologias.",
             },
           ],
           correct_answer: "<option.hash == UUID>"
@@ -239,15 +239,15 @@ export class AvaliationsService {
           options: [
             {
               hash: "<UUID>",
-              text: "necessidade de acessar informações confidenciais.",
+              option_text: "necessidade de acessar informações confidenciais.",
             },
             {
               hash: "<UUID>",
-              text: "dificuldade de conciliar diferentes anseios.",
+              option_text: "dificuldade de conciliar diferentes anseios.",
             },
             {
               hash: "<UUID>",
-              text: "desejo de dominar novas tecnologias.",
+              option_text: "desejo de dominar novas tecnologias.",
             },
           ],
           correct_answer: "<option.hash == UUID>"
