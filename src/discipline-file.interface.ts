@@ -14,7 +14,7 @@ export interface DcpQStatement {
 
 export interface DcpQText {
     title?: string
-    text: string
+    snippet: string
     caption?: string
 }
 
