@@ -1,5 +1,5 @@
-import { Exclude } from 'class-transformer';
-import { IsBoolean, IsDateString, IsNumber, IsString } from 'class-validator';
+import { Exclude, Expose } from 'class-transformer';
+import { IsBoolean, IsDateString, IsNumber, IsObject, IsString } from 'class-validator';
 
 import { Avaliation } from '../entities/avaliation.entity';
 
@@ -16,6 +16,15 @@ export class ResponseAvaliationDTO {
 
     @IsNumber()
     year: number;
+
+    @Exclude()
+    @IsObject()
+    institution: {hash: string, name: string}
+
+    @Expose()
+    get icon(): string {
+        return `/uploads/institutions/${this.institution.hash}.png`;
+    }
 
     @Exclude()
     @IsBoolean()

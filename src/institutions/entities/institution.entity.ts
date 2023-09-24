@@ -1,10 +1,12 @@
 import {
     Entity,
     Column,
-    PrimaryGeneratedColumn
+    PrimaryGeneratedColumn,
+    OneToMany
 } from 'typeorm';
 
 import { Exclude } from 'class-transformer';
+import { Avaliation } from 'src/avaliations/entities/avaliation.entity';
 
 @Entity()
 export class Institution {
@@ -20,4 +22,7 @@ export class Institution {
 
     @Column()
     name: string;
+
+    @OneToMany(() => Avaliation, (avaliation) => avaliation.institution)
+    avaliations: Avaliation[]
 }

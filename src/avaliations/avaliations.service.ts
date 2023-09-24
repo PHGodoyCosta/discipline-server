@@ -18,6 +18,7 @@ export class AvaliationsService {
   findAll(params: any): Promise<Avaliation[]> {
     let query = this.repository
       .createQueryBuilder('avaliation')
+      .leftJoinAndSelect("avaliation.institution", "institution")
       .where('avaliation.is_active = :is_active', { is_active: 1 })
 
     if (params.title) query.andWhere('avaliation.title like :title', { title: `%${params.title}%` })

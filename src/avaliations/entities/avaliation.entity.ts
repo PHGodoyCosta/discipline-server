@@ -4,10 +4,12 @@ import {
     PrimaryGeneratedColumn,
     CreateDateColumn,
     UpdateDateColumn,
-    DeleteDateColumn
+    DeleteDateColumn,
+    ManyToOne
 } from 'typeorm';
 
 import { Exclude } from 'class-transformer';
+import { Institution } from 'src/institutions/entities/institution.entity';
 
 @Entity()
 export class Avaliation {
@@ -25,6 +27,12 @@ export class Avaliation {
     title: string;
 
     @Column({
+        type: "text",
+        nullable: true
+    })
+    description: string;
+
+    @Column({
         type: 'year',
         nullable: true
     })
@@ -35,18 +43,21 @@ export class Avaliation {
     })
     is_active: boolean;
 
+    @ManyToOne(() => Institution, (institution) => institution.avaliations)
+    institution: Institution
+
     @CreateDateColumn({
-        type: 'datetime',
+        type: 'datetime'
     })
     created_at: string;
 
     @UpdateDateColumn({
-        type: 'datetime',
+        type: 'datetime'
     })
     updated_at: string;
 
     @DeleteDateColumn({
-        type: 'datetime',
+        type: 'datetime'
     })
     deleted_at: string;
 }
