@@ -23,7 +23,7 @@ export class ResponseAvaliationDTO {
 
     @Expose()
     get icon(): string {
-        return `/uploads/institutions/${this.institution.hash}.png`;
+        return (this.institution) ? `/uploads/institutions/${this.institution.hash}.png` : undefined;
     }
 
     @Exclude()
