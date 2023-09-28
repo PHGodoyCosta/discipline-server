@@ -27,9 +27,14 @@ export class AvaliationsController {
   constructor(private readonly avaliationsService: AvaliationsService) { }
 
   @Get()
-  findAll(@Query() query: FilterAvaliationDto): Promise<ResponseAvaliationDTO[]> {
+  findAll(@Query() query: FilterAvaliationDto): Promise<{ data: ResponseAvaliationDTO[], total: number }> {
     return this.avaliationsService.findAll(query)
-      .then(res => res.map(item => new ResponseAvaliationDTO(item)));
+      .then(res => {
+        return {
+          data: res.data.map(item => new ResponseAvaliationDTO(item)),
+          total: res.total
+        }
+      });
   }
 
   @Get(':hash')

@@ -15,7 +15,7 @@ export class AvaliationsService {
     private repository: Repository<Avaliation>,
   ) { }
 
-  findAll(params: any): Promise<Avaliation[]> {
+  async findAll(params: any): Promise<{ data: Avaliation[], total: number}> {
     let query = this.repository
       .createQueryBuilder('avaliation')
       .leftJoinAndSelect("avaliation.institution", "institution")
@@ -24,12 +24,14 @@ export class AvaliationsService {
     if (params.title) query.andWhere('avaliation.title like :title', { title: `%${params.title}%` })
     if (params.year) query.andWhere('avaliation.year = :year', { year: params.year })
 
-    if (params.start) query.offset(params.start)
-    if (params.limit) query.limit(params.limit)
-
-    return query
-      .orderBy(params.sort ?? 'title', "ASC")
-      .getMany()
+    return {
+      data: await query
+        .orderBy(params.sort ?? 'title', params.sort_order ?? "ASC")
+        .offset(params.offset ?? 0)
+        .limit(params.limit ?? 10)
+        .getMany(),
+      total: await query.getCount()
+    }
   }
 
   findOne(hash: string): Promise<Avaliation | null> {

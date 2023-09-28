@@ -7,37 +7,47 @@
         {
             "items": [
                 {
-                    "hash": "<UUID>",
+                    "hash": "",
                     "type": "question",
                     "question_type": "radio",
                     "header": [
+                        {
+                            "title": "",
+                            "snippet": "",
+                            "caption": ""
+                        },
+                        {
+                            "title": "",
+                            "image_source": "",
+                            "caption": ""
+                        },
                         {
                             "statement": ""
                         }
                     ],
                     "options": [
                         {
-                            "hash": "<UUID>",
+                            "hash": "",
                             "option_text": ""
                         },
                         {
-                            "hash": "<UUID>",
+                            "hash": "",
                             "option_text": ""
                         },
                         {
-                            "hash": "<UUID>",
+                            "hash": "",
                             "option_text": ""
                         },
                         {
-                            "hash": "<UUID>",
+                            "hash": "",
                             "option_text": ""
                         },
                         {
-                            "hash": "<UUID>",
+                            "hash": "",
                             "option_text": ""
                         }
                     ],
-                    "correct_answer": "<option.hash == UUID>"
+                    "correct_answer": ""
                 }
             ]
         }
