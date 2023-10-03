@@ -15,7 +15,7 @@ export class AvaliationsService {
     private repository: Repository<Avaliation>,
   ) { }
 
-  async findAll(params: any): Promise<{ data: Avaliation[], total: number}> {
+  async findAll(params: any): Promise<{ data: Avaliation[], total: number }> {
     let query = this.repository
       .createQueryBuilder('avaliation')
       .leftJoinAndSelect("avaliation.institution", "institution")
@@ -34,8 +34,12 @@ export class AvaliationsService {
     }
   }
 
-  findOne(hash: string): Promise<Avaliation | null> {
-    return this.repository.findOneBy({ hash });
+  findOne(hash: string): Promise<Avaliation> {
+    return this.repository
+      .createQueryBuilder('avaliation')
+      .leftJoinAndSelect("avaliation.institution", "institution")
+      .andWhere('avaliation.hash = :hash', { hash })
+      .getOne();
   }
 
   create(createAvaliationDto: CreateAvaliationDto): Promise<Avaliation> {
