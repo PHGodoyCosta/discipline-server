@@ -52,18 +52,20 @@ export class AvaliationsController {
       });
   }
 
-  @Post()
-  create(@Body() createAvaliationDto: CreateAvaliationDto) {
-    return this.avaliationsService.create(createAvaliationDto);
   }
 
-  @Patch(':hash')
-  update(@Param('hash') hash: string, @Body() updateAvaliationDto: UpdateAvaliationDto) {
-    return this.avaliationsService.update(hash, updateAvaliationDto);
-  }
+  // @Post()
+  // create(@Body() createAvaliationDto: CreateAvaliationDto) {
+  //   return this.avaliationsService.create(createAvaliationDto);
+  // }
 
-  @Delete(':hash')
-  remove(@Param('hash') hash: string) {
-    return this.avaliationsService.remove(hash);
-  }
+  // @Patch(':hash')
+  // update(@Param('hash') hash: string, @Body() updateAvaliationDto: UpdateAvaliationDto) {
+  //   return this.avaliationsService.update(hash, updateAvaliationDto);
+  // }
+
+  // @Delete(':hash')
+  // remove(@Param('hash') hash: string) {
+  //   return this.avaliationsService.remove(hash);
+  // }
 }
