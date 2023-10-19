@@ -9,6 +9,7 @@ import { AvaliationsModule } from './avaliations/avaliations.module';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { InstitutionsModule } from './institutions/institutions.module';
+import { UserAvaliationModule } from './user-avaliation/user-avaliation.module';
 
 @Module({
   imports: [
@@ -32,6 +33,7 @@ import { InstitutionsModule } from './institutions/institutions.module';
 
     AvaliationsModule,
     InstitutionsModule,
+    UserAvaliationModule
   ],
   controllers: [AppController],
   providers: [AppService],
