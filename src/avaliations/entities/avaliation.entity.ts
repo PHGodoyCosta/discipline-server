@@ -39,6 +39,12 @@ export class Avaliation {
     year: number;
 
     @Column({
+        type: 'int',
+        nullable: true
+    })
+    questions_quantity: number;
+
+    @Column({
         default: true
     })
     is_active: boolean;
