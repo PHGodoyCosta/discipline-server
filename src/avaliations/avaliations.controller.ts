@@ -52,7 +52,6 @@ export class AvaliationsController {
       });
   }
 
-  }
 
   // @Post()
   // create(@Body() createAvaliationDto: CreateAvaliationDto) {
