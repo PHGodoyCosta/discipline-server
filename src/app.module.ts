@@ -28,6 +28,8 @@ import { UserAvaliationModule } from './user-avaliation/user-avaliation.module';
         database: 'discipline_db',
         entities: ["dist/**/*.entity.js"],
         synchronize: configService.get('database.synchronize'),
+        timezone: configService.get('timezone'),
+        dateStrings: configService.get('dateStrings')
       }),
     }),
 

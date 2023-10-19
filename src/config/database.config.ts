@@ -7,7 +7,9 @@ export default () => {
         port: parseInt(process.env.DATABASE_PORT) || 3306,
         username: process.env.DATABASE_USERNAME || 'root',
         password: process.env.DATABASE_PASSWORD || '',
-        synchronize: (process.env.DATABASE_SYNC == "true")
+        synchronize: (process.env.DATABASE_SYNC == "true"),
+        timezone: "-03:00",
+        dateStrings: ["DATETIME"]
     }
 
     return {
