@@ -1,4 +1,10 @@
-import { IsString, IsNumber, IsUUID, IsDateString, IsPositive } from 'class-validator';
+import {
+    IsString,
+    IsNumber,
+    IsUUID,
+    IsDateString,
+    IsPositive,
+} from "class-validator";
 
 export class CreateUserAvaliationDto {
     @IsString()

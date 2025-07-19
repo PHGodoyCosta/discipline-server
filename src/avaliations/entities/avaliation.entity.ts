@@ -5,11 +5,11 @@ import {
     CreateDateColumn,
     UpdateDateColumn,
     DeleteDateColumn,
-    ManyToOne
-} from 'typeorm';
+    ManyToOne,
+} from "typeorm";
 
-import { Exclude } from 'class-transformer';
-import { Institution } from 'src/institutions/entities/institution.entity';
+import { Exclude } from "class-transformer";
+import { Institution } from "src/institutions/entities/institution.entity";
 
 @Entity()
 export class Avaliation {
@@ -19,7 +19,7 @@ export class Avaliation {
 
     @Column({
         length: 36,
-        generated: "uuid"
+        generated: "uuid",
     })
     hash: string;
 
@@ -28,42 +28,42 @@ export class Avaliation {
 
     @Column({
         type: "text",
-        nullable: true
+        nullable: true,
     })
     description: string;
 
     @Column({
-        type: 'year',
-        nullable: true
+        type: "year",
+        nullable: true,
     })
     year: number;
 
     @Column({
-        type: 'int',
-        nullable: true
+        type: "int",
+        nullable: true,
     })
     questions_quantity: number;
 
     @Column({
-        default: true
+        default: true,
     })
     is_active: boolean;
 
     @ManyToOne(() => Institution, (institution) => institution.avaliations)
-    institution: Institution
+    institution: Institution;
 
     @CreateDateColumn({
-        type: 'datetime'
+        type: "datetime",
     })
     created_at: string;
 
     @UpdateDateColumn({
-        type: 'datetime'
+        type: "datetime",
     })
     updated_at: string;
 
     @DeleteDateColumn({
-        type: 'datetime'
+        type: "datetime",
     })
     deleted_at: string;
 }

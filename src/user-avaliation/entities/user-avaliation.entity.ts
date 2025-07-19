@@ -1,10 +1,6 @@
-import {
-    Entity,
-    Column,
-    PrimaryGeneratedColumn
-} from 'typeorm';
+import { Entity, Column, PrimaryGeneratedColumn } from "typeorm";
 
-import { Exclude } from 'class-transformer';
+import { Exclude } from "class-transformer";
 
 @Entity()
 export class UserAvaliation {
@@ -22,24 +18,24 @@ export class UserAvaliation {
     avaliation_hash: string;
 
     @Column({
-        type: 'datetime'
+        type: "datetime",
     })
     avaliation_date: string;
 
     @Column({
-        type: 'int'
+        type: "int",
     })
     number_of_questions: number;
 
     @Column({
-        type: 'int',
-        default: 0
+        type: "int",
+        default: 0,
     })
     correct_answers: number;
 
     @Column({
-        type: 'int',
-        default: 0
+        type: "int",
+        default: 0,
     })
     not_answered_questions: number;
 }

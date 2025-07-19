@@ -1,5 +1,5 @@
-import { PartialType } from '@nestjs/mapped-types';
-import { IsString, IsNumber, IsBoolean } from 'class-validator';
+import { PartialType } from "@nestjs/mapped-types";
+import { IsString, IsNumber, IsBoolean } from "class-validator";
 
 class AvaliationFilters {
     @IsString()

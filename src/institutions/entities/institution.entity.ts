@@ -1,12 +1,7 @@
-import {
-    Entity,
-    Column,
-    PrimaryGeneratedColumn,
-    OneToMany
-} from 'typeorm';
+import { Entity, Column, PrimaryGeneratedColumn, OneToMany } from "typeorm";
 
-import { Exclude } from 'class-transformer';
-import { Avaliation } from 'src/avaliations/entities/avaliation.entity';
+import { Exclude } from "class-transformer";
+import { Avaliation } from "src/avaliations/entities/avaliation.entity";
 
 @Entity()
 export class Institution {
@@ -16,7 +11,7 @@ export class Institution {
 
     @Column({
         length: 36,
-        generated: "uuid"
+        generated: "uuid",
     })
     hash: string;
 
@@ -24,5 +19,5 @@ export class Institution {
     name: string;
 
     @OneToMany(() => Avaliation, (avaliation) => avaliation.institution)
-    avaliations: Avaliation[]
+    avaliations: Avaliation[];
 }

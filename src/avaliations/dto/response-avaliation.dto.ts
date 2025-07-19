@@ -1,7 +1,13 @@
-import { Exclude, Expose } from 'class-transformer';
-import { IsBoolean, IsDateString, IsNumber, IsObject, IsString } from 'class-validator';
+import { Exclude, Expose } from "class-transformer";
+import {
+    IsBoolean,
+    IsDateString,
+    IsNumber,
+    IsObject,
+    IsString,
+} from "class-validator";
 
-import { Avaliation } from '../entities/avaliation.entity';
+import { Avaliation } from "../entities/avaliation.entity";
 
 export class ResponseAvaliationDTO {
     @Exclude()
@@ -19,11 +25,13 @@ export class ResponseAvaliationDTO {
 
     @Exclude()
     @IsObject()
-    institution: {hash: string, name: string}
+    institution: { hash: string; name: string };
 
     @Expose()
     get icon(): string {
-        return (this.institution) ? `/uploads/institutions/${this.institution.hash}.png` : undefined;
+        return this.institution
+            ? `/uploads/institutions/${this.institution.hash}.png`
+            : undefined;
     }
 
     @Exclude()

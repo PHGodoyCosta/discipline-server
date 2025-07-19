@@ -1,7 +1,7 @@
-import { Exclude,Expose } from 'class-transformer';
-import { IsNumber, IsString } from 'class-validator';
+import { Exclude, Expose } from "class-transformer";
+import { IsNumber, IsString } from "class-validator";
 
-import { Institution } from '../entities/institution.entity';
+import { Institution } from "../entities/institution.entity";
 
 export class ResponseInstitutionDTO {
     @Exclude()
