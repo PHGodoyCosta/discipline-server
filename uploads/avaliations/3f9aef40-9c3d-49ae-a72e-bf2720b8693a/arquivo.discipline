@@ -13,8 +13,7 @@
                     "header": [
                         {
                             "snippet": "San Francisco, according to recent city numbers,<br/>has 4,300 people living on the streets. Among the many<br/>problems the homeless face is little or no access to<br/>showers. San Francisco only has about 16 to 20 shower<br/>stalls to accommodate them.<br/>But Doniece Sandoval has made it her mission to<br/>change that. The 51-year-old former marketing executive<br/>started Lava Mae, a sort of showers on wheels, a new<br/>project that aims to turn decommissioned city buses into<br/>shower stations for the homeless. Each bus will have two<br/>shower stations and Sandoval expects that they'll be able<br/>to provide 2,000 showers a week.",
-                            "title": "Lava Mae: Creating Showers on Wheels for the Homeless",
-                            "caption": "ANDREANO, C. Disponível em: http://abcnews.go.com. Acesso em: 26 jun. 2015 (adaptado)."
+                            "title": "Lava Mae: Creating Showers on Wheels for the Homeless"
                         },
                         {
                             "statement": "A relação dos vocábulos shower, bus e homeless, no texto, refere-se a"
@@ -50,8 +49,12 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "image_source": "",
-                            "caption": "GLASBERGEN, R. Disponível em: www.glasbergen.com. Acesso em: 3 jul. 2015 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/e7222928-2ee9-4747-987e-10e81d3e3565.png",
+                                    "caption": "GLASBERGEN, R. Disponível em: www.glasbergen.com. Acesso em: 3 jul. 2015 (adaptado)."
+                                }
+                            ]
                         },
                         {
                             "statement": "No cartum, a crítica está no fato de a sociedade exigir do adolescente que"
@@ -87,8 +90,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Don't write in English, they said,<br/>English is not your mother tongue...<br/>...The language I speak<br/>Becomes mine, its distortions, its queerness<br/>All mine, mine alone, it is half English, half<br/>Indian, funny perhaps, but it is honest,<br/>It is as human as I am human...<br/>...It voices my joys, my longings my<br/>Hopes...<br/>(Kamala Das, 1965:10).",
-                            "caption": "GARGESH, R. South Asian Englishes. In: KACHRU, B. B.; KACHRU, Y.; NELSON, C. L.<br/>(Eds.). The Handbook of World Englishes. Singapore: Blackwell, 2006."
+                            "snippet": "Don't write in English, they said,<br/>English is not your mother tongue...<br/>...The language I speak<br/>Becomes mine, its distortions, its queerness<br/>All mine, mine alone, it is half English, half<br/>Indian, funny perhaps, but it is honest,<br/>It is as human as I am human...<br/>...It voices my joys, my longings my<br/>Hopes...<br/>(Kamala Das, 1965:10)."
                         },
                         {
                             "statement": "A poetisa Kamala Das, como muitos escritores indianos, escreve suas obras em inglês, apesar de essa não ser sua primeira língua. Nesses versos, ela"
@@ -125,13 +127,11 @@
                     "header": [
                         {
                             "title": "TEXTO I",
-                            "snippet": "<h2>A Free World-class Education for Anyone Anywhere</h2> The Khan Academy is an organization on a mission.<br/>We're a not-for-profit with the goal of changing education<br/>for the better by providing a free world-class education to<br/>anyone anywhere. All of the site's resources are available<br/>to anyone. The Khan Academy's materials and resources<br/>are available to you completely free of charge.",
-                            "caption": "Disponível em: www.khanacademy.org. Acesso em: 24 fev. 2012 (adaptado)."
+                            "snippet": "<h2>A Free World-class Education for Anyone Anywhere</h2> The Khan Academy is an organization on a mission.<br/>We're a not-for-profit with the goal of changing education<br/>for the better by providing a free world-class education to<br/>anyone anywhere. All of the site's resources are available<br/>to anyone. The Khan Academy's materials and resources<br/>are available to you completely free of charge."
                         },
                         {
                             "title": "TEXTO II",
-                            "snippet": "I didn't have a problem with Khan Academy site<br/>until very recently. For me, the problem is the way Khan<br/>Academy is being promoted. The way the media sees it<br/>as “revolutionizing education”. The way people with power<br/>and money view education as simply “sit-and-get”. If your<br/>philosophy of education is “sit-and-get”, i.e., teaching is<br/>telling and learning is listening, then Khan Academy is way<br/>more efficient than classroom lecturing. Khan Academy<br/>does it better. But TRUE progressive educators, TRUE<br/>education visionaries and revolutionaries don't want to do<br/>these things better. We want to DO BETTER THINGS.",
-                            "caption": "Disponível em: http://fnoschese.wordpress.com. Acesso em: 2 mar. 2012."
+                            "snippet": "I didn't have a problem with Khan Academy site<br/>until very recently. For me, the problem is the way Khan<br/>Academy is being promoted. The way the media sees it<br/>as “revolutionizing education”. The way people with power<br/>and money view education as simply “sit-and-get”. If your<br/>philosophy of education is “sit-and-get”, i.e., teaching is<br/>telling and learning is listening, then Khan Academy is way<br/>more efficient than classroom lecturing. Khan Academy<br/>does it better. But TRUE progressive educators, TRUE<br/>education visionaries and revolutionaries don't want to do<br/>these things better. We want to DO BETTER THINGS."
                         },
                         {
                             "statement": "Com o impacto das tecnologias e a ampliação das redes sociais, consumidores encontram na internet possibilidades de opinar sobre serviços oferecidos. Nesse sentido, o segundo texto, que é um comentário sobre o site divulgado no primeiro, apresenta a intenção do autor de"
@@ -168,7 +168,6 @@
                     "header": [
                         {
                             "snippet": "‘Is it your opinion, Winston, that the past has real<br/>existence?’ [...] O'Brien smiled faintly. ‘I will put it more<br/>precisely. Does the past exist concretely, in space? Is<br/>there somewhere or other a place, a world of solid objects,<br/>where the past is still happening?’<br/> ‘No.’<br/> ‘Then where does the past exist, if at all?’<br/> ‘In records. It is written down.’<br/> ‘In records. And — —?’<br/> ‘In the mind. In human memories.’<br/> ‘In memory. Very well, then. We, the Party, control all<br/>records, and we control all memories. Then we control the<br/>past, do we not?’.",
-                            "caption": "ORWELL, G. Nineteen Eighty-Four. New York: Signet Classics, 1977.",
                             "title": "1984 (excerpt)"
                         },
                         {
@@ -205,8 +204,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "“A Declaração Universal dos Direitos Humanos está<br/>completando 70 anos em tempos de desafios crescentes,<br/>quando o ódio, a discriminação e a violência permanecem<br/>vivos”, disse a diretora-geral da Organização das Nações<br/>Unidas para a Educação, a Ciência e a Cultura (Unesco),<br/>Audrey Azoulay.<br/>“Ao final da Segunda Guerra Mundial, a humanidade<br/>inteira resolveu promover a dignidade humana em todos<br/>os lugares e para sempre. Nesse espírito, as Nações<br/>Unidas adotaram a Declaração Universal dos Direitos<br/>Humanos como um padrão comum de conquistas para<br/>todos os povos e todas as nações”, disse Audrey.<br/>“Centenas de milhões de mulheres e homens<br/>são destituídos e privados de condições básicas<br/>de subsistência e de oportunidades. Movimentos<br/>populacionais forçados geram violações aos direitos<br/>em uma escala sem precedentes. A Agenda 2030 para<br/>o Desenvolvimento Sustentável promete não deixar<br/>ninguém para trás – e os direitos humanos devem ser o<br/>alicerce para todo o progresso.”<br/>Segundo ela, esse processo precisa começar o<br/>quanto antes nas carteiras das escolas. Diante disso,<br/>a Unesco lidera a educação em direitos humanos para<br/>assegurar que todas as meninas e meninos saibam seus<br/>direitos e os direitos dos outros.",
-                            "caption": "Disponível em: https://nacoesunidas.org. Acesso em: 3 abr. 2018 (adaptado)."
+                            "snippet": "“A Declaração Universal dos Direitos Humanos está<br/>completando 70 anos em tempos de desafios crescentes,<br/>quando o ódio, a discriminação e a violência permanecem<br/>vivos”, disse a diretora-geral da Organização das Nações<br/>Unidas para a Educação, a Ciência e a Cultura (Unesco),<br/>Audrey Azoulay.<br/>“Ao final da Segunda Guerra Mundial, a humanidade<br/>inteira resolveu promover a dignidade humana em todos<br/>os lugares e para sempre. Nesse espírito, as Nações<br/>Unidas adotaram a Declaração Universal dos Direitos<br/>Humanos como um padrão comum de conquistas para<br/>todos os povos e todas as nações”, disse Audrey.<br/>“Centenas de milhões de mulheres e homens<br/>são destituídos e privados de condições básicas<br/>de subsistência e de oportunidades. Movimentos<br/>populacionais forçados geram violações aos direitos<br/>em uma escala sem precedentes. A Agenda 2030 para<br/>o Desenvolvimento Sustentável promete não deixar<br/>ninguém para trás – e os direitos humanos devem ser o<br/>alicerce para todo o progresso.”<br/>Segundo ela, esse processo precisa começar o<br/>quanto antes nas carteiras das escolas. Diante disso,<br/>a Unesco lidera a educação em direitos humanos para<br/>assegurar que todas as meninas e meninos saibam seus<br/>direitos e os direitos dos outros."
                         },
                         {
                             "statement": "Defendendo a ideia de que “os direitos humanos devem ser o alicerce para todo o progresso”, a diretora-geral da Unesco aponta, como estratégia para atingir esse fim, a"
@@ -242,8 +240,12 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "image_source": "",
-                            "caption": "Disponível em: www.facebook.com/minsaude. Acesso em: 14 fev. 2018 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/cfb5c620-9e68-4bc5-9464-5b43910cfbe9.jpg",
+                                    "caption": "Disponível em: www.facebook.com/minsaude. Acesso em: 14 fev. 2018 (adaptado)."
+                                }
+                            ]
                         },
                         {
                             "statement": "A utilização de determinadas variedades linguísticas em campanhas educativas tem a função de atingir o público-alvo de forma mais direta e eficaz. No caso desse texto, identifica-se essa estratégia pelo(a)"
@@ -279,8 +281,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "— Famigerado? [...]<br/>— Famigerado é “inóxio”, é “célebre”, “notório”, “notável”...<br/>— Vosmecê mal não veja em minha grossaria no não<br/>entender. Mais me diga: é desaforado? É caçoável? É de<br/>arrenegar? Farsância? Nome de ofensa?<br/>— Vilta nenhuma, nenhum doesto. São expressões<br/>neutras, de outros usos...<br/>— Pois... e o que é que é, em fala de pobre, linguagem<br/>de em dia de semana?<br/>— Famigerado? Bem. É: “importante”, que merece<br/>louvor, respeito...",
-                            "caption": "ROSA, G. Famigerado. In: Primeiras estórias. Rio de Janeiro: Nova Fronteira, 2001."
+                            "snippet": "— Famigerado? [...]<br/>— Famigerado é “inóxio”, é “célebre”, “notório”, “notável”...<br/>— Vosmecê mal não veja em minha grossaria no não<br/>entender. Mais me diga: é desaforado? É caçoável? É de<br/>arrenegar? Farsância? Nome de ofensa?<br/>— Vilta nenhuma, nenhum doesto. São expressões<br/>neutras, de outros usos...<br/>— Pois... e o que é que é, em fala de pobre, linguagem<br/>de em dia de semana?<br/>— Famigerado? Bem. É: “importante”, que merece<br/>louvor, respeito..."
                         },
                         {
                             "statement": "Nesse texto, a associação de vocábulos da língua portuguesa a determinados dias da semana remete ao"
@@ -316,8 +317,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Na sociologia e na literatura, o brasileiro foi por<br/>vezes tratado como cordial e hospitaleiro, mas não é<br/>isso o que acontece nas redes sociais: a democracia<br/>racial apregoada por Gilberto Freyre passa ao largo<br/>do que acontece diariamente nas comunidades<br/>virtuais do país. Levantamento inédito realizado pelo<br/>projeto Comunica que Muda [...] mostra em números<br/>a intolerância do internauta tupiniquim. Entre abril e<br/>junho, um algoritmo vasculhou plataformas [...] atrás<br/>de mensagens e textos sobre temas sensíveis, como<br/>racismo, posicionamento político e homofobia. Foram<br/>identificadas 393 284 menções, sendo 84% delas com<br/>abordagem negativa, de exposição do preconceito e<br/>da discriminação.",
-                            "caption": "Disponível em: https://oglobo.globo.com. Acesso em: 6 dez. 2017 (adaptado)."
+                            "snippet": "Na sociologia e na literatura, o brasileiro foi por<br/>vezes tratado como cordial e hospitaleiro, mas não é<br/>isso o que acontece nas redes sociais: a democracia<br/>racial apregoada por Gilberto Freyre passa ao largo<br/>do que acontece diariamente nas comunidades<br/>virtuais do país. Levantamento inédito realizado pelo<br/>projeto Comunica que Muda [...] mostra em números<br/>a intolerância do internauta tupiniquim. Entre abril e<br/>junho, um algoritmo vasculhou plataformas [...] atrás<br/>de mensagens e textos sobre temas sensíveis, como<br/>racismo, posicionamento político e homofobia. Foram<br/>identificadas 393 284 menções, sendo 84% delas com<br/>abordagem negativa, de exposição do preconceito e<br/>da discriminação."
                         },
                         {
                             "statement": "Ao abordar a postura do internauta brasileiro mapeada por meio de uma pesquisa em plataformas virtuais, o texto"
@@ -354,7 +354,6 @@
                     "header": [
                         {
                             "snippet": "às vezes sou o policial que me suspeito<br/>me peço documentos<br/>e mesmo de posse deles<br/>me prendo e me dou porrada<br/>às vezes sou o porteiro<br/>não me deixando entrar em mim mesmo<br/>a não ser<br/>pela porta de serviço<br/>[...]<br/>às vezes faço questão de não me ver<br/>e entupido com a visão deles<br/>sinto-me a miséria concebida como um eterno<br/>começo<br/>fecho-me o cerco<br/>sendo o gesto que me nego<br/>a pinga que me bebo e me embebedo<br/>o dedo que me aponto<br/>e denuncio<br/>o ponto em que me entrego.<br/>às vezes!...",
-                            "caption": "CUTI. Negroesia. Belo Horizonte: Mazza, 2007 (fragmento).",
                             "title": "Quebranto"
                         },
                         {
@@ -391,14 +390,19 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "title": "TEXTO I",
-                            "image_source": "",
-                            "caption": "ALMEIDA, H. Dentro de mim, 2000. Fotografia p/b. 132 cm x 88 cm. <br/>Faculdade de Belas-Artes da Universidade de Lisboa."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/4a13135c-c6a8-480c-88d0-001a871232c9.jpg",
+                                    "caption": "ALMEIDA, H. Dentro de mim, 2000. Fotografia p/b. 132 cm x 88 cm. <br/>Faculdade de Belas-Artes da Universidade de Lisboa."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "TEXTO I"
                         },
                         {
                             "title": "TEXTO II",
-                            "snippet": "A body art põe o corpo tão em evidência e o submete a<br/>experimentações tão variadas, que sua influência estende-se<br/>aos dias de hoje. Se na arte atual as possibilidades de<br/>investigação do corpo parecem ilimitadas – pode-se<br/>escolher entre representar, apresentar, ou ainda apenas<br/>evocar o corpo – isso ocorre graças ao legado dos artistas<br/>pioneiros.",
-                            "caption": "SILVA, P. R. Corpo na arte, body art, body modification: fronteiras. II Encontro de História<br/>da Arte: IFCH-Unicamp, 2006 (adaptado)."
+                            "snippet": "A body art põe o corpo tão em evidência e o submete a<br/>experimentações tão variadas, que sua influência estende-se<br/>aos dias de hoje. Se na arte atual as possibilidades de<br/>investigação do corpo parecem ilimitadas – pode-se<br/>escolher entre representar, apresentar, ou ainda apenas<br/>evocar o corpo – isso ocorre graças ao legado dos artistas<br/>pioneiros."
                         },
                         {
                             "statement": "Nos textos, a concepção de body art está relacionada à intenção de"
@@ -434,8 +438,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Deficientes visuais já podem ir a algumas salas de<br/>cinema e teatros para curtir, em maior intensidade, as<br/>atrações em cartaz. Quem ajuda na tarefa é o aplicativo<br/>Whatscine, recém-chegado ao Brasil e disponível para os<br/>sistemas operacionais iOS (Apple) ou Android (Google).<br/>Ao ser conectado à rede wi-fi de cinemas e teatros, o app<br/>sincroniza um áudio que descreve o que ocorre na tela<br/>ou no palco com o espetáculo em andamento: o usuário,<br/>então, pode ouvir a narração em seu celular.<br/>O programa foi desenvolvido por pesquisadores<br/>da Universidade Carlos III, em Madri. “Na Espanha,<br/>200 salas de cinema já oferecem o recurso e filmes<br/>de grandes estúdios já são exibidos com o recurso do<br/>Whatscine!”, diz o brasileiro Luis Mauch, que trouxe a<br/>tecnologia para o país. “No Brasil, já fechamos parceria<br/>com a São Paulo Companhia de Dança para adaptar os<br/>espetáculos deles! Isso já é um avanço. Concorda?”.",
-                            "caption": "Disponível em: http://veja.abril.com.br. Acesso em: 25 jun. 2014 (adaptado)."
+                            "snippet": "Deficientes visuais já podem ir a algumas salas de<br/>cinema e teatros para curtir, em maior intensidade, as<br/>atrações em cartaz. Quem ajuda na tarefa é o aplicativo<br/>Whatscine, recém-chegado ao Brasil e disponível para os<br/>sistemas operacionais iOS (Apple) ou Android (Google).<br/>Ao ser conectado à rede wi-fi de cinemas e teatros, o app<br/>sincroniza um áudio que descreve o que ocorre na tela<br/>ou no palco com o espetáculo em andamento: o usuário,<br/>então, pode ouvir a narração em seu celular.<br/>O programa foi desenvolvido por pesquisadores<br/>da Universidade Carlos III, em Madri. “Na Espanha,<br/>200 salas de cinema já oferecem o recurso e filmes<br/>de grandes estúdios já são exibidos com o recurso do<br/>Whatscine!”, diz o brasileiro Luis Mauch, que trouxe a<br/>tecnologia para o país. “No Brasil, já fechamos parceria<br/>com a São Paulo Companhia de Dança para adaptar os<br/>espetáculos deles! Isso já é um avanço. Concorda?”."
                         },
                         {
                             "statement": "Por ser múltipla e apresentar peculiaridades de acordo com a intenção do emissor, a linguagem apresenta funções diferentes. Nesse fragmento, predomina a função referencial da linguagem, porque há a presença de elementos que"
@@ -471,14 +474,19 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "title": "TEXTO I",
-                            "image_source": "",
-                            "caption": "Disponível em: http://revistaiiqb.usac.edu.gt. Acesso em: 25 abr. 2018 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/870ee136-cfd9-4f24-9a9a-00e03130c43a.jpg",
+                                    "caption": "Disponível em: http://revistaiiqb.usac.edu.gt. Acesso em: 25 abr. 2018 (adaptado)."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "TEXTO I"
                         },
                         {
                             "title": "TEXTO II",
-                            "snippet": "Imaginemos um cidadão, residente na periferia de<br/>um grande centro urbano, que diariamente acorda às 5h<br/>para trabalhar, enfrenta em média 2 horas de transporte<br/>público, em geral lotado, para chegar às 8h ao trabalho.<br/>Termina o expediente às 17h e chega em casa às 19h<br/>para, aí sim, cuidar dos afazeres domésticos, dos filhos<br/>etc. Como dizer a essa pessoa que ela deve praticar<br/>exercícios, pois é importante para sua saúde? Como ela<br/>irá entender a mensagem da importância do exercício<br/>físico? A probabilidade de essa pessoa praticar exercícios<br/>regularmente é significativamente menor que a de<br/>pessoas da classe média/alta que vivem outra realidade.<br/>Nesse caso, a abordagem individual do problema tende<br/>a fazer com que a pessoa se sinta impotente em não<br/>conseguir praticar exercícios e, consequentemente,<br/>culpada pelo fato de ser ou estar sedentária.",
-                            "caption": "FERREIRA, M. S. Aptidão física e saúde na educação física escolar: ampliando o enfoque.<br/>RBCE, n. 2, jan. 2001 (adaptado)."
+                            "snippet": "Imaginemos um cidadão, residente na periferia de<br/>um grande centro urbano, que diariamente acorda às 5h<br/>para trabalhar, enfrenta em média 2 horas de transporte<br/>público, em geral lotado, para chegar às 8h ao trabalho.<br/>Termina o expediente às 17h e chega em casa às 19h<br/>para, aí sim, cuidar dos afazeres domésticos, dos filhos<br/>etc. Como dizer a essa pessoa que ela deve praticar<br/>exercícios, pois é importante para sua saúde? Como ela<br/>irá entender a mensagem da importância do exercício<br/>físico? A probabilidade de essa pessoa praticar exercícios<br/>regularmente é significativamente menor que a de<br/>pessoas da classe média/alta que vivem outra realidade.<br/>Nesse caso, a abordagem individual do problema tende<br/>a fazer com que a pessoa se sinta impotente em não<br/>conseguir praticar exercícios e, consequentemente,<br/>culpada pelo fato de ser ou estar sedentária."
                         },
                         {
                             "statement": "O segundo texto, que propõe uma reflexão sobre o primeiro acerca do impacto de mudanças no estilo de vida na saúde, apresenta uma visão"
@@ -514,8 +522,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "No tradicional concurso de miss, as candidatas<br/>apresentaram dados de feminicídio, abuso sexual e<br/>estupro no país.<br/>No lugar das medidas de altura, peso, busto, cintura<br/>e quadril, dados da violência contra as mulheres no Peru.<br/>Foi assim que as 23 candidatas ao Miss Peru 2017<br/>protestaram contra os altos índices de feminicídio e abuso<br/>sexual no país no tradicional desfile em trajes de banho.<br/>O tom político, porém, marcou a atração desde<br/>o começo: logo no início, quando as peruanas se<br/>apresentaram, uma a uma, denunciaram os abusos morais<br/>e físicos, a exploração sexual, o assédio, entre outros<br/>crimes contra as mulheres.",
-                            "caption": "Disponível em: www.cartacapital.com.br. Acesso em: 29 nov. 2017."
+                            "snippet": "No tradicional concurso de miss, as candidatas<br/>apresentaram dados de feminicídio, abuso sexual e<br/>estupro no país.<br/>No lugar das medidas de altura, peso, busto, cintura<br/>e quadril, dados da violência contra as mulheres no Peru.<br/>Foi assim que as 23 candidatas ao Miss Peru 2017<br/>protestaram contra os altos índices de feminicídio e abuso<br/>sexual no país no tradicional desfile em trajes de banho.<br/>O tom político, porém, marcou a atração desde<br/>o começo: logo no início, quando as peruanas se<br/>apresentaram, uma a uma, denunciaram os abusos morais<br/>e físicos, a exploração sexual, o assédio, entre outros<br/>crimes contra as mulheres."
                         },
                         {
                             "statement": "Quanto à materialização da linguagem, a apresentação de dados relativos à violência contra a mulher"
@@ -552,7 +559,6 @@
                     "header": [
                         {
                             "snippet": "É preciso não beber mais. Não é preciso sentir vontade<br/>de beber e não beber: é preciso não sentir vontade de<br/>beber. É preciso não dar de comer aos urubus. É preciso<br/>fechar para balanço e reabrir. É preciso não dar de comer<br/>aos urubus. Nem esperanças aos urubus. É preciso<br/>sacudir a poeira. É preciso poder beber sem se oferecer<br/>em holocausto. É preciso. É preciso não morrer por<br/>enquanto. É preciso sobreviver para verificar. Não pensar<br/>mais na solidão de Rogério, e deixá-lo. É preciso não dar<br/>de comer aos urubus. É preciso enquanto é tempo não<br/>morrer na via pública.",
-                            "caption": "TORQUATO NETO. In: MENDONÇA, J. (Org.) Poesia (im)popular brasileira.<br/>São Bernardo do Campo: Lamparina Luminosa, 2012.",
                             "title": "Dia 20/10"
                         },
                         {
@@ -589,8 +595,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Somente uns tufos secos de capim empedrados<br/>crescem na silenciosa baixada que se perde de vista.<br/>Somente uma árvore, grande e esgalhada mas com<br/>pouquíssimas folhas, abre-se em farrapos de sombra.<br/>Único ser nas cercanias, a mulher é magra, ossuda, seu<br/>rosto está lanhado de vento. Não se vê o cabelo, coberto<br/>por um pano desidratado. Mas seus olhos, a boca, a pele<br/>– tudo é de uma aridez sufocante. Ela está de pé. A seu<br/>lado está uma pedra. O sol explode.<br/>Ela estava de pé no fim do mundo. Como se andasse para<br/>aquela baixada largando para trás suas noções de si mesma.<br/>Não tem retratos na memória. Desapossada e despojada,<br/>não se abate em autoacusações e remorsos. Vive.<br/>Sua sombra somente é que lhe faz companhia. Sua<br/>sombra, que se derrama em traços grossos na areia,<br/>é que adoça como um gesto a claridade esquelética.<br/>A mulher esvaziada emudece, se dessangra, se cristaliza,<br/>se mineraliza. Já é quase de pedra como a pedra a seu lado.<br/>Mas os traços de sua sombra caminham e, tornando-se<br/>mais longos e finos, esticam-se para os farrapos de sombra<br/>da ossatura da árvore, com os quais se enlaçam.",
-                            "caption": "FRÓES, L. Vertigens: obra reunida. Rio de Janeiro: Rocco, 1998."
+                            "snippet": "Somente uns tufos secos de capim empedrados<br/>crescem na silenciosa baixada que se perde de vista.<br/>Somente uma árvore, grande e esgalhada mas com<br/>pouquíssimas folhas, abre-se em farrapos de sombra.<br/>Único ser nas cercanias, a mulher é magra, ossuda, seu<br/>rosto está lanhado de vento. Não se vê o cabelo, coberto<br/>por um pano desidratado. Mas seus olhos, a boca, a pele<br/>– tudo é de uma aridez sufocante. Ela está de pé. A seu<br/>lado está uma pedra. O sol explode.<br/>Ela estava de pé no fim do mundo. Como se andasse para<br/>aquela baixada largando para trás suas noções de si mesma.<br/>Não tem retratos na memória. Desapossada e despojada,<br/>não se abate em autoacusações e remorsos. Vive.<br/>Sua sombra somente é que lhe faz companhia. Sua<br/>sombra, que se derrama em traços grossos na areia,<br/>é que adoça como um gesto a claridade esquelética.<br/>A mulher esvaziada emudece, se dessangra, se cristaliza,<br/>se mineraliza. Já é quase de pedra como a pedra a seu lado.<br/>Mas os traços de sua sombra caminham e, tornando-se<br/>mais longos e finos, esticam-se para os farrapos de sombra<br/>da ossatura da árvore, com os quais se enlaçam."
                         },
                         {
                             "statement": "Na apresentação da paisagem e da personagem, o narrador estabelece uma correlação de sentidos em que esses elementos se entrelaçam. Nesse processo, a condição humana configura-se"
@@ -626,8 +631,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Aconteceu mais de uma vez: ele me abandonou. Como<br/>todos os outros. O quinto. A gente já estava junto há mais<br/>de um ano. Parecia que dessa vez seria para sempre.<br/>Mas não: ele desapareceu de repente, sem deixar rastro.<br/>Quando me dei conta, fiquei horas ligando sem parar –<br/>mas só chamava, chamava, e ninguém atendia. E então<br/>fiz o que precisava ser feito: bloqueei a linha.<br/>A verdade é que nenhum telefone celular me suporta.<br/>Já tentei de todas as marcas e operadoras, apenas<br/>para descobrir que eles são todos iguais: na primeira<br/>oportunidade, dão no pé. Esse último aproveitou que eu<br/>estava distraído e não desceu do táxi junto comigo. Ou<br/>será que ele já tinha pulado do meu bolso no momento<br/>em que eu embarcava no táxi? Tomara que sim. Depois<br/>de fazer o que me fez, quero mais é que ele tenha ido<br/>parar na sarjeta. [...] Se ainda fossem embora do jeito<br/>que chegaram, tudo bem. [...] Mas já sei o que vou<br/>fazer. No caminho da loja de celulares, vou passar<br/>numa papelaria. Pensando bem, nenhuma das minhas<br/>agendinhas de papel jamais me abandonou.",
-                            "caption": "FREIRE, R. Começar de novo. O Estado de S. Paulo, 24 nov. 2006."
+                            "snippet": "Aconteceu mais de uma vez: ele me abandonou. Como<br/>todos os outros. O quinto. A gente já estava junto há mais<br/>de um ano. Parecia que dessa vez seria para sempre.<br/>Mas não: ele desapareceu de repente, sem deixar rastro.<br/>Quando me dei conta, fiquei horas ligando sem parar –<br/>mas só chamava, chamava, e ninguém atendia. E então<br/>fiz o que precisava ser feito: bloqueei a linha.<br/>A verdade é que nenhum telefone celular me suporta.<br/>Já tentei de todas as marcas e operadoras, apenas<br/>para descobrir que eles são todos iguais: na primeira<br/>oportunidade, dão no pé. Esse último aproveitou que eu<br/>estava distraído e não desceu do táxi junto comigo. Ou<br/>será que ele já tinha pulado do meu bolso no momento<br/>em que eu embarcava no táxi? Tomara que sim. Depois<br/>de fazer o que me fez, quero mais é que ele tenha ido<br/>parar na sarjeta. [...] Se ainda fossem embora do jeito<br/>que chegaram, tudo bem. [...] Mas já sei o que vou<br/>fazer. No caminho da loja de celulares, vou passar<br/>numa papelaria. Pensando bem, nenhuma das minhas<br/>agendinhas de papel jamais me abandonou."
                         },
                         {
                             "statement": "Nesse fragmento, a fim de atrair a atenção do leitor e de estabelecer um fio condutor de sentido, o autor utiliza-se de"
@@ -664,7 +668,6 @@
                     "header": [
                         {
                             "snippet": "Você planeja passar um longo tempo em outro país,<br/>trabalhando e estudando, mas o universo está preparando<br/>a chegada de um amor daqueles de tirar o chão, um amor<br/>que fará você jogar fora seu atlas e criar raízes no quintal<br/>como se fosse uma figueira.<br/>Você treina para a maratona mais desafiadora de<br/>todas, mas não chegará com as duas pernas intactas na<br/>hora da largada, e a primeira perplexidade será esta: a<br/>experiência da frustração.<br/>O universo nunca entrega o que promete. Aliás, ele<br/>nunca prometeu nada, você é que escuta vozes.<br/>No dia em que você pensa que não tem nada a<br/>dizer para o analista, faz a revelação mais bombástica<br/>dos seus dois anos de terapia. O resultado de um<br/>exame de rotina coloca sua rotina de cabeça para baixo.<br/>Você não imaginava que iriam tantos amigos à sua<br/>festa, e tampouco imaginou que justo sua grande paixão<br/>não iria. Quando achou que estava bela, não arrasou<br/>corações. Quando saiu sem maquiagem e com uma<br/>camiseta puída, chamou a atenção. E assim seguem<br/>os dias à prova de planejamento e contrariando nossas<br/>vontades, pois, por mais que tenhamos ensaiado nossa<br/>fala e estejamos preparados para a melhor cena, nos<br/>bastidores do universo alguém troca nosso papel de<br/>última hora, tornando surpreendente a nossa vida.",
-                            "caption": "MEDEIROS, M. O Globo, 21 jun. 2015.",
                             "title": "Enquanto isso, nos bastidores do universo"
                         },
                         {
@@ -701,8 +704,12 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "image_source": "",
-                            "caption": "BRANCO, A. Disponível em: www.oesquema.com.br. Acesso em: 30 jun. 2015 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/6441d4c7-03d7-4125-bfa2-a66e8ce01b83.png",
+                                    "caption": "BRANCO, A. Disponível em: www.oesquema.com.br. Acesso em: 30 jun. 2015 (adaptado)."
+                                }
+                            ]
                         },
                         {
                             "statement": "A internet proporcionou o surgimento de novos paradigmas sociais e impulsionou a modificação de outros já estabelecidos nas esferas da comunicação e da informação. A principal consequência criticada na tirinha sobre esse processo é a"
@@ -738,8 +745,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Vó Clarissa deixou cair os talheres no prato, fazendo a porcelana estalar. Joaquim, meu primo, continuava com<br/>o queixo suspenso, batendo com o garfo nos lábios, esperando a resposta. Beatriz ecoou a palavra como pergunta,<br/>“o que é lésbica?”. Eu fiquei muda. Joaquim sabia sobre mim e me entregaria para a vó e, mais tarde, para toda<br/>a família. Senti um calor letal subir pelo meu pescoço e me doer atrás das orelhas. Previ a cena: vó, a senhora é<br/>lésbica? Porque a Joana é. A vergonha estava na minha cara e me denunciava antes mesmo da delação. Apertei os<br/>olhos e contraí o peito, esperando o tiro. [...]<br/>[...] Pensei na naturalidade com que Taís e eu levávamos a nossa história. Pensei na minha insegurança de<br/>contar isso à minha família, pensei em todos os colegas e professores que já sabiam, fechei os olhos e vi a boca da<br/>minha vó e a boca da tia Carolina se tocando, apesar de todos os impedimentos. Eu quis saber mais, eu quis saber<br/>tudo, mas não consegui perguntar.",
-                            "caption": "POLESSO, N. B. Vó, a senhora é lésbica? Amora. Porto Alegre: Não Editora, 2015 (fragmento)."
+                            "snippet": "Vó Clarissa deixou cair os talheres no prato, fazendo a porcelana estalar. Joaquim, meu primo, continuava com<br/>o queixo suspenso, batendo com o garfo nos lábios, esperando a resposta. Beatriz ecoou a palavra como pergunta,<br/>“o que é lésbica?”. Eu fiquei muda. Joaquim sabia sobre mim e me entregaria para a vó e, mais tarde, para toda<br/>a família. Senti um calor letal subir pelo meu pescoço e me doer atrás das orelhas. Previ a cena: vó, a senhora é<br/>lésbica? Porque a Joana é. A vergonha estava na minha cara e me denunciava antes mesmo da delação. Apertei os<br/>olhos e contraí o peito, esperando o tiro. [...]<br/>[...] Pensei na naturalidade com que Taís e eu levávamos a nossa história. Pensei na minha insegurança de<br/>contar isso à minha família, pensei em todos os colegas e professores que já sabiam, fechei os olhos e vi a boca da<br/>minha vó e a boca da tia Carolina se tocando, apesar de todos os impedimentos. Eu quis saber mais, eu quis saber<br/>tudo, mas não consegui perguntar."
                         },
                         {
                             "statement": "A situação narrada revela uma tensão fundamentada na perspectiva do"
@@ -775,8 +781,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Ó Pátria amada,<br/>Idolatrada,<br/>Salve! Salve!<br/>Brasil, de amor eterno seja símbolo<br/>O lábaro que ostentas estrelado,<br/>E diga o verde-louro dessa flâmula<br/>— “Paz no futuro e glória no passado.”<br/>Mas, se ergues da justiça a clava forte,<br/>Verás que um filho teu não foge à luta,<br/>Nem teme, quem te adora, a própria morte.<br/>Terra adorada,<br/>Entre outras mil,<br/>És tu, Brasil,<br/>Ó Pátria amada!<br/>Dos filhos deste solo és mãe gentil,<br/>Pátria amada, Brasil!.",
-                            "caption": "Hino Nacional do Brasil. Letra: Joaquim Osório Duque Estrada.<br/>Música: Francisco Manuel da Silva (fragmento)."
+                            "snippet": "Ó Pátria amada,<br/>Idolatrada,<br/>Salve! Salve!<br/>Brasil, de amor eterno seja símbolo<br/>O lábaro que ostentas estrelado,<br/>E diga o verde-louro dessa flâmula<br/>— “Paz no futuro e glória no passado.”<br/>Mas, se ergues da justiça a clava forte,<br/>Verás que um filho teu não foge à luta,<br/>Nem teme, quem te adora, a própria morte.<br/>Terra adorada,<br/>Entre outras mil,<br/>És tu, Brasil,<br/>Ó Pátria amada!<br/>Dos filhos deste solo és mãe gentil,<br/>Pátria amada, Brasil!."
                         },
                         {
                             "statement": "O uso da norma-padrão na letra do Hino Nacional do Brasil é justificado por tratar-se de um(a)"
@@ -812,8 +817,12 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "image_source": "",
-                            "caption": "SILVA, I.; SANTOS, M. E. P.; JUNG, N. M. Domínios de Lingu@gem, n. 4, out.-dez. 2016 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/1a9c5272-3f03-4fac-b322-11aebeacad88.jpg",
+                                    "caption": "SILVA, I.; SANTOS, M. E. P.; JUNG, N. M. Domínios de Lingu@gem, n. 4, out.-dez. 2016 (adaptado)."
+                                }
+                            ]
                         },
                         {
                             "statement": "A fotografia exibe a fachada de um supermercado em Foz do Iguaçu, cuja localização transfronteiriça é marcada tanto pelo limite com Argentina e Paraguai quanto pela presença de outros povos. Essa fachada revela o(a)"
@@ -849,8 +858,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "O trabalho não era penoso: colar rótulos, meter<br/>vidros em caixas, etiquetá-las, selá-las, envolvê-las em<br/>papel celofane, branco, verde, azul, conforme o produto,<br/>separá-las em dúzias... Era fastidioso. Para passar mais<br/>rapidamente as oito horas havia o remédio: conversar.<br/>Era proibido, mas quem ia atrás de proibições? O patrão<br/>vinha? Vinha o encarregado do serviço? Calavam o<br/>bico, aplicavam-se ao trabalho. Mal viravam as costas,<br/>voltavam a taramelar. As mãos não paravam, as línguas<br/>não paravam. Nessas conversas intermináveis, de<br/>linguagem solta e assuntos crus, Leniza se completou.<br/>Isabela, Afonsina, Idália, Jurete, Deolinda – foram mestras.<br/>O mundo acabou de se desvendar. Leniza perdeu o tom<br/>ingênuo que ainda podia ter. Ganhou um jogar de corpo<br/>que convida, um quebrar de olhos que promete tudo, à<br/>toa, gratuitamente. Modificou-se o timbre de sua voz.<br/>Ficou mais quente. A própria inteligência se transformou.<br/>Tornou-se mais aguda, mais trepidante.",
-                            "caption": "REBELO, M. A estrela sobe. Rio de Janeiro: José Olympio, 2009."
+                            "snippet": "O trabalho não era penoso: colar rótulos, meter<br/>vidros em caixas, etiquetá-las, selá-las, envolvê-las em<br/>papel celofane, branco, verde, azul, conforme o produto,<br/>separá-las em dúzias... Era fastidioso. Para passar mais<br/>rapidamente as oito horas havia o remédio: conversar.<br/>Era proibido, mas quem ia atrás de proibições? O patrão<br/>vinha? Vinha o encarregado do serviço? Calavam o<br/>bico, aplicavam-se ao trabalho. Mal viravam as costas,<br/>voltavam a taramelar. As mãos não paravam, as línguas<br/>não paravam. Nessas conversas intermináveis, de<br/>linguagem solta e assuntos crus, Leniza se completou.<br/>Isabela, Afonsina, Idália, Jurete, Deolinda – foram mestras.<br/>O mundo acabou de se desvendar. Leniza perdeu o tom<br/>ingênuo que ainda podia ter. Ganhou um jogar de corpo<br/>que convida, um quebrar de olhos que promete tudo, à<br/>toa, gratuitamente. Modificou-se o timbre de sua voz.<br/>Ficou mais quente. A própria inteligência se transformou.<br/>Tornou-se mais aguda, mais trepidante."
                         },
                         {
                             "statement": "O romance, de 1939, traz à cena tipos e situações que espelham o Rio de Janeiro daquela década. No fragmento, o narrador delineia esse contexto centrado no"
@@ -887,7 +895,6 @@
                     "header": [
                         {
                             "snippet": "Resumo: Este artigo tem por finalidade discutir a<br/>representação da população negra, especialmente<br/>da mulher negra, em imagens de produtos de<br/>beleza presentes em comércios do nordeste goiano.<br/>Evidencia-se que a presença de estereótipos<br/>negativos nessas imagens dissemina um imaginário<br/>racista apresentado sob a forma de uma estética<br/>racista que camufla a exclusão e normaliza a<br/>inferiorização sofrida pelos(as) negros(as) na<br/>sociedade brasileira. A análise do material imagético<br/>aponta a desvalorização estética do negro,<br/>especialmente da mulher negra, e a idealização da<br/>beleza e do branqueamento a serem alcançados por<br/>meio do uso dos produtos apresentados. O discurso<br/>midiático-publicitário dos produtos de beleza<br/>rememora e legitima a prática de uma ética racista<br/>construída e atuante no cotidiano. Frente a essa<br/>discussão, sugere-se que o trabalho antirracismo,<br/>feito nos diversos espaços sociais, considere o uso<br/>de estratégias para uma “descolonização estética”<br/>que empodere os sujeitos negros por meio de sua<br/>valorização estética e protagonismo na construção<br/>de uma ética da diversidade.<br/>Palavras-chave: Estética, racismo, mídia, educação,<br/>diversidade.",
-                            "caption": "SANT’ANA, J. A imagem da negra e do negro em produtos de beleza e a estética do<br/>racismo. Dossiê: trabalho e educação básica. Margens Interdisciplinar.<br/>Versão digital. Abaetetuba, n.16, jun. 2017 (adaptado).",
                             "title": " A imagem da negra e do negro em produtos de beleza e a estética do racismo"
                         },
                         {
@@ -924,8 +931,12 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "image_source": "",
-                            "caption": "ROSA, R. Grande sertão: veredas: adaptação da obra de João Guimarães Rosa.<br/>São Paulo: Globo, 2014 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/b0a44493-33da-4335-b2cd-645429afda8f.jpg",
+                                    "caption": "ROSA, R. Grande sertão: veredas: adaptação da obra de João Guimarães Rosa.<br/>São Paulo: Globo, 2014 (adaptado)."
+                                }
+                            ]
                         },
                         {
                             "statement": "A imagem integra uma adaptação em quadrinhos da obra Grande sertão: veredas, de Guimarães Rosa. Na representação gráfica, a inter-relação de diferentes linguagens caracteriza-se por"
@@ -961,8 +972,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Tanto os Jogos Olímpicos quanto os Paralímpicos são<br/>mais que uma corrida por recordes, medalhas e busca<br/>da excelência. Por trás deles está a filosofia do barão<br/>Pierre de Coubertin, fundador do Movimento Olímpico.<br/>Como educador, ele viu nos Jogos a oportunidade para<br/>que os povos desenvolvessem valores, que poderiam ser<br/>aplicados não somente ao esporte, mas à educação e à<br/>sociedade. Existem atualmente sete valores associados<br/>aos Jogos. Os valores olímpicos são: a amizade, a<br/>excelência e o respeito, enquanto os valores paralímpicos<br/>são: a determinação, a coragem, a igualdade e a inspiração.",
-                            "caption": "MIRAGAYA, A. Valores para toda a vida. Disponível em: www.esporteessencial.com.br.<br/>Acesso em: 9 ago. 2017 (adaptado)."
+                            "snippet": "Tanto os Jogos Olímpicos quanto os Paralímpicos são<br/>mais que uma corrida por recordes, medalhas e busca<br/>da excelência. Por trás deles está a filosofia do barão<br/>Pierre de Coubertin, fundador do Movimento Olímpico.<br/>Como educador, ele viu nos Jogos a oportunidade para<br/>que os povos desenvolvessem valores, que poderiam ser<br/>aplicados não somente ao esporte, mas à educação e à<br/>sociedade. Existem atualmente sete valores associados<br/>aos Jogos. Os valores olímpicos são: a amizade, a<br/>excelência e o respeito, enquanto os valores paralímpicos<br/>são: a determinação, a coragem, a igualdade e a inspiração."
                         },
                         {
                             "statement": "No contexto das aulas de Educação Física escolar, os valores olímpicos e paralímpicos podem ser identificados quando o colega"
@@ -999,7 +1009,6 @@
                     "header": [
                         {
                             "snippet": "A comunidade científica mundial recebeu, na semana<br/>passada, a confirmação oficial de uma descoberta sobre a<br/>qual se falava com enorme expectativa há alguns meses.<br/>Pesquisadores do Centro de Astrofísica Harvard-Smithsonian<br/>revelaram ter obtido a mais forte evidência até agora de<br/>que o universo em que vivemos começou mesmo pelo<br/>Big Bang, mas este não foi explosão, e sim uma súbita<br/>expansão de matéria e energia infinitas concentradas em um<br/>ponto microscópico que, sem muitas opções semânticas, os<br/>cientistas chamam de “singularidade”. Essa semente cósmica<br/>permanecia em estado latente e, sem que exista ainda uma<br/>explicação definitiva, começou a inchar rapidamente [...]. No<br/>intervalo de um piscar de olhos, por exemplo, seria possível,<br/>portanto, que ocorressem mais de 10 trilhões de Big Bangs.",
-                            "caption": "ALLEGRETTI, F. Veja, 26 mar. 2014 (adaptado).",
                             "title": "Mais big do que bang"
                         },
                         {
@@ -1036,8 +1045,12 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "image_source": "",
-                            "caption": "Disponível em: www.separeolixo.gov.br. Acesso em: 4 dez. 2017 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/79121356-3205-453f-88ac-40ad25dd4522.jpg",
+                                    "caption": "Disponível em: www.separeolixo.gov.br. Acesso em: 4 dez. 2017 (adaptado)."
+                                }
+                            ]
                         },
                         {
                             "statement": "Nessa campanha, a principal estratégia para convencer o leitor a fazer a reciclagem do lixo é a utilização da linguagem não verbal como argumento para"
@@ -1074,13 +1087,18 @@
                     "header": [
                         {
                             "title": "TEXTO I",
-                            "snippet": "Também chamados impressões ou imagens<br/>fotogramáticas [...], os fotogramas são, numa definição<br/>genérica, imagens realizadas sem a utilização da câmera<br/>fotográfica, por contato direto de um objeto ou material<br/>com uma superfície fotossensível exposta a uma fonte<br/>de luz. Essa técnica, que nasceu junto com a fotografia e<br/>serviu de modelo a muitas discussões sobre a ontologia<br/>da imagem fotográfica, foi profundamente transformada<br/>pelos artistas da vanguarda, nas primeiras décadas do<br/>século XX. Representou mesmo, ao lado das colagens,<br/>fotomontagens e outros procedimentos técnicos, a<br/>incorporação definitiva da fotografia à arte moderna e<br/>seu distanciamento da representação figurativa.",
-                            "caption": "COLUCCI, M. B. Impressões fotogramáticas e vanguardas: as experiências de Man Ray.<br/>Studium, n. 2, 2000."
+                            "snippet": "Também chamados impressões ou imagens<br/>fotogramáticas [...], os fotogramas são, numa definição<br/>genérica, imagens realizadas sem a utilização da câmera<br/>fotográfica, por contato direto de um objeto ou material<br/>com uma superfície fotossensível exposta a uma fonte<br/>de luz. Essa técnica, que nasceu junto com a fotografia e<br/>serviu de modelo a muitas discussões sobre a ontologia<br/>da imagem fotográfica, foi profundamente transformada<br/>pelos artistas da vanguarda, nas primeiras décadas do<br/>século XX. Representou mesmo, ao lado das colagens,<br/>fotomontagens e outros procedimentos técnicos, a<br/>incorporação definitiva da fotografia à arte moderna e<br/>seu distanciamento da representação figurativa."
                         },
                         {
-                            "title": "TEXTO II",
-                            "image_source": "",
-                            "caption": "RAY, M. Rayograph, 1922. 23,9 x 29,9 cm. MOMA, Nova York.<br/>Disponível em: www.moma.org. Acesso em: 18 abr. 2018 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/d5fa41ae-a722-4ded-a5a9-2543aff4142d.jpg",
+                                    "caption": "RAY, M. Rayograph, 1922. 23,9 x 29,9 cm. MOMA, Nova York.<br/>Disponível em: www.moma.org. Acesso em: 18 abr. 2018 (adaptado)."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "TEXTO II"
                         },
                         {
                             "statement": "No fotograma de Man Ray, o “distanciamento da representação figurativa” a que se refere o Texto I manifesta-se na"
@@ -1116,8 +1134,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Eu sobrevivi do nada, do nada<br/>Eu não existia<br/>Não tinha uma existência<br/>Não tinha uma matéria<br/>Comecei existir com quinhentos milhões<br/>e quinhentos mil anos<br/>Logo de uma vez, já velha<br/>Eu não nasci criança, nasci já velha<br/>Depois é que eu virei criança<br/>E agora continuei velha<br/>Me transformei novamente numa velha<br/>Voltei ao que eu era, uma velha.",
-                            "caption": "PATROCÍNIO, S. In: MOSÉ, V. (Org.). Reino dos bichos e dos animais é meu nome.<br/>Rio de Janeiro: Azougue, 2009."
+                            "snippet": "Eu sobrevivi do nada, do nada<br/>Eu não existia<br/>Não tinha uma existência<br/>Não tinha uma matéria<br/>Comecei existir com quinhentos milhões<br/>e quinhentos mil anos<br/>Logo de uma vez, já velha<br/>Eu não nasci criança, nasci já velha<br/>Depois é que eu virei criança<br/>E agora continuei velha<br/>Me transformei novamente numa velha<br/>Voltei ao que eu era, uma velha."
                         },
                         {
                             "statement": "Nesse poema de Stela do Patrocínio, a singularidade da expressão lírica manifesta-se na"
@@ -1153,8 +1170,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "A história do futebol é uma triste viagem do prazer<br/>ao dever. [...] O jogo se transformou em espetáculo, com<br/>poucos protagonistas e muitos espectadores, futebol para<br/>olhar, e o espetáculo se transformou num dos negócios<br/>mais lucrativos do mundo, que não é organizado para<br/>ser jogado, mas para impedir que se jogue. A tecnocracia<br/>do esporte profissional foi impondo um futebol de pura<br/>velocidade e muita força, que renuncia à alegria, atrofia a<br/>fantasia e proíbe a ousadia. Por sorte ainda aparece nos<br/>campos, [...] algum atrevido que sai do roteiro e comete<br/>o disparate de driblar o time adversário inteirinho, além<br/>do juiz e do público das arquibancadas, pelo puro prazer<br/>do corpo que se lança na proibida aventura da liberdade.",
-                            "caption": "GALEANO, E. Futebol ao sol e à sombra. Porto Alegre: L&PM Pockets, 1995 (adaptado)."
+                            "snippet": "A história do futebol é uma triste viagem do prazer<br/>ao dever. [...] O jogo se transformou em espetáculo, com<br/>poucos protagonistas e muitos espectadores, futebol para<br/>olhar, e o espetáculo se transformou num dos negócios<br/>mais lucrativos do mundo, que não é organizado para<br/>ser jogado, mas para impedir que se jogue. A tecnocracia<br/>do esporte profissional foi impondo um futebol de pura<br/>velocidade e muita força, que renuncia à alegria, atrofia a<br/>fantasia e proíbe a ousadia. Por sorte ainda aparece nos<br/>campos, [...] algum atrevido que sai do roteiro e comete<br/>o disparate de driblar o time adversário inteirinho, além<br/>do juiz e do público das arquibancadas, pelo puro prazer<br/>do corpo que se lança na proibida aventura da liberdade."
                         },
                         {
                             "statement": "O texto indica que as mudanças nas práticas corporais, especificamente no futebol,"
@@ -1190,8 +1206,12 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "image_source": "",
-                            "caption": "Fotografia: LUCAS HALLEL. Disponível em: www.flickr.com. Acesso em: 16 abr. 2018 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/96647180-1ae5-4f87-bee5-56ee14846dbe.jpg",
+                                    "caption": "Fotografia: LUCAS HALLEL. Disponível em: www.flickr.com. Acesso em: 16 abr. 2018 (adaptado)."
+                                }
+                            ]
                         },
                         {
                             "statement": "O grupo O Teatro Mágico apresenta composições autorais<br/>que têm referências estéticas do rock, do pop e da música<br/>folclórica brasileira. A originalidade dos seus shows tem<br/>relação com a ópera europeia do século XIX a partir da"
@@ -1227,8 +1247,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "A trajetória de Liesel Meminger é contada por uma<br/>narradora mórbida, surpreendentemente simpática.<br/>Ao perceber que a pequena ladra de livros lhe escapa,<br/>a Morte afeiçoa-se à menina e rastreia suas pegadas<br/>de 1939 a 1943. Traços de uma sobrevivente: a mãe<br/>comunista, perseguida pelo nazismo, envia Liesel e o<br/>irmão para o subúrbio pobre de uma cidade alemã, onde<br/>um casal se dispõe a adotá-los por dinheiro. O garoto<br/>morre no trajeto e é enterrado por um coveiro que deixa<br/>cair um livro na neve. É o primeiro de uma série que a<br/>menina vai surrupiar ao longo dos anos. O único vínculo<br/>com a família é esta obra, que ela ainda não sabe ler.<br/>A vida ao redor é a pseudorrealidade criada em<br/>torno do culto a Hitler na Segunda Guerra. Ela assiste<br/>à eufórica celebração do aniversário do Führer pela<br/>vizinhança. A Morte, perplexa diante da violência<br/>humana, dá um tom leve e divertido à narrativa deste<br/>duro confronto entre a infância perdida e a crueldade do<br/>mundo adulto, um sucesso absoluto – e raro – de crítica<br/>e público.",
-                            "caption": "Disponível em: www.odevoradordelivros.com. Acesso em: 24 jun. 2014."
+                            "snippet": "A trajetória de Liesel Meminger é contada por uma<br/>narradora mórbida, surpreendentemente simpática.<br/>Ao perceber que a pequena ladra de livros lhe escapa,<br/>a Morte afeiçoa-se à menina e rastreia suas pegadas<br/>de 1939 a 1943. Traços de uma sobrevivente: a mãe<br/>comunista, perseguida pelo nazismo, envia Liesel e o<br/>irmão para o subúrbio pobre de uma cidade alemã, onde<br/>um casal se dispõe a adotá-los por dinheiro. O garoto<br/>morre no trajeto e é enterrado por um coveiro que deixa<br/>cair um livro na neve. É o primeiro de uma série que a<br/>menina vai surrupiar ao longo dos anos. O único vínculo<br/>com a família é esta obra, que ela ainda não sabe ler.<br/>A vida ao redor é a pseudorrealidade criada em<br/>torno do culto a Hitler na Segunda Guerra. Ela assiste<br/>à eufórica celebração do aniversário do Führer pela<br/>vizinhança. A Morte, perplexa diante da violência<br/>humana, dá um tom leve e divertido à narrativa deste<br/>duro confronto entre a infância perdida e a crueldade do<br/>mundo adulto, um sucesso absoluto – e raro – de crítica<br/>e público."
                         },
                         {
                             "statement": "Os gêneros textuais podem ser caracterizados, dentre outros fatores, por seus objetivos. Esse fragmento é um(a)"
@@ -1264,14 +1283,26 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "title": "TEXTO I",
-                            "image_source": "",
-                            "caption": "Disponível em: www.normagrimberg.com.br. Acesso em: 13 dez. 2017."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/8c2d5194-d6e2-49d4-8617-63bbd4f93e3d.png",
+                                    "caption": "Disponível em: www.normagrimberg.com.br. Acesso em: 13 dez. 2017."
+                                }
+                            ]
                         },
                         {
-                            "title": "TEXTO II",
-                            "image_source": "",
-                            "caption": "Disponível em: www.museunacional.ufrj.br. Acesso em: 11 dez. 2017."
+                            "title": "TEXTO I"
+                        },
+                        {
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/bbb19607-30da-4d04-9baf-09ae24280886.png",
+                                    "caption": "Disponível em: www.museunacional.ufrj.br. Acesso em: 11 dez. 2017."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "TEXTO II"
                         },
                         {
                             "statement": "As duas imagens são produções que têm a cerâmica como matéria-prima. A obra Estrutura vertical dupla se distingue da urna funerária marajoara ao"
@@ -1307,8 +1338,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "o que será que ela quer<br/>essa mulher de vermelho<br/>alguma coisa ela quer<br/>pra ter posto esse vestido<br/>não pode ser apenas<br/>uma escolha casual<br/>podia ser um amarelo<br/>verde ou talvez azul<br/>mas ela escolheu vermelho<br/>ela sabe o que ela quer<br/>e ela escolheu vestido<br/>e ela é uma mulher<br/>então com base nesses fatos<br/>eu já posso afirmar<br/>que conheço o seu desejo<br/>caro watson, elementar:<br/>o que ela quer sou euzinho<br/>sou euzinho o que ela quer<br/>só pode ser euzinho<br/>o que mais podia ser.",
-                            "caption": "FREITAS, A. Um útero é do tamanho de um punho. São Paulo: Cosac Naify, 2013."
+                            "snippet": "o que será que ela quer<br/>essa mulher de vermelho<br/>alguma coisa ela quer<br/>pra ter posto esse vestido<br/>não pode ser apenas<br/>uma escolha casual<br/>podia ser um amarelo<br/>verde ou talvez azul<br/>mas ela escolheu vermelho<br/>ela sabe o que ela quer<br/>e ela escolheu vestido<br/>e ela é uma mulher<br/>então com base nesses fatos<br/>eu já posso afirmar<br/>que conheço o seu desejo<br/>caro watson, elementar:<br/>o que ela quer sou euzinho<br/>sou euzinho o que ela quer<br/>só pode ser euzinho<br/>o que mais podia ser."
                         },
                         {
                             "statement": "No processo de elaboração do poema, a autora confere ao eu lírico uma identidade que aqui representa a"
@@ -1344,8 +1374,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "O rio que fazia uma volta atrás de nossa casa era a<br/>imagem de um vidro mole que fazia uma volta atrás<br/>de casa.<br/>Passou um homem e disse: Essa volta que o<br/>rio faz por trás de sua casa se chama enseada.<br/>Não era mais a imagem de uma cobra de vidro que<br/>fazia uma volta atrás de casa.<br/>Era uma enseada.<br/>Acho que o nome empobreceu a imagem.",
-                            "caption": "BARROS, M. O livro das ignorãças. Rio de Janeiro: Best Seller, 2008."
+                            "snippet": "O rio que fazia uma volta atrás de nossa casa era a<br/>imagem de um vidro mole que fazia uma volta atrás<br/>de casa.<br/>Passou um homem e disse: Essa volta que o<br/>rio faz por trás de sua casa se chama enseada.<br/>Não era mais a imagem de uma cobra de vidro que<br/>fazia uma volta atrás de casa.<br/>Era uma enseada.<br/>Acho que o nome empobreceu a imagem."
                         },
                         {
                             "statement": "O sujeito poético questiona o uso do vocábulo “enseada” porque a"
@@ -1382,7 +1411,6 @@
                     "header": [
                         {
                             "snippet": "<h2>Com origem no iorubá, linguagem foi adotada por travestis e ganhou a comunidade</h2> “Nhaí, amapô! Não faça a loka e pague meu acué,<br/>deixe de equê se não eu puxo teu picumã!” Entendeu<br/>as palavras dessa frase? Se sim, é porque você manja<br/>alguma coisa de pajubá, o “dialeto secreto” dos gays<br/>e travestis.<br/>Adepto do uso das expressões, mesmo nos ambientes<br/>mais formais, um advogado afirma: “É claro que eu não<br/>vou falar durante uma audiência ou numa reunião, mas<br/>na firma, com meus colegas de trabalho, eu falo de ‘acué’<br/>o tempo inteiro”, brinca. “A gente tem que ter cuidado de<br/>falar outras palavras porque hoje o pessoal já entende,<br/>né? Tá na internet, tem até dicionário...”, comenta.<br/>O dicionário a que ele se refere é o Aurélia, a<br/>dicionária da língua afiada, lançado no ano de 2006 e<br/>escrito pelo jornalista Angelo Vip e por Fred Libi. Na obra,<br/>há mais de 1 300 verbetes revelando o significado das<br/>palavras do pajubá.<br/>Não se sabe ao certo quando essa linguagem surgiu,<br/>mas sabe-se que há claramente uma relação entre o<br/>pajubá e a cultura africana, numa costura iniciada ainda<br/>na época do Brasil colonial.",
-                            "caption": "Disponível em: www.midiamax.com.br. Acesso em: 4 abr. 2017 (adaptado).",
                             "title": "“Acuenda o Pajubá”: conheça o “dialeto secreto” utilizado por gays e travestis"
                         },
                         {
@@ -1419,8 +1447,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Certa vez minha mãe surrou-me com uma corda<br/>nodosa que me pintou as costas de manchas sangrentas.<br/>Moído, virando a cabeça com dificuldade, eu distinguia<br/>nas costelas grandes lanhos vermelhos. Deitaram-me,<br/>enrolaram-me em panos molhados com água de sal<br/>– e houve uma discussão na família. Minha avó, que<br/>nos visitava, condenou o procedimento da filha e esta<br/>afligiu-se. Irritada, ferira-me à toa, sem querer. Não<br/>guardei ódio a minha mãe: o culpado era o nó.",
-                            "caption": "RAMOS, G. Infância. Rio de Janeiro: Record, 1998."
+                            "snippet": "Certa vez minha mãe surrou-me com uma corda<br/>nodosa que me pintou as costas de manchas sangrentas.<br/>Moído, virando a cabeça com dificuldade, eu distinguia<br/>nas costelas grandes lanhos vermelhos. Deitaram-me,<br/>enrolaram-me em panos molhados com água de sal<br/>– e houve uma discussão na família. Minha avó, que<br/>nos visitava, condenou o procedimento da filha e esta<br/>afligiu-se. Irritada, ferira-me à toa, sem querer. Não<br/>guardei ódio a minha mãe: o culpado era o nó."
                         },
                         {
                             "statement": "Num texto narrativo, a sequência dos fatos contribui para a progressão temática. No fragmento, esse processo é indicado pela"
@@ -1456,8 +1483,12 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "image_source": "",
-                            "caption": "Disponível em: www.facebook.com/omeusegredinho. Acesso em: 9 dez. 2017 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/255ce0ef-10b2-45b7-818a-1d27a3361fc3.png",
+                                    "caption": "Disponível em: www.facebook.com/omeusegredinho. Acesso em: 9 dez. 2017 (adaptado)."
+                                }
+                            ]
                         },
                         {
                             "statement": "Essa imagem ilustra a reação dos celíacos (pessoas sensíveis ao glúten) ao ler rótulos de alimentos sem glúten. Essas reações indicam que, em geral, os rótulos desses produtos"
@@ -1494,7 +1525,6 @@
                     "header": [
                         {
                             "snippet": "Em razão da grande repercussão do concurso de<br/>Microcontos do Twitter da ABL, o Abletras, a Academia<br/>Brasileira de Letras lançou no dia do seu aniversário<br/>de 113 anos um novo concurso cultural intitulado<br/>“Conte o conto sem aumentar um ponto”, baseado na<br/>obra A cartomante, de Machado de Assis.<br/>“Conte o conto sem aumentar um ponto” tem<br/>como objetivo dar um final distinto do original ao conto<br/>A cartomante, de Machado de Assis, utilizando-se o<br/>mesmo número de caracteres – ou inferior – que Machado<br/>concluiu seu trabalho, ou seja, 1 778 caracteres.<br/>Vale ressaltar que, para participar do concurso,<br/>o concorrente deverá ser seguidor do Twitter da<br/>ABL, o Abletras.",
-                            "caption": "Disponível em: www.academia.org.br. Acesso em: 18 out. 2015 (adaptado).",
                             "title": "ABL lança novo concurso cultural: <br/>“Conte o conto sem aumentar um ponto”"
                         },
                         {
@@ -1531,8 +1561,12 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "image_source": "",
-                            "caption": "Disponível em: www.sul21.com.br. Acesso em: 1 dez. 2017 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/e5ce09c5-b6a6-41d2-a256-056337d6e958.jpg",
+                                    "caption": "Disponível em: www.sul21.com.br. Acesso em: 1 dez. 2017 (adaptado)."
+                                }
+                            ]
                         },
                         {
                             "statement": "Nesse texto, busca-se convencer o leitor a mudar seu comportamento por meio da associação de verbos no modo imperativo à"
@@ -1569,7 +1603,6 @@
                     "header": [
                         {
                             "snippet": "Houve protestos.<br/>Deram uma bola a cada criança e tempo para brincar.<br/>Elas aprenderam malabarismos incríveis e algumas<br/>viajavam pelo mundo exibindo sua alegre habilidade.<br/>(O problema é que muitos, a maioria, não tinham jeito e<br/>eram feios de noite, assustadores. Seria melhor prender<br/>essa gente – havia quem dissesse.)<br/>Houve protestos.<br/>Aumentaram o preço da carne, liberaram os preços<br/>dos cereais e abriram crédito a juros baixos para o<br/>agricultor. O dinheiro que sobrasse, bem, digamos, ora o<br/>dinheiro que sobrasse!<br/>Houve protestos.<br/>Diminuíram os salários (infelizmente aumentou o<br/>número de assaltos) porque precisamos combater a<br/>inflação e, como se sabe, quando os salários estão acima<br/>do índice de produtividade eles se tornam altamente<br/>inflacionários, de modo que.<br/>Houve protestos.<br/>Proibiram os protestos.<br/>E no lugar dos protestos nasceu o ódio. Então surgiu<br/>a Casa de Vidro, para acabar com aquele ódio.",
-                            "caption": "ÂNGELO, I. A casa de vidro. São Paulo: Círculo do Livro, 1985.",
                             "title": "A Casa de Vidro"
                         },
                         {
@@ -1606,8 +1639,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Encontrando base em argumentos supostamente<br/>científicos, o mito do sexo frágil contribuiu historicamente<br/>para controlar as práticas corporais desempenhadas<br/>pelas mulheres. Na história do Brasil, exatamente<br/>na transição entre os séculos XIX e XX, destacam-se<br/>os esforços para impedir a participação da mulher no<br/>campo das práticas esportivas. As desconfianças em<br/>relação à presença da mulher no esporte estiveram<br/>culturalmente associadas ao medo de masculinizar<br/>o corpo feminino pelo esforço físico intenso. Em relação<br/>ao futebol feminino, o mito do sexo frágil atuou como<br/>obstáculo ao consolidar a crença de que o esforço<br/>físico seria inapropriado para proteger a feminilidade<br/>da mulher “normal”. Tal mito sustentou um forte movimento<br/>contrário à aceitação do futebol como prática esportiva<br/>feminina. Leis e propagandas buscaram desacreditar<br/>o futebol, considerando-o inadequado à delicadeza.<br/>Na verdade, as mulheres eram consideradas incapazes<br/>de se adequar às múltiplas dificuldades do “esporte-rei”.",
-                            "caption": "TEIXEIRA, F. L. S.; CAMINHA, I. O. Preconceito no futebol feminino: uma revisão sistemática.<br/>Movimento, Porto Alegre, n. 1, 2013 (adaptado)."
+                            "snippet": "Encontrando base em argumentos supostamente<br/>científicos, o mito do sexo frágil contribuiu historicamente<br/>para controlar as práticas corporais desempenhadas<br/>pelas mulheres. Na história do Brasil, exatamente<br/>na transição entre os séculos XIX e XX, destacam-se<br/>os esforços para impedir a participação da mulher no<br/>campo das práticas esportivas. As desconfianças em<br/>relação à presença da mulher no esporte estiveram<br/>culturalmente associadas ao medo de masculinizar<br/>o corpo feminino pelo esforço físico intenso. Em relação<br/>ao futebol feminino, o mito do sexo frágil atuou como<br/>obstáculo ao consolidar a crença de que o esforço<br/>físico seria inapropriado para proteger a feminilidade<br/>da mulher “normal”. Tal mito sustentou um forte movimento<br/>contrário à aceitação do futebol como prática esportiva<br/>feminina. Leis e propagandas buscaram desacreditar<br/>o futebol, considerando-o inadequado à delicadeza.<br/>Na verdade, as mulheres eram consideradas incapazes<br/>de se adequar às múltiplas dificuldades do “esporte-rei”."
                         },
                         {
                             "statement": "No contexto apresentado, a relação entre a prática do futebol e as mulheres é caracterizada por um"
@@ -1644,7 +1676,6 @@
                     "header": [
                         {
                             "snippet": "No mundo acadêmico ou nos veículos de<br/>comunicação, as cópias ilegais podem surgir de diversas<br/>maneiras, sendo integrais, parciais ou paráfrases. Para<br/>ajudar a combater esse crime, o professor Maximiliano<br/>Zambonatto Pezzin, engenheiro de computação,<br/>desenvolveu junto com os seus alunos o programa<br/>Farejador de Plágio.<br/>O programa é capaz de detectar: trechos contínuos<br/>e fragmentados, frases soltas, partes de textos<br/>reorganizadas, frases reescritas, mudanças na ordem<br/>dos períodos e erros fonéticos e sintáticos.<br/>Mas como o programa realmente funciona?<br/>Considerando o texto como uma sequência de palavras,<br/>a ferramenta analisa e busca trecho por trecho nos sites<br/>de busca, assim como um professor desconfiado de um<br/>aluno faria. A diferença é que o programa permite que se<br/>pesquise em vários buscadores, gerando assim muito<br/>mais resultados.",
-                            "caption": "Disponível em: http://reporterunesp.jor.br. Acesso em: 19 mar. 2018.",
                             "title": "Farejador de Plágio: uma ferramenta contra a cópia ilegal"
                         },
                         {
@@ -1681,14 +1712,19 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "title": "TEXTO I",
-                            "image_source": "",
-                            "caption": "BRACCO, A; LOSCHI, M. Quando rotas se tornam arte. Retratos: a revista do IBGE.<br/>Rio de Janeiro, n. 3, set. 2017 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/4ed05b94-2936-4083-bcf7-615f3bc9e4ae.jpg",
+                                    "caption": "BRACCO, A; LOSCHI, M. Quando rotas se tornam arte. Retratos: a revista do IBGE.<br/>Rio de Janeiro, n. 3, set. 2017 (adaptado)."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "TEXTO I"
                         },
                         {
                             "title": "TEXTO II",
-                            "snippet": "Stephen Lund, artista canadense, morador em<br/>Victoria, capital da Colúmbia Britânica (Canadá),<br/>transformou-se em fenômeno mundial produzindo obras<br/>de arte virtuais pedalando sua bike. Seguindo rotas<br/>traçadas com o auxílio de um dispositivo de GPS, ele<br/>calcula ter percorrido mais de 10 mil quilômetros.",
-                            "caption": "Disponível em: www.booooooom.com. Acesso em: 9 dez. 2017 (adaptado)."
+                            "snippet": "Stephen Lund, artista canadense, morador em<br/>Victoria, capital da Colúmbia Britânica (Canadá),<br/>transformou-se em fenômeno mundial produzindo obras<br/>de arte virtuais pedalando sua bike. Seguindo rotas<br/>traçadas com o auxílio de um dispositivo de GPS, ele<br/>calcula ter percorrido mais de 10 mil quilômetros."
                         },
                         {
                             "statement": "Os textos destacam a inovação artística proposta por Stephen Lund a partir do(a)"
@@ -1724,8 +1760,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "No Segundo Congresso Internacional de Ciências<br/>Geográficas, em 1875, a que compareceram o<br/>presidente da República, o governador de Paris e<br/>o presidente da Assembleia, o discurso inaugural<br/>do almirante La Roucière-Le Noury expôs a atitude<br/>predominante no encontro: “Cavalheiros, a Providência<br/>nos ditou a obrigação de conhecer e conquistar a terra.<br/>Essa ordem suprema é um dos deveres imperiosos<br/>inscritos em nossas inteligências e nossas atividades.<br/>A geografia, essa ciência que inspira tão bela devoção<br/>e em cujo nome foram sacrificadas tantas vítimas,<br/>tornou-se a filosofia da terra”.",
-                            "caption": "SAID, E. Cultura e política. São Paulo: Cia. das Letras, 1995."
+                            "snippet": "No Segundo Congresso Internacional de Ciências<br/>Geográficas, em 1875, a que compareceram o<br/>presidente da República, o governador de Paris e<br/>o presidente da Assembleia, o discurso inaugural<br/>do almirante La Roucière-Le Noury expôs a atitude<br/>predominante no encontro: “Cavalheiros, a Providência<br/>nos ditou a obrigação de conhecer e conquistar a terra.<br/>Essa ordem suprema é um dos deveres imperiosos<br/>inscritos em nossas inteligências e nossas atividades.<br/>A geografia, essa ciência que inspira tão bela devoção<br/>e em cujo nome foram sacrificadas tantas vítimas,<br/>tornou-se a filosofia da terra”."
                         },
                         {
                             "statement": "No contexto histórico apresentado, a exaltação da ciência geográfica decorre do seu uso para o(a)"
@@ -1761,8 +1796,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "A existência em Jerusalém de um hospital voltado<br/>para o alojamento e o cuidado dos peregrinos, assim<br/>como daqueles entre eles que estavam cansados ou<br/>doentes, fortaleceu o elo entre a obra de assistência<br/>e de caridade e a Terra Santa. Ao fazer, em 1113, do<br/>Hospital de Jerusalém um estabelecimento central da<br/>ordem, Pascoal II estimulava a filiação dos hospitalários<br/>do Ocidente a ele, sobretudo daqueles que estavam<br/>ligados à peregrinação na Terra Santa ou em outro lugar.<br/>A militarização do Hospital de Jerusalém não diminuiu a<br/>vocação caritativa primitiva, mas a fortaleceu.",
-                            "caption": "DEMURGER, A. Os Cavaleiros de Cristo. Rio de Janeiro:<br/>Jorge Zahar, 2002 (adaptado)."
+                            "snippet": "A existência em Jerusalém de um hospital voltado<br/>para o alojamento e o cuidado dos peregrinos, assim<br/>como daqueles entre eles que estavam cansados ou<br/>doentes, fortaleceu o elo entre a obra de assistência<br/>e de caridade e a Terra Santa. Ao fazer, em 1113, do<br/>Hospital de Jerusalém um estabelecimento central da<br/>ordem, Pascoal II estimulava a filiação dos hospitalários<br/>do Ocidente a ele, sobretudo daqueles que estavam<br/>ligados à peregrinação na Terra Santa ou em outro lugar.<br/>A militarização do Hospital de Jerusalém não diminuiu a<br/>vocação caritativa primitiva, mas a fortaleceu."
                         },
                         {
                             "statement": "O acontecimento descrito vincula-se ao fenômeno ocidental do(a)"
@@ -1798,8 +1832,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "A tribo não possui um rei, mas um chefe que não<br/>é chefe de Estado. O que significa isso? Simplesmente<br/>que o chefe não dispõe de nenhuma autoridade, de<br/>nenhum poder de coerção, de nenhum meio de dar uma<br/>ordem. O chefe não é um comandante, as pessoas da<br/>tribo não têm nenhum dever de obediência. O espaço<br/>da chefia não é o lugar do poder. Essencialmente<br/>encarregado de eliminar conflitos que podem surgir<br/>entre indivíduos, famílias e linhagens, o chefe só dispõe,<br/>para restabelecer a ordem e a concórdia, do prestígio<br/>que lhe reconhece a sociedade. Mas evidentemente<br/>prestígio não significa poder, e os meios que o chefe<br/>detém para realizar sua tarefa de pacificador limitam-se<br/>ao uso exclusivo da palavra.",
-                            "caption": "CLASTRES, P. A sociedade contra o Estado.<br/>Rio de Janeiro: Francisco Alves, 1982 (adaptado)."
+                            "snippet": "A tribo não possui um rei, mas um chefe que não<br/>é chefe de Estado. O que significa isso? Simplesmente<br/>que o chefe não dispõe de nenhuma autoridade, de<br/>nenhum poder de coerção, de nenhum meio de dar uma<br/>ordem. O chefe não é um comandante, as pessoas da<br/>tribo não têm nenhum dever de obediência. O espaço<br/>da chefia não é o lugar do poder. Essencialmente<br/>encarregado de eliminar conflitos que podem surgir<br/>entre indivíduos, famílias e linhagens, o chefe só dispõe,<br/>para restabelecer a ordem e a concórdia, do prestígio<br/>que lhe reconhece a sociedade. Mas evidentemente<br/>prestígio não significa poder, e os meios que o chefe<br/>detém para realizar sua tarefa de pacificador limitam-se<br/>ao uso exclusivo da palavra."
                         },
                         {
                             "statement": "O modelo político das sociedades discutidas no texto contrasta com o do Estado liberal burguês porque se baseia em:"
@@ -1835,8 +1868,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "O filósofo reconhece-se pela posse inseparável<br/>do gosto da evidência e do sentido da ambiguidade.<br/>Quando se limita a suportar a ambiguidade, esta se<br/>chama equívoco. Sempre aconteceu que, mesmo aqueles<br/>que pretenderam construir uma filosofia absolutamente<br/>positiva, só conseguiram ser filósofos na medida em que,<br/>simultaneamente, se recusaram o direito de se instalar no<br/>saber absoluto. O que caracteriza o filósofo é o movimento<br/>que leva incessantemente do saber à ignorância, da<br/>ignorância ao saber, e um certo repouso neste movimento.",
-                            "caption": "MERLEAU-PONTY, M. Elogio da filosofia.<br/>Lisboa: Guimarães, 1998 (adaptado)."
+                            "snippet": "O filósofo reconhece-se pela posse inseparável<br/>do gosto da evidência e do sentido da ambiguidade.<br/>Quando se limita a suportar a ambiguidade, esta se<br/>chama equívoco. Sempre aconteceu que, mesmo aqueles<br/>que pretenderam construir uma filosofia absolutamente<br/>positiva, só conseguiram ser filósofos na medida em que,<br/>simultaneamente, se recusaram o direito de se instalar no<br/>saber absoluto. O que caracteriza o filósofo é o movimento<br/>que leva incessantemente do saber à ignorância, da<br/>ignorância ao saber, e um certo repouso neste movimento."
                         },
                         {
                             "statement": "O texto apresenta um entendimento acerca dos elementos constitutivos da atividade do filósofo, que se caracteriza por"
@@ -1872,14 +1904,26 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "title": "Figura 1",
-                            "image_source": "",
-                            "caption": "Disponível em: www.thehenryford.org. Acesso em: 3 maio 2018."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/cc1e4a7d-f217-40cd-8543-c06f1ef03c06.jpg",
+                                    "caption": "Disponível em: www.thehenryford.org. Acesso em: 3 maio 2018."
+                                }
+                            ]
                         },
                         {
-                            "title": "Figura 2",
-                            "image_source": "",
-                            "caption": "Disponível em: www.abc.net.au. Acesso em: 3 maio 2018."
+                            "title": "Figura 1"
+                        },
+                        {
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/982ab8b0-9f09-4b54-8299-c2721cf2ba2f.jpg",
+                                    "caption": "Disponível em: www.abc.net.au. Acesso em: 3 maio 2018."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Figura 2"
                         },
                         {
                             "statement": "Esse ônibus relaciona-se ao ato praticado, em 1955, por Rosa Parks, apresentada em fotografia ao lado de Martin Luther King. O veículo alcançou o estatuto de obra museológica por simbolizar o(a)"
@@ -1915,8 +1959,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Desde que tenhamos compreendido o significado<br/>da palavra “Deus”, sabemos, de imediato, que Deus<br/>existe. Com efeito, essa palavra designa uma coisa de<br/>tal ordem que não podemos conceber nada que lhe seja<br/>maior. Ora, o que existe na realidade e no pensamento é<br/>maior do que o que existe apenas no pensamento. Donde<br/>se segue que o objeto designado pela palavra “Deus”,<br/>que existe no pensamento, desde que se entenda essa<br/>palavra, também existe na realidade. Por conseguinte, a<br/>existência de Deus é evidente.",
-                            "caption": "TOMÁS DE AQUINO. Suma teológica. Rio de Janeiro: Loyola, 2002."
+                            "snippet": "Desde que tenhamos compreendido o significado<br/>da palavra “Deus”, sabemos, de imediato, que Deus<br/>existe. Com efeito, essa palavra designa uma coisa de<br/>tal ordem que não podemos conceber nada que lhe seja<br/>maior. Ora, o que existe na realidade e no pensamento é<br/>maior do que o que existe apenas no pensamento. Donde<br/>se segue que o objeto designado pela palavra “Deus”,<br/>que existe no pensamento, desde que se entenda essa<br/>palavra, também existe na realidade. Por conseguinte, a<br/>existência de Deus é evidente."
                         },
                         {
                             "statement": "O texto apresenta uma elaboração teórica de Tomás de Aquino caracterizada por"
@@ -1953,13 +1996,11 @@
                     "header": [
                         {
                             "title": "TEXTO I",
-                            "snippet": "Tudo aquilo que é válido para um tempo de guerra,<br/>em que todo homem é inimigo de todo homem, é válido<br/>também para o tempo durante o qual os homens vivem<br/>sem outra segurança senão a que lhes pode ser oferecida<br/>por sua própria força e invenção.",
-                            "caption": "HOBBES, T. Leviatã. São Paulo: Abril Cultural, 1983."
+                            "snippet": "Tudo aquilo que é válido para um tempo de guerra,<br/>em que todo homem é inimigo de todo homem, é válido<br/>também para o tempo durante o qual os homens vivem<br/>sem outra segurança senão a que lhes pode ser oferecida<br/>por sua própria força e invenção."
                         },
                         {
                             "title": "TEXTO II",
-                            "snippet": "Não vamos concluir, com Hobbes que, por não ter<br/>nenhuma ideia de bondade, o homem seja naturalmente<br/>mau. Esse autor deveria dizer que, sendo o estado de<br/>natureza aquele em que o cuidado de nossa conservação<br/>é menos prejudicial à dos outros, esse estado era, por<br/>conseguinte, o mais próprio à paz e o mais conveniente<br/>ao gênero humano.",
-                            "caption": "ROUSSEAU, J.-J. Discurso sobre a origem e o fundamento da desigualdade entre os<br/>homens. São Paulo: Martins Fontes, 1993 (adaptado)."
+                            "snippet": "Não vamos concluir, com Hobbes que, por não ter<br/>nenhuma ideia de bondade, o homem seja naturalmente<br/>mau. Esse autor deveria dizer que, sendo o estado de<br/>natureza aquele em que o cuidado de nossa conservação<br/>é menos prejudicial à dos outros, esse estado era, por<br/>conseguinte, o mais próprio à paz e o mais conveniente<br/>ao gênero humano."
                         },
                         {
                             "statement": "Os trechos apresentam divergências conceituais entre autores que sustentam um entendimento segundo o qual a igualdade entre os homens se dá em razão de uma"
@@ -1995,8 +2036,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Foi-se o tempo em que era possível mostrar um<br/>mundo econômico organizado em camadas bem<br/>definidas, onde grandes centros urbanos se ligavam,<br/>por si próprios, a economias adjacentes “lentas”, com o<br/>ritmo muito mais rápido do comércio e das finanças de<br/>longo alcance. Hoje tudo ocorre como se essas camadas<br/>sobrepostas estivessem mescladas e interpermeadas.<br/>Interdependências de curto e longo alcance não podem<br/>mais ser separadas umas das outras.",
-                            "caption": "BRENNER, N. A globalização como reterritorialização. Cadernos Metrópole,<br/>n. 24, jul.-dez. 2010 (adaptado)."
+                            "snippet": "Foi-se o tempo em que era possível mostrar um<br/>mundo econômico organizado em camadas bem<br/>definidas, onde grandes centros urbanos se ligavam,<br/>por si próprios, a economias adjacentes “lentas”, com o<br/>ritmo muito mais rápido do comércio e das finanças de<br/>longo alcance. Hoje tudo ocorre como se essas camadas<br/>sobrepostas estivessem mescladas e interpermeadas.<br/>Interdependências de curto e longo alcance não podem<br/>mais ser separadas umas das outras."
                         },
                         {
                             "statement": "A maior complexidade dos espaços urbanos contemporâneos ressaltada no texto explica-se pela"
@@ -2033,13 +2073,11 @@
                     "header": [
                         {
                             "title": "TEXTO I",
-                            "snippet": "E pois que em outra cousa nesta parte me não posso<br/>vingar do demônio, admoesto da parte da cruz de Cristo<br/>Jesus a todos que este lugar lerem, que deem a esta terra<br/>o nome que com tanta solenidade lhe foi posto, sob pena<br/>de a mesma cruz que nos há de ser mostrada no dia final,<br/>os acusar de mais devotos do pau-brasil que dela.",
-                            "caption": "BARROS, J. In: SOUZA, L. M. Inferno atlântico: demonologia e colonização:<br/>séculos XVI-XVIII. São Paulo: Cia. das Letras, 1993."
+                            "snippet": "E pois que em outra cousa nesta parte me não posso<br/>vingar do demônio, admoesto da parte da cruz de Cristo<br/>Jesus a todos que este lugar lerem, que deem a esta terra<br/>o nome que com tanta solenidade lhe foi posto, sob pena<br/>de a mesma cruz que nos há de ser mostrada no dia final,<br/>os acusar de mais devotos do pau-brasil que dela."
                         },
                         {
                             "title": "TEXTO II",
-                            "snippet": "E deste modo se hão os povoadores, os quais, por<br/>mais arraigados que na terra estejam e mais ricos que<br/>sejam, tudo pretendem levar a Portugal, e, se as fazendas<br/>e bens que possuem souberam falar, também lhes<br/>houveram de ensinar a dizer como os papagaios, aos<br/>quais a primeira coisa que ensinam é: papagaio real para<br/>Portugal, porque tudo querem para lá.",
-                            "caption": "SALVADOR, F. V. In: SOUZA, L. M. (Org.). História da vida privada no Brasil:<br/>cotidiano e vida privada na América portuguesa. São Paulo: Cia. das Letras, 1997."
+                            "snippet": "E deste modo se hão os povoadores, os quais, por<br/>mais arraigados que na terra estejam e mais ricos que<br/>sejam, tudo pretendem levar a Portugal, e, se as fazendas<br/>e bens que possuem souberam falar, também lhes<br/>houveram de ensinar a dizer como os papagaios, aos<br/>quais a primeira coisa que ensinam é: papagaio real para<br/>Portugal, porque tudo querem para lá."
                         },
                         {
                             "statement": "As críticas desses cronistas ao processo de colonização portuguesa na América estavam relacionadas à"
@@ -2075,8 +2113,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Os soviéticos tinham chegado a Cuba muito cedo<br/>na década de 1960, esgueirando-se pela fresta aberta<br/>pela imediata hostilidade norte-americana em relação<br/>ao processo social revolucionário. Durante três décadas<br/>os soviéticos mantiveram sua presença em Cuba com<br/>bases e ajuda militar, mas, sobretudo, com todo o apoio<br/>econômico que, como saberíamos anos mais tarde,<br/>mantinha o país à tona, embora nos deixasse em dívida<br/>com os irmãos soviéticos – e depois com seus herdeiros<br/>russos – por cifras que chegavam a US$ 32 bilhões.<br/>Ou seja, o que era oferecido em nome da solidariedade<br/>socialista tinha um preço definido.",
-                            "caption": "PADURA, L. Cuba e os russos. Folha de São Paulo,<br/>19 jul. 2014 (adaptado."
+                            "snippet": "Os soviéticos tinham chegado a Cuba muito cedo<br/>na década de 1960, esgueirando-se pela fresta aberta<br/>pela imediata hostilidade norte-americana em relação<br/>ao processo social revolucionário. Durante três décadas<br/>os soviéticos mantiveram sua presença em Cuba com<br/>bases e ajuda militar, mas, sobretudo, com todo o apoio<br/>econômico que, como saberíamos anos mais tarde,<br/>mantinha o país à tona, embora nos deixasse em dívida<br/>com os irmãos soviéticos – e depois com seus herdeiros<br/>russos – por cifras que chegavam a US$ 32 bilhões.<br/>Ou seja, o que era oferecido em nome da solidariedade<br/>socialista tinha um preço definido."
                         },
                         {
                             "statement": "O texto indica que durante a Guerra Fria as relações internas em um mesmo bloco foram marcadas pelo(a)"
@@ -2112,8 +2149,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Anamorfose é a transformação cartográfica espacial<br/>em que a forma dos objetos é distorcida, de forma a<br/>realçar o tema. A área das unidades espaciais às quais<br/>o tema se refere é alterada de forma proporcional ao<br/>respectivo valor.",
-                            "caption": "GASPAR, A. J. Dicionário de ciências cartográficas. Lisboa: Lidel, 2004."
+                            "snippet": "Anamorfose é a transformação cartográfica espacial<br/>em que a forma dos objetos é distorcida, de forma a<br/>realçar o tema. A área das unidades espaciais às quais<br/>o tema se refere é alterada de forma proporcional ao<br/>respectivo valor."
                         },
                         {
                             "statement": "A técnica descrita foi aplicada na seguinte forma de representação do espaço:"
@@ -2124,7 +2160,7 @@
                             "hash": "",
                             "image": [
                                 {
-                                    "image_source": ""
+                                    "image_source": "<host>/uploads/images/78343eea-f1b5-40e6-a874-de71af81ab33.jpg"
                                 }
                             ]
                         },
@@ -2132,7 +2168,7 @@
                             "hash": "",
                             "image": [
                                 {
-                                    "image_source": ""
+                                    "image_source": "<host>/uploads/images/4600a34d-890c-4706-af9d-5b5312685342.png"
                                 }
                             ]
                         },
@@ -2140,7 +2176,7 @@
                             "hash": "",
                             "image": [
                                 {
-                                    "image_source": ""
+                                    "image_source": "<host>/uploads/images/63c3eda0-0841-40c6-a511-c2118717ec67.jpg"
                                 }
                             ]
                         },
@@ -2148,7 +2184,7 @@
                             "hash": "",
                             "image": [
                                 {
-                                    "image_source": ""
+                                    "image_source": "<host>/uploads/images/53adc489-6011-4804-9025-303c2c52768c.png"
                                 }
                             ]
                         },
@@ -2156,7 +2192,7 @@
                             "hash": "",
                             "image": [
                                 {
-                                    "image_source": ""
+                                    "image_source": "<host>/uploads/images/40401194-af97-4165-8a5e-541aa41f91b4.jpg"
                                 }
                             ]
                         }
@@ -2169,8 +2205,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "A poetisa Emília Freitas subiu a um palanque,<br/>nervosa, pedindo desculpas por não possuir títulos nem<br/>conhecimentos, mas orgulhosa ofereceu a sua pena<br/>que “sem ser hábil, é, em compensação, guiada pelo<br/>poder da vontade”. Maria Tomásia pronunciava orações<br/>que levantavam os ouvintes. A escritora Francisca<br/>Clotilde arrebatava, declamando seus poemas. Aquelas<br/>“angélicas senhoras”, “heroínas da caridade”, levantavam<br/>dinheiro para comprar liberdades e usavam de seu<br/>entusiasmo a fim de convencer os donos de escravos a<br/>fazerem alforrias gratuitamente.",
-                            "caption": "MIRANDA, A. Disponível em: www.opovoonline.com.br. Acesso em: 10 jun. 2015."
+                            "snippet": "A poetisa Emília Freitas subiu a um palanque,<br/>nervosa, pedindo desculpas por não possuir títulos nem<br/>conhecimentos, mas orgulhosa ofereceu a sua pena<br/>que “sem ser hábil, é, em compensação, guiada pelo<br/>poder da vontade”. Maria Tomásia pronunciava orações<br/>que levantavam os ouvintes. A escritora Francisca<br/>Clotilde arrebatava, declamando seus poemas. Aquelas<br/>“angélicas senhoras”, “heroínas da caridade”, levantavam<br/>dinheiro para comprar liberdades e usavam de seu<br/>entusiasmo a fim de convencer os donos de escravos a<br/>fazerem alforrias gratuitamente."
                         },
                         {
                             "statement": "As práticas culturais narradas remetem, historicamente, ao movimento"
@@ -2206,8 +2241,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "A democracia que eles pretendem é a democracia<br/>dos privilégios, a democracia da intolerância e do ódio.<br/>A democracia que eles querem é para liquidar com a<br/>Petrobras, é a democracia dos monopólios, nacionais e<br/>internacionais, a democracia que pudesse lutar contra<br/>o povo. Ainda ontem eu afirmava que a democracia<br/>jamais poderia ser ameaçada pelo povo, quando o povo<br/>livremente vem para as praças – as praças que são do<br/>povo. Para as ruas – que são do povo.",
-                            "caption": "Disponível em: www.revistadehistoria.com.br/secao/artigos/discurso-de-joao-goulart-nocomicio-da-central. Acesso em: 29 out. 2015."
+                            "snippet": "A democracia que eles pretendem é a democracia<br/>dos privilégios, a democracia da intolerância e do ódio.<br/>A democracia que eles querem é para liquidar com a<br/>Petrobras, é a democracia dos monopólios, nacionais e<br/>internacionais, a democracia que pudesse lutar contra<br/>o povo. Ainda ontem eu afirmava que a democracia<br/>jamais poderia ser ameaçada pelo povo, quando o povo<br/>livremente vem para as praças – as praças que são do<br/>povo. Para as ruas – que são do povo."
                         },
                         {
                             "statement": "Em um momento de radicalização política, a retórica no discurso do presidente João Goulart, proferido no comício da Central do Brasil, buscava justificar a necessidade de"
@@ -2243,8 +2277,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "A rebelião luso-brasileira em Pernambuco começou<br/>a ser urdida em 1644 e explodiu em 13 de junho de<br/>1645, dia de Santo Antônio. Uma das primeiras medidas<br/>de João Fernandes foi decretar nulas as dívidas que<br/>os rebeldes tinham com os holandeses. Houve grande<br/>adesão da “nobreza da terra”, entusiasmada com esta<br/>proclamação heroica.",
-                            "caption": "VAINFAS, R. Guerra declarada e paz fingida na restauração portuguesa. Tempo, n. 27, 2009."
+                            "snippet": "A rebelião luso-brasileira em Pernambuco começou<br/>a ser urdida em 1644 e explodiu em 13 de junho de<br/>1645, dia de Santo Antônio. Uma das primeiras medidas<br/>de João Fernandes foi decretar nulas as dívidas que<br/>os rebeldes tinham com os holandeses. Houve grande<br/>adesão da “nobreza da terra”, entusiasmada com esta<br/>proclamação heroica."
                         },
                         {
                             "statement": "O desencadeamento dessa revolta na América portuguesa seiscentista foi o resultado do(a)"
@@ -2280,8 +2313,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Em Beirute, no Líbano, quando perguntado sobre<br/>onde se encontram os refugiados sírios, a resposta do<br/>homem é imediata: “em todos os lugares e em lugar<br/>nenhum”. Andando ao acaso, não é raro ver, sob um<br/>prédio ou num canto de calçada, ao abrigo do vento, uma<br/>família refugiada em volta de uma refeição frugal posta<br/>sobre jornais como se fossem guardanapos. Também se<br/>vê de vez em quando uma tenda com a sigla ACNUR<br/>(Alto Comissariado das Nações Unidas para Refugiados),<br/>erguida em um dos raros terrenos vagos da capital.",
-                            "caption": "JABER, H. Quem realmente acolhe os refugiados?<br/>Le Monde Diplomatique Brasil, out. 2015 (adaptado)."
+                            "snippet": "Em Beirute, no Líbano, quando perguntado sobre<br/>onde se encontram os refugiados sírios, a resposta do<br/>homem é imediata: “em todos os lugares e em lugar<br/>nenhum”. Andando ao acaso, não é raro ver, sob um<br/>prédio ou num canto de calçada, ao abrigo do vento, uma<br/>família refugiada em volta de uma refeição frugal posta<br/>sobre jornais como se fossem guardanapos. Também se<br/>vê de vez em quando uma tenda com a sigla ACNUR<br/>(Alto Comissariado das Nações Unidas para Refugiados),<br/>erguida em um dos raros terrenos vagos da capital."
                         },
                         {
                             "statement": "O cenário descrito aponta para uma crise humanitária que é explicada pelo processo de"
@@ -2322,8 +2354,7 @@
                         },
                         {
                             "title": "TEXTO II",
-                            "snippet": "<h2>Programa da União Democrática Nacional (UDN)<br/>O capital</h2> Apelar para o capital estrangeiro, necessário para os<br/>empreendimentos da reconstrução nacional e, sobretudo,<br/>para o aproveitamento das nossas reservas inexploradas,<br/>dando-lhe um tratamento equitativo e liberdade para a<br/>saída dos juros.",
-                            "caption": "CHACON, V. História dos partidos brasileiros: discurso e práxis dos seus programas.<br/>Brasília: UnB, 1981 (adaptado)."
+                            "snippet": "<h2>Programa da União Democrática Nacional (UDN)<br/>O capital</h2> Apelar para o capital estrangeiro, necessário para os<br/>empreendimentos da reconstrução nacional e, sobretudo,<br/>para o aproveitamento das nossas reservas inexploradas,<br/>dando-lhe um tratamento equitativo e liberdade para a<br/>saída dos juros."
                         },
                         {
                             "statement": "Considerando as décadas de 1950 e 1960 no Brasil, os trechos dos programas do PSD e UDN convergiam na defesa da"
@@ -2359,8 +2390,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "A situação demográfica de Israel é muito particular.<br/>Desde 1967, a esquerda sionista afirma que Israel deveria<br/>se desfazer rapidamente da Cisjordânia e da Faixa de<br/>Gaza, argumentando a partir de uma lógica demográfica<br/>aparentemente inexorável. Devido à taxa de nascimento<br/>árabe ser muito mais elevada, a anexação dos territórios<br/>palestinos, formal ou informal, acarretaria dentro de uma<br/>ou duas gerações uma maioria árabe “entre o rio e o mar”.",
-                            "caption": "DEMANT, P. Israel: a crise próxima. História, n. 2, jul.-dez. 2014."
+                            "snippet": "A situação demográfica de Israel é muito particular.<br/>Desde 1967, a esquerda sionista afirma que Israel deveria<br/>se desfazer rapidamente da Cisjordânia e da Faixa de<br/>Gaza, argumentando a partir de uma lógica demográfica<br/>aparentemente inexorável. Devido à taxa de nascimento<br/>árabe ser muito mais elevada, a anexação dos territórios<br/>palestinos, formal ou informal, acarretaria dentro de uma<br/>ou duas gerações uma maioria árabe “entre o rio e o mar”."
                         },
                         {
                             "statement": "A preocupação apresentada no texto revela um aspecto da condução política desse Estado identificado ao(à)"
@@ -2396,9 +2426,15 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "title": "Trajetória de ciclones tropicais",
-                            "image_source": "",
-                            "caption": "Disponível em: http://globalwarmingart.com. Acesso em: 12 jul. 2015 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/a0a0606a-6c79-4ae5-a489-1f875e595b96.jpg",
+                                    "caption": "Disponível em: http://globalwarmingart.com. Acesso em: 12 jul. 2015 (adaptado)."
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Trajetória de ciclones tropicais"
                         },
                         {
                             "statement": "Qual característica do meio físico é condição necessária para a distribuição espacial do fenômeno representado?"
@@ -2434,8 +2470,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Outra importante manifestação das crenças e tradições africanas na Colônia eram os objetos conhecidos como “bolsas de mandinga”. A insegurança tanto física como espiritual gerava uma necessidade generalizada de proteção: das catástrofes da natureza, das doenças, da má sorte, da violência dos núcleos urbanos, dos roubos, das brigas, dos malefícios de feiticeiros etc. Também para trazer sorte, dinheiro e até atrair mulheres, o costume era corrente nas primeiras décadas do século XVIII, envolvendo não apenas escravos, mas também homens brancos.",
-                            "caption": " CALAINHO, D. B. Feitiços e feiticeiros. In: FIGUEIREDO, L. História do Brasil para ocupados.<br/>Rio de Janeiro: Casa da Palavra, 2013 (adaptado)."
+                            "snippet": "Outra importante manifestação das crenças e tradições africanas na Colônia eram os objetos conhecidos como “bolsas de mandinga”. A insegurança tanto física como espiritual gerava uma necessidade generalizada de proteção: das catástrofes da natureza, das doenças, da má sorte, da violência dos núcleos urbanos, dos roubos, das brigas, dos malefícios de feiticeiros etc. Também para trazer sorte, dinheiro e até atrair mulheres, o costume era corrente nas primeiras décadas do século XVIII, envolvendo não apenas escravos, mas também homens brancos."
                         },
                         {
                             "statement": "A prática histórico-cultural de matriz africana descrita no texto representava um(a)"
@@ -2471,8 +2506,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Os portos sempre foram respostas ao comércio<br/>praticado em grande volume, que se dá via marítima,<br/>lacustre e fluvial, e sofreram adaptações, ou<br/>modernizações, de acordo com um conjunto de fatores<br/>que vão desde a sua localização privilegiada frente a<br/>extensas hinterlândias, passando por sua conectividade<br/>com modernas redes de transportes que garantam<br/>acessibilidade, associados, no atual momento, à<br/>tecnologia, que os transformam em pontas de lança de<br/>uma economia globalizada que comprime o tempo em<br/>nome da produtividade e da competitividade.",
-                            "caption": "ROCHA NETO, J. M.; CRAVIDÃO, F. D. Portos no contexto do meio técnico.<br/> Mercator, n. 2, maio-ago. 2014 (adaptado)."
+                            "snippet": "Os portos sempre foram respostas ao comércio<br/>praticado em grande volume, que se dá via marítima,<br/>lacustre e fluvial, e sofreram adaptações, ou<br/>modernizações, de acordo com um conjunto de fatores<br/>que vão desde a sua localização privilegiada frente a<br/>extensas hinterlândias, passando por sua conectividade<br/>com modernas redes de transportes que garantam<br/>acessibilidade, associados, no atual momento, à<br/>tecnologia, que os transformam em pontas de lança de<br/>uma economia globalizada que comprime o tempo em<br/>nome da produtividade e da competitividade."
                         },
                         {
                             "statement": "Uma mudança que permitiu aos portos adequarem-se às novas necessidades comerciais apontadas no texto foi a"
@@ -2508,8 +2542,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "O século XVIII é, por diversas razões, um século diferenciado. Razão e experimentação se aliavam no que se acreditava ser o verdadeiro caminho para o estabelecimento do conhecimento científico, por tanto tempo almejado. O fato, a análise e a indução passavam a ser parceiros fundamentais da razão. É ainda no século XVIII que o homem começa a tomar consciência de sua situação na história.",
-                            "caption": "ODALIA, N. In: PINSKY, J.; PINSKY, C. B. História da cidadania. São Paulo: Contexto, 2003."
+                            "snippet": "O século XVIII é, por diversas razões, um século diferenciado. Razão e experimentação se aliavam no que se acreditava ser o verdadeiro caminho para o estabelecimento do conhecimento científico, por tanto tempo almejado. O fato, a análise e a indução passavam a ser parceiros fundamentais da razão. É ainda no século XVIII que o homem começa a tomar consciência de sua situação na história."
                         },
                         {
                             "statement": "No ambiente cultural do Antigo Regime, a discussão filosófica mencionada no texto tinha como uma de suas características a"
@@ -2545,8 +2578,12 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "image_source": "",
-                            "caption": "Disponível em: www.biologiasur.org. Acesso em: 4 jul. 2015 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/73270587-1fb0-4984-8b55-3da386be867a.png",
+                                    "caption": "Disponível em: www.biologiasur.org. Acesso em: 4 jul. 2015 (adaptado)."
+                                }
+                            ]
                         },
                         {
                             "statement": "A dinâmica hidrológica expressa no gráfico demonstra que o processo de urbanização promove a"
@@ -2582,8 +2619,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "O encontro entre o Velho e o Novo Mundo, que a descoberta de Colombo tornou possível, é de um tipo muito particular: é uma guerra – ou a Conquista –, como se dizia então. E um mistério continua: o resultado do combate. Por que a vitória fulgurante, se os habitantes da América eram tão superiores em número aos adversários e lutaram no próprio solo? Se nos limitarmos à conquista do México – a mais espetacular, já que a civilização mexicana é a mais brilhante do mundo pré-colombiano – como explicar que Cortez, liderando centenas de homens, tenha conseguido tomar o reino de Montezuma, que dispunha de centenas de milhares de guerreiros?.",
-                            "caption": "TODOROV, T. A conquista da América. São Paulo: Martins Fontes, 1991 (adaptado)."
+                            "snippet": "O encontro entre o Velho e o Novo Mundo, que a descoberta de Colombo tornou possível, é de um tipo muito particular: é uma guerra – ou a Conquista –, como se dizia então. E um mistério continua: o resultado do combate. Por que a vitória fulgurante, se os habitantes da América eram tão superiores em número aos adversários e lutaram no próprio solo? Se nos limitarmos à conquista do México – a mais espetacular, já que a civilização mexicana é a mais brilhante do mundo pré-colombiano – como explicar que Cortez, liderando centenas de homens, tenha conseguido tomar o reino de Montezuma, que dispunha de centenas de milhares de guerreiros?."
                         },
                         {
                             "statement": "No contexto da conquista, conforme análise apresentada no texto, uma estratégia para superar as disparidades levantadas foi"
@@ -2619,8 +2655,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "São Paulo, 10 de janeiro de 1979.<br/>Exmo. Sr. Presidente Ernesto Geisel.<br/>Considerando as instruções dadas por V. S. de que<br/>sejam negados os passaportes aos senhores Francisco<br/>Julião, Miguel Arraes, Leonel Brizola, Luis Prestes,<br/>Paulo Schilling, Gregório Bezerra, Márcio Moreira Alves<br/>e Paulo Freire.<br/>Considerando que, desde que nasci, me identifico<br/>plenamente com a pele, a cor dos cabelos, a cultura,<br/>o sorriso, as aspirações, a história e o sangue destes<br/>oito senhores.<br/>Considerando tudo isto, por imperativo de minha<br/>consciência, venho por meio desta devolver o passaporte<br/>que, negado a eles, me foi concedido pelos órgãos<br/>competentes de seu governo.",
-                            "caption": "Carta do cartunista Henrique de Souza Filho, conhecido como Henfil. In: HENFIL.<br/>Cartas da mãe. Rio de Janeiro: Codecri, 1981 (adaptado)."
+                            "snippet": "São Paulo, 10 de janeiro de 1979.<br/>Exmo. Sr. Presidente Ernesto Geisel.<br/>Considerando as instruções dadas por V. S. de que<br/>sejam negados os passaportes aos senhores Francisco<br/>Julião, Miguel Arraes, Leonel Brizola, Luis Prestes,<br/>Paulo Schilling, Gregório Bezerra, Márcio Moreira Alves<br/>e Paulo Freire.<br/>Considerando que, desde que nasci, me identifico<br/>plenamente com a pele, a cor dos cabelos, a cultura,<br/>o sorriso, as aspirações, a história e o sangue destes<br/>oito senhores.<br/>Considerando tudo isto, por imperativo de minha<br/>consciência, venho por meio desta devolver o passaporte<br/>que, negado a eles, me foi concedido pelos órgãos<br/>competentes de seu governo."
                         },
                         {
                             "statement": "No referido contexto histórico, a manifestação do cartunista Henfil expressava uma crítica ao(à)"
@@ -2656,8 +2691,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "A primeira fase da dominação da economia sobre a vida social acarretou, no modo de definir toda realização humana, uma evidente degradação do ser para o ter. A fase atual, em que a vida social está totalmente tomada pelos resultados da economia, leva a um deslizamento generalizado do ter para o parecer, do qual todo ter efetivo deve extrair seu prestígio imediato e sua função última. Ao mesmo tempo, toda realidade individual tornou-se social, diretamente dependente da força social, moldada por ela.",
-                            "caption": "DEBORD, G. A sociedade do espetáculo. Rio de Janeiro: Contraponto, 2015."
+                            "snippet": "A primeira fase da dominação da economia sobre a vida social acarretou, no modo de definir toda realização humana, uma evidente degradação do ser para o ter. A fase atual, em que a vida social está totalmente tomada pelos resultados da economia, leva a um deslizamento generalizado do ter para o parecer, do qual todo ter efetivo deve extrair seu prestígio imediato e sua função última. Ao mesmo tempo, toda realidade individual tornou-se social, diretamente dependente da força social, moldada por ela."
                         },
                         {
                             "statement": "Uma manifestação contemporânea do fenômeno descrito no texto é o(a)"
@@ -2693,8 +2727,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Os seus líderes terminaram presos e assassinados. A “marujada” rebelde foi inteiramente expulsa da esquadra. Num sentido histórico, porém, eles foram vitoriosos. A “chibata” e outros castigos físicos infamantes nunca mais foram oficialmente utilizados; a partir de então, os marinheiros – agora respeitados – teriam suas condições de vida melhoradas significativamente. Sem dúvida fizeram avançar a História.",
-                            "caption": "MAESTRI, M. 1910: a revolta dos marinheiros – uma saga negra. São Paulo: Global, 1982."
+                            "snippet": "Os seus líderes terminaram presos e assassinados. A “marujada” rebelde foi inteiramente expulsa da esquadra. Num sentido histórico, porém, eles foram vitoriosos. A “chibata” e outros castigos físicos infamantes nunca mais foram oficialmente utilizados; a partir de então, os marinheiros – agora respeitados – teriam suas condições de vida melhoradas significativamente. Sem dúvida fizeram avançar a História."
                         },
                         {
                             "statement": "A eclosão desse conflito foi resultado da tensão acumulada na Marinha do Brasil pelo(a)"
@@ -2730,8 +2763,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Uma pesquisa realizada por Carolina Levis, especialista em ecologia do Instituto Nacional de Pesquisas da Amazônia, e publicada na revista Science, demonstra que as espécies vegetais domesticadas pelas civilizações pré-colombianas são as mais dominantes. “A domesticação de plantas na floresta começou há mais de 8 000 anos. Primeiro eram selecionadas as plantas com características que poderiam ser úteis ao homem e em um segundo momento era feita a propagação dessas espécies. Começaram a cultivá-las em pátios e jardins, por meio de um processo quase intuitivo de seleção”.",
-                            "caption": "OLIVEIRA, J. Indígenas foram os primeiros a alterar o ecossistema da Amazônia.<br/>Disponível em: https://brasil.elpais.com. Acesso em: 11 dez. 2017 (adaptado)."
+                            "snippet": "Uma pesquisa realizada por Carolina Levis, especialista em ecologia do Instituto Nacional de Pesquisas da Amazônia, e publicada na revista Science, demonstra que as espécies vegetais domesticadas pelas civilizações pré-colombianas são as mais dominantes. “A domesticação de plantas na floresta começou há mais de 8 000 anos. Primeiro eram selecionadas as plantas com características que poderiam ser úteis ao homem e em um segundo momento era feita a propagação dessas espécies. Começaram a cultivá-las em pátios e jardins, por meio de um processo quase intuitivo de seleção”."
                         },
                         {
                             "statement": "O texto apresenta um novo olhar sobre a configuração da Floresta Amazônica por romper com a ideia de"
@@ -2768,13 +2800,11 @@
                     "header": [
                         {
                             "title": "TEXTO I",
-                            "snippet": "Quando um exército atravessa montanhas, florestas, zonas de precipícios, ou marcha ao longo de desfiladeiros, alagadiços ou pântanos, ou qualquer outro terreno onde a deslocação é árdua, está em terreno difícil. O terreno onde é apertado e a sua saída é tortuosa e onde uma pequena força inimiga pode atacar a minha, embora maior, é cercado.",
-                            "caption": "TZU, S. A arte da guerra. São Paulo: Martin Claret, 2001."
+                            "snippet": "Quando um exército atravessa montanhas, florestas, zonas de precipícios, ou marcha ao longo de desfiladeiros, alagadiços ou pântanos, ou qualquer outro terreno onde a deslocação é árdua, está em terreno difícil. O terreno onde é apertado e a sua saída é tortuosa e onde uma pequena força inimiga pode atacar a minha, embora maior, é cercado."
                         },
                         {
                             "title": "TEXTO II",
-                            "snippet": "O objetivo principal era encontrar e matar Osama Bin Laden. Onde ele se esconde? Não podemos esquecer a dificuldade de ocupação do país, que possui um relevo montanhoso, cheio de cavernas, onde fica fácil, para quem está acostumado com esse relevo, esconder-se.",
-                            "caption": "OLIVEIRA, M. G.; SANTOS, M. S. Ásia: uma visão histórica, política e econômica do<br/>continente. Rio de Janeiro: E-Papers, 2009 (adaptado)."
+                            "snippet": "O objetivo principal era encontrar e matar Osama Bin Laden. Onde ele se esconde? Não podemos esquecer a dificuldade de ocupação do país, que possui um relevo montanhoso, cheio de cavernas, onde fica fácil, para quem está acostumado com esse relevo, esconder-se."
                         },
                         {
                             "statement": "As situações apresentadas atestam a importância da relação entre a topografia e o(a)"
@@ -2810,8 +2840,12 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "image_source": "",
-                            "caption": "Disponível em: http://cpdoc.fgv.br. Acesso em: 6 dez. 2017."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/2b951ad4-eeb9-4c23-ba14-2931cf1441b9.jpg",
+                                    "caption": "Disponível em: http://cpdoc.fgv.br. Acesso em: 6 dez. 2017."
+                                }
+                            ]
                         },
                         {
                             "statement": "Essa imagem foi impressa em cartilha escolar durante a vigência do Estado Novo com o intuito de"
@@ -2847,8 +2881,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Os países industriais adotaram uma concepção diferente das relações familiares e do lugar da fecundidade na vida familiar e social. A preocupação de garantir uma transmissão integral das vantagens econômicas e sociais adquiridas tem como resultado uma ação voluntária de limitação do número de nascimentos.",
-                            "caption": "GEORGE, P. Panorama do mundo atual. São Paulo: Difusão Europeia do Livro, 1968 (adaptado)."
+                            "snippet": "Os países industriais adotaram uma concepção diferente das relações familiares e do lugar da fecundidade na vida familiar e social. A preocupação de garantir uma transmissão integral das vantagens econômicas e sociais adquiridas tem como resultado uma ação voluntária de limitação do número de nascimentos."
                         },
                         {
                             "statement": "Em meados do século XX, o fenômeno social descrito contribuiu para o processo europeu de"
@@ -2885,8 +2918,7 @@
                     "header": [
                         {
                             "title": "Código Penal dos Estados Unidos do Brasil, 1890",
-                            "snippet": "<h2>Dos crimes contra a saúde pública</h2> Art. 156. Exercer a medicina em qualquer dos seus ramos, a arte dentária ou a farmácia; praticar a homeopatia, a dosimetria, o hipnotismo ou magnetismo animal, sem estar habilitado segundo as leis e regulamentos.<br/> Art. 158. Ministrar, ou simplesmente prescrever, como meio curativo para uso interno ou externo, e sob qualquer forma preparada, substância de qualquer dos reinos da natureza, fazendo, ou exercendo assim, o ofício denominado curandeiro.",
-                            "caption": "Disponível em: http://legis.senado.gov.br. Acesso em: 21 dez. 2014 (adaptado)."
+                            "snippet": "<h2>Dos crimes contra a saúde pública</h2> Art. 156. Exercer a medicina em qualquer dos seus ramos, a arte dentária ou a farmácia; praticar a homeopatia, a dosimetria, o hipnotismo ou magnetismo animal, sem estar habilitado segundo as leis e regulamentos.<br/> Art. 158. Ministrar, ou simplesmente prescrever, como meio curativo para uso interno ou externo, e sob qualquer forma preparada, substância de qualquer dos reinos da natureza, fazendo, ou exercendo assim, o ofício denominado curandeiro."
                         },
                         {
                             "statement": "No início da Primeira República, a legislação penal vigente evidenciava o(a)"
@@ -2922,8 +2954,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "A presunção de que a superfície das chapadas e chapadões representa uma velha peneplanície é corroborada pelo fato de que ela é coberta por acumulações superficiais, tais como massas de areia, camadas de cascalhos e seixos e pela ocorrência generalizada de concreções ferruginosas que formam uma crosta laterítica, denominada “canga”.",
-                            "caption": "WEIBEL, L. Disponível em: http://biblioteca.ibge.gov.br. Acesso em: 8 jul. 2015 (adaptado)."
+                            "snippet": "A presunção de que a superfície das chapadas e chapadões representa uma velha peneplanície é corroborada pelo fato de que ela é coberta por acumulações superficiais, tais como massas de areia, camadas de cascalhos e seixos e pela ocorrência generalizada de concreções ferruginosas que formam uma crosta laterítica, denominada “canga”."
                         },
                         {
                             "statement": "Qual tipo climático favorece o processo de alteração do solo descrito no texto?"
@@ -2959,8 +2990,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "O marco inicial das discussões parlamentares em torno do direito do voto feminino são os debates que antecederam a Constituição de 1824, que não trazia qualquer impedimento ao exercício dos direitos políticos por mulheres, mas, por outro lado, também não era explícita quanto à possibilidade desse exercício. Foi somente em 1932, dois anos antes de estabelecido o voto aos 18 anos, que as mulheres obtiveram o direito de votar, o que veio a se concretizar no ano seguinte. Isso ocorreu a partir da aprovação do Código Eleitoral de 1932.",
-                            "caption": "Disponível em: http://tse.jusbrasil.com.br. Acesso em: 14 maio 2018."
+                            "snippet": "O marco inicial das discussões parlamentares em torno do direito do voto feminino são os debates que antecederam a Constituição de 1824, que não trazia qualquer impedimento ao exercício dos direitos políticos por mulheres, mas, por outro lado, também não era explícita quanto à possibilidade desse exercício. Foi somente em 1932, dois anos antes de estabelecido o voto aos 18 anos, que as mulheres obtiveram o direito de votar, o que veio a se concretizar no ano seguinte. Isso ocorreu a partir da aprovação do Código Eleitoral de 1932."
                         },
                         {
                             "statement": "Um dos fatores que contribuíram para a efetivação da medida mencionada no texto foi a"
@@ -2996,8 +3026,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "A quem não basta pouco, nada basta.",
-                            "caption": "EPICURO. Os pensadores. São Paulo: Abril Cultural, 1985."
+                            "snippet": "A quem não basta pouco, nada basta."
                         },
                         {
                             "statement": "Remanescente do período helenístico, a máxima apresentada valoriza a seguinte virtude:"
@@ -3033,8 +3062,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Em algumas línguas de Moçambique não existe a palavra “pobre”. O indivíduo é pobre quando não tem parentes. A pobreza é a solidão, a ruptura das relações familiares que, na sociedade rural, servem de apoio à sobrevivência. Os consultores internacionais, especialistas em elaborar relatórios sobre a miséria, talvez não tenham em conta o impacto dramático da destruição dos laços familiares e das relações de entreajuda. Nações inteiras estão tornando-se “órfãs”, e a mendicidade parece ser a única via de uma agonizante sobrevivência.",
-                            "caption": "COUTO, M. E se Obama fosse africano? & outras intervenções.<br/>Portugal: Caminho, 2009 (adaptado)."
+                            "snippet": "Em algumas línguas de Moçambique não existe a palavra “pobre”. O indivíduo é pobre quando não tem parentes. A pobreza é a solidão, a ruptura das relações familiares que, na sociedade rural, servem de apoio à sobrevivência. Os consultores internacionais, especialistas em elaborar relatórios sobre a miséria, talvez não tenham em conta o impacto dramático da destruição dos laços familiares e das relações de entreajuda. Nações inteiras estão tornando-se “órfãs”, e a mendicidade parece ser a única via de uma agonizante sobrevivência."
                         },
                         {
                             "statement": "Em uma leitura que extrapola a esfera econômica, o autor associa o acirramento da pobreza à"
@@ -3071,13 +3099,11 @@
                     "header": [
                         {
                             "title": "TEXTO I",
-                            "snippet": "As fronteiras, ao mesmo tempo que se separam, unem e articulam, por elas passando discursos de legitimação da ordem social tanto quanto do conflito.",
-                            "caption": "CUNHA, L. Terras lusitanas e gentes dos brasis: a nação e o seu retrato literário.<br/>Revista Ciências Sociais, n. 2, 2009."
+                            "snippet": "As fronteiras, ao mesmo tempo que se separam, unem e articulam, por elas passando discursos de legitimação da ordem social tanto quanto do conflito."
                         },
                         {
                             "title": "TEXTO II",
-                            "snippet": "As últimas barreiras ao livre movimento do dinheiro e das mercadorias e informação que rendem dinheiro andam de mãos dadas com a pressão para cavar novos fossos e erigir novas muralhas que barrem o movimento daqueles que em consequência perdem, física ou espiritualmente, suas raízes.",
-                            "caption": "BAUMAN, Z. Globalização: as consequências humanas.<br/>Rio de Janeiro: Jorge Zahar, 1999."
+                            "snippet": "As últimas barreiras ao livre movimento do dinheiro e das mercadorias e informação que rendem dinheiro andam de mãos dadas com a pressão para cavar novos fossos e erigir novas muralhas que barrem o movimento daqueles que em consequência perdem, física ou espiritualmente, suas raízes."
                         },
                         {
                             "statement": "A ressignificação contemporânea da ideia de fronteira compreende a"
@@ -3117,10 +3143,16 @@
                             "snippet": "Há mais de duas décadas, os cientistas e ambientalistas têm alertado para o fato de a água doce ser um recurso escasso em nosso planeta. Desde o começo de 2014, o Sudeste do Brasil adquiriu uma clara percepção dessa realidade em função da seca."
                         },
                         {
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/ff6ded0c-ede2-4603-b8a9-ad5b1b6c1ded.png",
+                                    "caption": "MARENGO, J. A. et al. A seca e a crise hídrica de 2014-2015 em São Paulo. Revista USP, n. 106, 2015 (adaptado)."
+                                }
+                            ]
+                        },
+                        {
                             "title": "TEXTO II",
-                            "snippet": "<h2>Dinâmicas atmosféricas no Brasil</h2> Elementos relevantes ao transporte de umidade na América do Sul a leste dos Andes pelos Jatos de Baixos Níveis (JBN), Frentes Frias (FF) e transporte de umidade do Atlântico Sul, assim como a presença da Zona de Convergência do Atlântico Sul (ZCAS), para um verão normal e para o verão seco de 2014. “A” representa o centro da anomalia de alta pressão atmosférica.",
-                            "image_source": "",
-                            "caption": "MARENGO, J. A. et al. A seca e a crise hídrica de 2014-2015 em São Paulo. Revista USP, n. 106, 2015 (adaptado)."
+                            "snippet": "<h2>Dinâmicas atmosféricas no Brasil</h2> Elementos relevantes ao transporte de umidade na América do Sul a leste dos Andes pelos Jatos de Baixos Níveis (JBN), Frentes Frias (FF) e transporte de umidade do Atlântico Sul, assim como a presença da Zona de Convergência do Atlântico Sul (ZCAS), para um verão normal e para o verão seco de 2014. “A” representa o centro da anomalia de alta pressão atmosférica."
                         },
                         {
                             "statement": "De acordo com as informações apresentadas, a seca de 2014, no Sudeste, teve como causa natural o(a)"
@@ -3156,8 +3188,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Não é verdade que estão ainda cheios de velhice espiritual aqueles que nos dizem: “Que fazia Deus antes de criar o céu e a terra? Se estava ocioso e nada realizava”, dizem eles, “por que não ficou sempre assim no decurso dos séculos, abstendo-se, como antes, de toda ação? Se existiu em Deus um novo movimento, uma vontade nova para dar o ser a criaturas que nunca antes criara, como pode haver verdadeira eternidade, se n’Ele aparece uma vontade que antes não existia?”.",
-                            "caption": "AGOSTINHO. Confissões. São Paulo: Abril Cultural, 1984."
+                            "snippet": "Não é verdade que estão ainda cheios de velhice espiritual aqueles que nos dizem: “Que fazia Deus antes de criar o céu e a terra? Se estava ocioso e nada realizava”, dizem eles, “por que não ficou sempre assim no decurso dos séculos, abstendo-se, como antes, de toda ação? Se existiu em Deus um novo movimento, uma vontade nova para dar o ser a criaturas que nunca antes criara, como pode haver verdadeira eternidade, se n’Ele aparece uma vontade que antes não existia?”."
                         },
                         {
                             "statement": "A questão da eternidade, tal como abordada pelo autor, é um exemplo da reflexão filosófica sobre a(s)"
@@ -3193,8 +3224,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Rodrigo havia sido indicado pela oposição para fiscal duma das mesas eleitorais. Pôs o revólver na cintura, uma caixa de balas no bolso e encaminhou-se para seu posto. A chamada dos eleitores começou às sete da manhã. Plantados junto da porta, os capangas do Trindade ofereciam cédulas com o nome dos candidatos oficiais a todos os eleitores que entravam. Estes, em sua quase totalidade, tomavam docilmente dos papeluchos e depositavam-nos na urna, depois de assinar a autêntica. Os que se recusavam a isso tinham seus nomes acintosamente anotados.",
-                            "caption": "VERISSIMO, E. O tempo e o vento. São Paulo: Globo, 2003 (adaptado)."
+                            "snippet": "Rodrigo havia sido indicado pela oposição para fiscal duma das mesas eleitorais. Pôs o revólver na cintura, uma caixa de balas no bolso e encaminhou-se para seu posto. A chamada dos eleitores começou às sete da manhã. Plantados junto da porta, os capangas do Trindade ofereciam cédulas com o nome dos candidatos oficiais a todos os eleitores que entravam. Estes, em sua quase totalidade, tomavam docilmente dos papeluchos e depositavam-nos na urna, depois de assinar a autêntica. Os que se recusavam a isso tinham seus nomes acintosamente anotados."
                         },
                         {
                             "statement": "Erico Verissimo tematiza em obra ficcional o seguinte aspecto característico da vida política durante a Primeira República:"
@@ -3230,8 +3260,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Então disse: “Este é o local onde construirei. Tudo pode chegar aqui pelo Eufrates, o Tigre e uma rede de canais. Só um lugar como este sustentará o exército e a população geral”. Assim ele traçou e destinou as verbas para a sua construção, e deitou o primeiro tijolo com sua própria mão, dizendo: “Em nome de Deus, e em louvor a Ele. Construí, e que Deus vos abençoe”.",
-                            "caption": "AL-TABARI, M. Uma história dos povos árabes.<br/>São Paulo: Cia. das Letras, 1995 (adaptado)."
+                            "snippet": "Então disse: “Este é o local onde construirei. Tudo pode chegar aqui pelo Eufrates, o Tigre e uma rede de canais. Só um lugar como este sustentará o exército e a população geral”. Assim ele traçou e destinou as verbas para a sua construção, e deitou o primeiro tijolo com sua própria mão, dizendo: “Em nome de Deus, e em louvor a Ele. Construí, e que Deus vos abençoe”."
                         },
                         {
                             "statement": "A decisão do califa Al-Mansur (754-775) de construir Bagdá nesse local orientou-se pela"
@@ -3267,8 +3296,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "A agricultura ecológica e a produção orgânica de alimentos estão ganhando relevância em diferentes partes do mundo. No campo brasileiro, também acontece o mesmo. Impulsionado especialmente pela expansão da demanda de alimentos saudáveis, o setor cresce a cada ano, embora permaneça relativamente marginalizado na agenda de prioridades da política agrícola praticada no país.",
-                            "caption": "AQUINO, J. R.; GAZOLLA, M.; SCHNEIDER, S. In: SAMBUICHI, R. H. R. et al. (Org.).<br/>A política nacional de agroecologia e produção orgânica no Brasil: uma trajetória de<br/>luta pelo desenvolvimento rural sustentável. Brasília: Ipea, 2017 (adaptado)."
+                            "snippet": "A agricultura ecológica e a produção orgânica de alimentos estão ganhando relevância em diferentes partes do mundo. No campo brasileiro, também acontece o mesmo. Impulsionado especialmente pela expansão da demanda de alimentos saudáveis, o setor cresce a cada ano, embora permaneça relativamente marginalizado na agenda de prioridades da política agrícola praticada no país."
                         },
                         {
                             "statement": "Que tipo de intervenção do poder público no espaço rural é capaz de reduzir a marginalização produtiva apresentada no texto?"
@@ -3304,8 +3332,12 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "image_source": "",
-                            "caption": "Tônico para a saúde da mulher. Disponível em: www.propagandashistoricas.com.br.<br/> Acesso em: 28 nov. 2017."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/75e046a3-d776-4cfc-89fa-8caeb82a2d60.jpg",
+                                    "caption": "Tônico para a saúde da mulher. Disponível em: www.propagandashistoricas.com.br.<br/> Acesso em: 28 nov. 2017."
+                                }
+                            ]
                         },
                         {
                             "statement": "O anúncio publicitário da década de 1940 reforça os seguintes estereótipos atribuídos historicamente a uma suposta natureza feminina:"
@@ -3341,8 +3373,12 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "image_source": "",
-                            "caption": "IBGE. Produção da extração vegetal e da silvicultura. Rio de Janeiro: IBGE, 2014 (adaptado)."
+                            "image": [
+                                {
+                                    "image_source": "<host>/uploads/images/56e7ba24-9f43-48ef-8e21-f4bcce8f7608.png",
+                                    "caption": "IBGE. Produção da extração vegetal e da silvicultura. Rio de Janeiro: IBGE, 2014 (adaptado)."
+                                }
+                            ]
                         },
                         {
                             "statement": "Considerando as diferenças entre extrativismo vegetal e silvicultura, a variação das curvas do gráfico foi influenciada pela tendência de"
@@ -3378,8 +3414,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "No início da década de 1990, dois biólogos importantes, Redford e Robinson, produziram um modelo largamente aceito de “produção sustentável” que previa quantos indivíduos de cada espécie poderiam ser caçados de forma sustentável baseado nas suas taxas de reprodução. Os seringueiros do Alto Juruá tinham um modelo diferente: a quem lhes afirmava que estavam caçando acima do sustentável (dentro do modelo), eles diziam que não, que o nível da caça dependia da existência de áreas de refúgio em que ninguém caçava. Ora, esse acabou sendo o modelo batizado de “fonte-ralo” proposto dez anos após o primeiro por Novaro, Bodmer e o próprio Redford e que suplantou o modelo anterior.",
-                            "caption": "CUNHA, M. C. Revista USP, n. 75, set.-nov. 2007."
+                            "snippet": "No início da década de 1990, dois biólogos importantes, Redford e Robinson, produziram um modelo largamente aceito de “produção sustentável” que previa quantos indivíduos de cada espécie poderiam ser caçados de forma sustentável baseado nas suas taxas de reprodução. Os seringueiros do Alto Juruá tinham um modelo diferente: a quem lhes afirmava que estavam caçando acima do sustentável (dentro do modelo), eles diziam que não, que o nível da caça dependia da existência de áreas de refúgio em que ninguém caçava. Ora, esse acabou sendo o modelo batizado de “fonte-ralo” proposto dez anos após o primeiro por Novaro, Bodmer e o próprio Redford e que suplantou o modelo anterior."
                         },
                         {
                             "statement": "No contexto da produção científica, a necessidade de reconstrução desse modelo, conforme exposto no texto, foi determinada pelo confronto com um(a)"
@@ -3415,8 +3450,7 @@
                     "question_type": "radio",
                     "header": [
                         {
-                            "snippet": "Um dos teóricos da democracia moderna, Hans Kelsen, considera elemento essencial da democracia real (não da democracia ideal, que não existe em lugar algum) o método da seleção dos líderes, ou seja, a eleição. Exemplar, neste sentido, é a afirmação de um juiz da Corte Suprema dos Estados Unidos, por ocasião de uma eleição de 1902: “A cabine eleitoral é o templo das instituições americanas, onde cada um de nós é um sacerdote, ao qual é confiada a guarda da arca da aliança e cada um oficia do seu próprio altar”.",
-                            "caption": "BOBBIO, N. Teoria geral da política. Rio de Janeiro: Elsevier, 2000 (adaptado)."
+                            "snippet": "Um dos teóricos da democracia moderna, Hans Kelsen, considera elemento essencial da democracia real (não da democracia ideal, que não existe em lugar algum) o método da seleção dos líderes, ou seja, a eleição. Exemplar, neste sentido, é a afirmação de um juiz da Corte Suprema dos Estados Unidos, por ocasião de uma eleição de 1902: “A cabine eleitoral é o templo das instituições americanas, onde cada um de nós é um sacerdote, ao qual é confiada a guarda da arca da aliança e cada um oficia do seu próprio altar”."
                         },
                         {
                             "statement": "As metáforas utilizadas no texto referem-se a uma concepção de democracia fundamentada no(a)"

@@ -165,7 +165,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/1ddd4cb1-020a-4ee0-bd9c-69057157d034.png",
                                     "caption": "KEEFER, M. Disponível em: www.nj.com. Acesso em: 3 dez. 2018."
                                 }
                             ]
@@ -206,7 +206,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/5e5133c0-a1b5-4375-bdbf-369c6fdf495e.png",
                                     "caption": "Disponível em: http://palavrastempoder.org. Acesso em: 20 abr. 2015."
                                 }
                             ]
@@ -359,7 +359,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/e0464acb-1c05-4793-bab7-a97ca3569a80.png",
                                     "caption": "Disponível em: www.essl.pt. Acesso em: 9 maio 2019 (adaptado)."
                                 }
                             ]
@@ -438,7 +438,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/a85dd18d-4ebc-4629-9b84-10d23fd97abc.png",
                                     "caption": "LOYOLA, J. Disponível em: http://ladyscomics.com.br. Acesso em: 8 dez. 2018 (adaptado)."
                                 }
                             ],
@@ -636,7 +636,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/810fcbf9-bc84-49f8-8391-b16dece18fb3.png",
                                     "caption": "Disponível em: http://epoca.globo.com. Acesso em: 20 mar. 2014."
                                 }
                             ]
@@ -866,7 +866,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/9acb1fae-5697-4f2b-b1ed-4bbe41bd73f1.jpg",
                                     "caption": "Disponível em: www.acnur.org. Acesso em: 11 dez. 2018."
                                 }
                             ]
@@ -987,7 +987,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/19495c2e-15e4-4786-b06d-dd793374b536.jpg",
                                     "caption": "Disponível em: www.brasil.gov.br. Acesso em: 9 dez. 2018."
                                 }
                             ],
@@ -1185,7 +1185,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/f74ac805-2c03-4b53-a0c3-9313e2b69116.jpg",
                                     "caption": "PICASSO, P. Cabeça de touro. Bronze, 33,5 cm x 43,5 cm x 19 cm.<br/>Musée Picasso, Paris. França, 1945."
                                 }
                             ],
@@ -1376,7 +1376,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/3a653b80-3c68-4630-93e6-dd665618353d.jpg",
                                     "caption": "Fotografia de Jackson Pollock pintando em seu ateliê,<br/>realizada por Hans Namuth em 1951."
                                 }
                             ],
@@ -1386,7 +1386,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/ad127e61-c026-4f96-87e1-cb82bc8c9a6e.jpg",
                                     "caption": "MUNIZ, V. Action Photo (segundo Hans Namuth em Pictures<br/>in Chocolate). Impressão fotográfica, 152,4 cm x 121,92 cm,<br/>The Museum of Modern Art, Nova Iorque, 1977."
                                 }
                             ],
@@ -1652,7 +1652,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/08cd9054-5d6e-425d-8c9b-461d79e30070.jpg",
                                     "caption": "Disponível em: www.tecmundo.com.br.<br/>Acesso em: 10 dez. 2018 (adaptado)."
                                 }
                             ]
@@ -1804,7 +1804,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/af0fb8ba-0edc-4750-9283-e830ea3a0269.png",
                                     "caption": "Disponível em: www.ibge.gov.br. Acesso em: 11 dez. 2018 (adaptado)."
                                 }
                             ]
@@ -2179,7 +2179,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/a6fe9640-d7c2-4c3c-b44f-a16f38d35029.png",
                                     "caption": "SALGADO-LABOURIAL, M. L. História ecológica da Terra.<br/>São Paulo: Edgard Blucher, 1994 (adaptado)."
                                 }
                             ]
@@ -2257,7 +2257,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/3add7071-20b2-4e45-918e-f8b9f7aa8628.png",
                                     "caption": "Disponível em: https://hypescience.com. Acesso em: 1 dez. 2018 (adaptado)."
                                 }
                             ]
@@ -2951,7 +2951,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/50c8c47c-ae5c-4664-be60-c5dea5f95002.jpg",
                                     "caption": ""
                                 }
                             ]
@@ -3261,7 +3261,7 @@
                         {
                             "image": [
                                 {
-                                    "image_source": "http://api.discipline.app.br/uploads/images/<file>",
+                                    "image_source": "<host>/uploads/images/7cf1865a-7d9b-4c47-a806-3392a2201b88.jpg",
                                     "caption": "“Nossa cultura não cabe nos seus museus”"
                                 }
                             ],

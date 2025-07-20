@@ -39,3 +39,5 @@ lerna-debug.log*
 
 # uploaded files (Descomentado para salvar uns exemplos de provas no GitHub)
 #uploads/
+images_temp/
+return.json
