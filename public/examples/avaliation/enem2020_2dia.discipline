@@ -1,0 +1,3600 @@
+{
+    "hash": "54faf63c-7bcb-4b7a-abb8-057bdca62fc7",
+    "title": "Enem 2020 Dia 2",
+    "description": "Prova do 2º Dia - Caderno 7 – Azul – Aplicação Regular - https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos",
+    "sections": [
+        {
+            "hash": "7d7be8db-894b-42c7-9662-9ce009d5a6fa",
+            "items": [
+                {
+                    "hash": "bee6e9b0-9d02-4fc3-bd88-57cc1e6a7a65",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/56b44c56-9124-4575-839d-17b7b36371b3.png",
+                            "caption": "DAVIS, J. Disponível em: http://garfield.com. Acesso em: 10 fev. 2015."
+                        },
+                        {
+                            "statement": "Por qual motivo ocorre a eletrização ilustrada na tirinha?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "b79a1dc0-2adf-44af-9cc7-9a28ee49498b",
+                            "option_text": "Troca de átomos entre a calça e os pelos do gato."
+                        },
+                        {
+                            "hash": "9c1e1b1d-6b70-4d73-9026-cb44e1a3ee4d",
+                            "option_text": "Diminuição do número de prótons nos pelos do gato."
+                        },
+                        {
+                            "hash": "a15e9628-d1f3-4d6d-963b-8ecb6d75d39f",
+                            "option_text": "Criação de novas partículas eletrizadas nos pelos do gato."
+                        },
+                        {
+                            "hash": "d9313d38-d59b-4d41-9f1a-506de032b8b0",
+                            "option_text": "Movimentação de elétrons entre a calça e os pelos do gato."
+                        },
+                        {
+                            "hash": "d214661c-e08e-4cd4-886f-7ff12a3d639a",
+                            "option_text": "Repulsão entre partículas elétricas da calça e dos pelos do gato."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "e1dd8bc6-10d7-4788-8414-574d8566d6b5",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A enorme quantidade de resíduos gerados pelo consumo crescente da sociedade traz para a humanidade uma preocupação socioambiental, em especial pela quantidade de lixo produzido. Além da reciclagem e do reúso, pode-se melhorar ainda mais a qualidade de vida, substituindo polímeros convencionais por polímeros biodegradáveis."
+                        },
+                        {
+                            "statement": "Esses polímeros têm grandes vantagens socioambientais em relação aos convencionais porque:"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "bbf27783-9b55-4226-9dbd-517d2fe9ed66",
+                            "option_text": "não são tóxicos."
+                        },
+                        {
+                            "hash": "290f202d-fc2d-4e21-aba7-89a96fb007fa",
+                            "option_text": "não precisam ser reciclados."
+                        },
+                        {
+                            "hash": "a4066e06-c061-46c2-96d2-c3e4135f59ce",
+                            "option_text": "não causam poluição ambiental quando descartados."
+                        },
+                        {
+                            "hash": "be3dbd91-e100-4f8b-b6f5-af7628fb2339",
+                            "option_text": "são degradados em um tempo bastante menor que os convencionais."
+                        },
+                        {
+                            "hash": "21aa88ec-e17b-4598-94c2-92f44cc7490d",
+                            "option_text": "apresentam propriedades mecânicas semelhantes aos convencionais."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "57bba2f3-e0e5-4371-b7dc-2ceee129df52",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Uma pessoa percebe que a bateria de seu veículo fica descarregada após cinco dias sem uso. No início desse período, a bateria funcionava normalmente e estava com o total de sua carga nominal, de 60 Ah. Pensando na possibilidade de haver uma corrente de fuga, que se estabelece mesmo com os dispositivos elétricos do veículo desligados, ele associa um amperímetro digital ao circuito do veículo."
+                        },
+                        {
+                            "statement": "Qual dos esquemas indica a maneira com que o amperímetro deve ser ligado e a leitura por ele realizada?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "9056f220-8052-44e1-87a8-ddf6b2698724",
+                            "image": [
+                                {
+                                    "image_source": "http://api.discipline.app.br/uploads/images/33c7f050-8994-4953-a66c-ece73f71f4a3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "05e9318d-7a89-4a03-bc84-55ef258d900c",
+                            "image": [
+                                {
+                                    "image_source": "http://api.discipline.app.br/uploads/images/8e16e512-bdce-4985-b938-4cc6c59b2b0a.png"
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "0aaf8132-b006-4873-9cb7-b9116065f352",
+                            "image": [
+                                {
+                                    "image_source": "http://api.discipline.app.br/uploads/images/209b4db9-1f60-4364-bb27-99592a9a6f22.png"
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "e737b887-bf3c-4fbe-88f8-cfce1c6a8338",
+                            "image": [
+                                {
+                                    "image_source": "http://api.discipline.app.br/uploads/images/7097bf0b-a3e6-4485-bbd7-ba7a5033b3b0.png"
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "d64bc6db-544c-4d9c-9024-e14b3675448e",
+                            "image": [
+                                {
+                                    "image_source": "http://api.discipline.app.br/uploads/images/36b60084-49ce-4f0f-8a31-9639b2c18366.png"
+                                }
+                            ]
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "9e8445b7-b371-4a31-9e4f-736875fd7d78",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Um microempresário do ramo de cosméticos utiliza óleos essenciais e quer produzir um creme com fragrância de rosas. O principal componente do óleo de rosas tem cadeia poli-insaturada e hidroxila em carbono terminal. O catálogo dos óleos essenciais apresenta, para escolha da essência, estas estruturas químicas:."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "statement": "Qual substância o empresário deverá utilizar?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "049c7e02-0113-4cad-9173-19b831f78a0d",
+                            "option_text": "1."
+                        },
+                        {
+                            "hash": "68c1f6db-fb4f-48fa-ac09-6d754de659e2",
+                            "option_text": "2."
+                        },
+                        {
+                            "hash": "6a363e45-08d6-41fc-86a4-dde1e876ec15",
+                            "option_text": "3."
+                        },
+                        {
+                            "hash": "1201b172-b385-401f-b16c-83da866c410a",
+                            "option_text": "4."
+                        },
+                        {
+                            "hash": "186aa262-5998-4079-8909-ef80fe6641c5",
+                            "option_text": "5."
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A fragmentação dos hábitats é caracterizada pela formação de ilhas da paisagem original, circundadas por áreas transformadas. Esse tipo de interferência no ambiente ameaça a biodiversidade. Imagine que uma população de onças foi isolada em uma mata pequena. Elas se extinguiriam mesmo sem terem sido abatidas. Diversos componentes da ilha de hábitat, como o tamanho, a heterogeneidade, o seu entorno, a sua conectividade e o efeito de borda são determinantes para a persistência ou não das espécies originais."
+                        },
+                        {
+                            "statement": "Uma medida que auxilia na conservação da biodiversidade nas ilhas mencionadas no texto compreende a"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "formação de micro-hábitats."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "ampliação do efeito de borda."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "construção de corredores ecológicos."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "promoção da sucessão ecológica."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "introdução de novas espécies de animais e vegetais."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A sacarase (ou invertase) é uma enzima que atua no intestino humano hidrolisando o dissacarídeo sacarose nos monossacarídeos glicose e frutose. Em um estudo cinético da reação de hidrólise da sacarose (C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>), foram dissolvidos 171 g de sacarose em 500 mL de água. Observou-se que, a cada 100 minutos de reação, a concentração de sacarose foi reduzida à metade, qualquer que fosse o momento escolhido como tempo inicial. As massas molares dos elementos H, C e O são iguais a 1, 12 e 16 g mol<sup>-1</sup>, respectivamente."
+                        },
+                        {
+                            "statement": "Qual é a concentração de sacarose depois de 400 minutos do início da reação de hidrólise?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "2,50 &times; 10<sup>-3</sup> mol L<sup>-1</sup>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "6,25 &times; 10<sup>-2</sup> mol L<sup>-1</sup>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "1,25 &times; 10<sup>-1</sup> mol L<sup>-1</sup>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2,50 &times; 10<sup>-1</sup> mol L<sup>-1</sup>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "4,27 &times; 10<sup>-1</sup> mol L<sup>-1</sup>"
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Grandes reservatórios de óleo leve de melhor qualidade e que produz petróleo mais fino foram descobertos no litoral brasileiro numa camada denominada pré-sal, formada há 150 milhões de anos."
+                        },
+                        {
+                            "statement": "A utilização desse recurso energético acarreta para o ambiente um desequilíbrio no ciclo do"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "nitrogênio, devido à nitrificação ambiental transformando amônia em nitrito."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "nitrogênio, devido ao aumento dos compostos nitrogenados no ambiente terrestre."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "carbono, devido ao aumento dos carbonatos dissolvidos no ambiente marinho."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "carbono, devido à liberação das cadeias carbônicas aprisionadas abaixo dos sedimentos."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "fósforo, devido à liberação dos fosfatos acumulados no ambiente marinho."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Em uma usina geradora de energia elétrica, seja através de uma queda-d’água ou através de vapor sob pressão, as pás do gerador são postas a girar. O movimento relativo de um ímã em relação a um conjunto de bobinas produz um fluxo magnético variável através delas, gerando uma diferença de potencial em seus terminais. Durante o funcionamento de um dos geradores, o operador da usina percebeu que houve um aumento inesperado da diferença de potencial elétrico nos terminais das bobinas."
+                        },
+                        {
+                            "statement": "Nessa situação, o aumento do módulo da diferença de potencial obtida nos terminais das bobinas resulta do aumento do(a)"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "intervalo de tempo em que as bobinas ficam imersas no campo magnético externo, por meio de uma diminuição de velocidade no eixo de rotação do gerador."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "fluxo magnético através das bobinas, por meio de um aumento em sua área interna exposta ao campo magnético aplicado."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "intensidade do campo magnético no qual as bobinas estão imersas, por meio de aplicação de campos magnéticos mais intensos."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "rapidez com que o fluxo magnético varia através das bobinas, por meio de um aumento em sua velocidade angular."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "resistência interna do condutor que constitui as bobinas, por meio de um aumento na espessura dos terminais."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Você foi contratado para sincronizar os quatro semáforos de uma avenida, indicados pelas letras O, A, B e C, conforme a figura."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/5b55097d-bbe7-43c4-84ff-88d4d9acbaf6.png"
+                        },
+                        {
+                            "snippet": "Os semáforos estão separados por uma distância de 500 m. Segundo os dados estatísticos da companhia controladora de trânsito, um veículo, que está inicialmente parado no semáforo O, tipicamente parte com aceleração constante de 1 m s<sup>-2</sup> até atingir a velocidade de 72 km h<sup>-1</sup> e, a partir daí, prossegue com velocidade constante. Você deve ajustar os semáforos A, B e C de modo que eles mudem para a cor verde quando o veículo estiver a 100 m de cruzá-los, para que ele não tenha que reduzir a velocidade em nenhum momento."
+                        },
+                        {
+                            "statement": "Considerando essas condições, aproximadamente quanto tempo depois da abertura do semáforo O os semáforos A, B e C devem abrir, respectivamente?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "20s, 45s e 70s."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "25s, 50s e 75s."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "28s, 42s e 53s."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "30s, 55s e 80s."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "35s, 60s e 85s."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Nos dias atuais, o amplo uso de objetos de plástico gera bastante lixo, que muitas vezes é eliminado pela população por meio da queima. Esse procedimento é prejudicial ao meio ambiente por lançar substâncias poluentes. Para constatar esse problema, um estudante analisou a decomposição térmica do policloreto de vinila (PVC), um tipo de plástico, cuja estrutura é representada na figura."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/72a808b0-f406-4261-b2f4-b9533b5895a1.png"
+                        },
+                        {
+                            "snippet": "Para realizar esse experimento, o estudante colocou uma amostra de filme de PVC em um tubo de ensaio e o aqueceu, promovendo a decomposição térmica. Houve a liberação majoritária de um gás diatômico heteronuclear que foi recolhido em um recipiente acoplado ao tubo de ensaio. Esse gás, quando borbulhado em solução alcalina diluída contendo indicador ácido-base, alterou a cor da solução. Além disso, em contato com uma solução aquosa de carbonato de sódio (Na<sub>2</sub>CO<sub>3</sub>), liberou gás carbônico."
+                        },
+                        {
+                            "statement": "Qual foi o gás liberado majoritariamente na decomposição térmica desse tipo de plástico?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "H<sub>2</sub>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Cl<sub>2</sub>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "CO"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "CO<sub>2</sub>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "HCl"
+                        }
+                    ],
+                    "correct_answer": "E"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Uma população (momento A) sofre isolamento em duas subpopulações (momento B) por um fator de isolamento (I). Passado um tempo, essas subpopulações apresentam características fenotípicas e genotípicas que as distinguem (momento C), representadas na figura pelas tonalidades de cor. O posterior desaparecimento do fator de isolamento I pode levar, no momento D, às situações D1 e D2."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/f6340081-9222-4e1f-ba5e-90b9e9d6d6ab.png"
+                        },
+                        {
+                            "statement": "A representação indica que, no momento D, na situação."
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "D1 ocorre um novo fator de isolamento geográfico."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "D1 existe uma única população distribuída em gradiente."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "D1 ocorrem duas populações separadas por isolamento reprodutivo."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "D2 coexistem duas populações com características fenotípicas distintas."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "D2 foram preservadas as mesmas características fenotípicas da população original A."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A obtenção de óleos vegetais, de maneira geral, passa pelas etapas descritas no quadro."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/cfd89fae-a8ea-44a7-a422-e71144cfa7bc.png"
+                        },
+                        {
+                            "statement": "Qual das subetapas do processo é realizada em função apenas da polaridade das substâncias?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "Trituração."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Cozimento."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Prensagem."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Extração."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Destilação."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "O dióxido de carbono passa para o estado sólido (gelo seco) a &minus;78 °C e retorna aogasoso à temperatura ambiente. O gás é facilmente solubilizado em água, capaz de absorver radiação infravermelha da supda terra e não conduz eletricidade. Ele é utilizado como matéria-prima para a fotossíntese até o lisaturação. Após a fixação pelos organismos autotróficos, o gás retorna ao meio ambiente pela respiração aeróbica, fermedecomposição ou por resíduos industriais, queima de combustíveis fósseis e queimadas. Apesar da sua impoecológica, seu excesso causa perturbações no equilíbrio ambiental."
+                        },
+                        {
+                            "statement": "Considerando as propriedades descritas, o aumento atmosférico da substância afetará os organismos aquáticos em razão da"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "redução do potencial hidrogeniônico da água."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "restrição da aerobiose pelo excesso de poluentes."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "diminuição da emissão de oxigênio pelos autótrofos."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "limitação de transferência de energia entre os seres vivos."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Retração dos oceanos pelo congelamento do gás nos polos."
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Grupos de proteção ao meio ambiente conseguem resgatar muitas aves aquáticas vítimas de vazamentos de petróleo. Essas aves são lavadas com água e detergente neutro para a retirada completa do óleo de seu corpo e, posteriormente, são aquecidas, medicadas, desintoxicadas e alimentadas. Mesmo após esses cuidados, o retorno ao ambiente não pode ser imediato, pois elas precisam recuperar a capacidade de flutuação."
+                        },
+                        {
+                            "statement": "Para flutuar, essas aves precisam"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "recuperar o tônus muscular."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "restaurar a massa corporal."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "substituir as penas danificadas."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "restabelecer a capacidade de homeotermia."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "refazer a camada de cera impermeabilizante das penas."
+                        }
+                    ],
+                    "correct_answer": "E"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Os manuais de refrigerador apresentam a recomendação de que o equipamento não deve ser instalado próximo a fontes de calor, como fogão e aquecedores, ou em local onde incida diretamente a luz do sol. A instalação em local inadequado prejudica o funcionamento do refrigerador e aumenta o consumo de energia."
+                        },
+                        {
+                            "statement": "O não atendimento dessa recomendação resulta em aumento do consumo de energia porque"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "o fluxo de calor por condução no condensador sofre considerável redução."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "a temperatura da substância refrigerante no condensador diminui mais rapidamente."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "o fluxo de calor promove significativa elevação da temperatura no interior do refrigerador."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "a liquefação da substância refrigerante no condensador exige mais trabalho do compressor."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "as correntes de convecção nas proximidades do condensador ocorrem com maior dificuldade."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Um mergulhador fica preso ao explorar uma caverna no oceano. Dentro da caverna formou-se um bolsão de ar, como mostrado na figura, onde o mergulhador se abrigou."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/3a94c6ae-7139-4645-84e6-33ca3ecc1d7d.png"
+                        },
+                        {
+                            "snippet": "Durante o resgate, para evitar danos a seu organismo, foi necessário que o mergulhador passasse por um processo de descompressão antes de retornar à superfície para que seu corpo fi casse novamente sob pressão atmosférica. O gráfi co mostra a relação entre os tempos de descompressão recomendados para indivíduos nessa situação e a variação de pressão."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/fad74ffd-3b16-41e2-852a-ff904b9e2921.png"
+                        },
+                        {
+                            "snippet": "Considere que a aceleração da gravidade seja igual a 10m s<sup>-2</sup> e que a densidade da água seja de ρ = 1 000 kg m<sup>-3</sup>."
+                        },
+                        {
+                            "statement": "Em minutos, qual é o tempo de descompressão a que o mergulhador deverá ser submetido?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "100."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "80."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "60."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "40."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "20."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A Torre Eiffel, com seus 324 metros de altura, feita com treliças de ferro, pesava 7 300 toneladas quando terminou de ser construída em 1889. Um arquiteto resolve construir um protótipo dessa torre em escala 1:100, usando os mesmos materiais (cada dimensão linear em escala de 1:100 do monumento real). <br/> Considere que a torre real tenha uma massa M<sub>torre</sub> e exerça na fundação sobre a qual foi erguida uma pressão P<sub>torre</sub>. O modelo construído pelo arquiteto terá uma massa M<sub>modelo</sub> e exercerá uma pressão P<sub>modelo</sub>."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/02618a5e-ca66-45b4-9a39-c216f430c5f2.png"
+                        },
+                        {
+                            "statement": "Como a pressão exercida pela torre se compara com a pressão exercida pelo protótipo? Ou seja, qual é a razão entre as pressões (P<sub>torre</sub>)/(P<sub>modelo</sub>) ?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "10<sup>0</sup>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "10<sup>1</sup>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "10<sup>2</sup>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "10<sup>4</sup>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "10<sup>6</sup>"
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Na indústria farmacêutica, é muito comum o emprego de substâncias de revestimento em medicamentos de uso oral, pois trazem uma série de benefícios como alteração de sabor em medicamentos que tenham gosto ruim, melhoria da assimilação do composto, entre outras ações. Alguns compostos poliméricos à base do polissacarídeo celulose são utilizados para garantir que o fármaco somente seja liberado quando em contato com soluções aquosas cujo pH se encontre próximo da faixa da neutralidade."
+                        },
+                        {
+                            "caption": "BORTOLINI, K. <i>et al</i>. Análise de perfil de dissolução de cápsulas gastrorresistentes utilizando polímeros industriais com aplicação em farmácias magistrais.<br/><strong>Revista da Unifebe</strong>, n. 12, 2013 (adaptado)."
+                        },
+                        {
+                            "statement": "Qual é a finalidade do uso desse revestimento à base de celulose?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "Diminuir a absorção do princípio ativo no intestino."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Impedir que o fármaco seja solubilizado no intestino."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Garantir que o fármaco não seja afetado pelas secreções gástricas."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Permitir a liberação do princípio ativo pela ação das amilases salivares."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Facilitar a liberação do fármaco pela ação dos sais biliares sobre o revestimento."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "As panelas de pressão reduzem o tempo de cozimento dos alimentos por elevar a temperatura de ebulição da água. Os usuários conhecedores do utensílio normalmente abaixam a intensidade do fogo em panelas de pressão após estas iniciarem a saída dos vapores."
+                        },
+                        {
+                            "statement": "Ao abaixar o fogo, reduz-se a chama, pois assim evita-se o(a)"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "aumento da pressão interna e os riscos de explosão."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "dilatação da panela e a desconexão com sua tampa."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "perda da qualidade nutritiva do alimento."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "deformação da borracha de vedação."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "consumo de gás desnecessário."
+                        }
+                    ],
+                    "correct_answer": "E"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A nanotecnologia pode ser caracterizada quando os compostos estão na ordem de milionésimos de milímetros, como na utilização de nanomateriais catalíticos nos processos industriais. O uso desses materiais aumenta a eficiência da produção, consome menos energia e gera menores quantidades de resíduos. O sucesso dessa aplicação tecnológica muitas vezes está relacionado ao aumento da velocidade da reação química envolvida."
+                        },
+                        {
+                            "statement": "O êxito da aplicação dessa tecnologia é por causa da realização de reações químicas que ocorrem em condições de"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "alta pressão."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "alta temperatura."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "excesso de reagentes."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "maior superfície de contato."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "elevada energia de ativação."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Os fones de ouvido tradicionais transmitem a música diretamente para os nossos ouvidos. Já os modelos dotados de tecnologia redutora de ruído — Cancelamento de Ruído (CR) — além de transmitirem música, também reduzem todo ruído inconsistente à nossa volta, como o barulho de turbinas de avião e aspiradores de pó. Os fones de ouvido CR não reduzem realmente barulhos irregulares como discursos e choros de bebês. Mesmo assim, a supressão do ronco das turbinas do avião contribui para reduzir a “fadiga de ruído”, um cansaço persistente provocado pela exposição a um barulho alto por horas a fio. Esses aparelhos também permitem que nós ouçamos músicas ou assistamos a vídeos no trem ou no avião a um volume muito menor (e mais seguro)."
+                        },
+                        {
+                            "caption": "Disponível em: http://tecnologia.uol.com.br. Acesso em: 21 abr. 2015 (adaptado)."
+                        },
+                        {
+                            "statement": "A tecnologia redutora de ruído CR utilizada na produção de fones de ouvido baseia-se em qual fenômeno ondulatório?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "Absorção."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Interferência."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Polarização."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Reflexão."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Difração."
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Para garantir que produtos eletrônicos estejam armazenados de forma adequada antes da venda, algumas empresas utilizam cartões indicadores de umidade nas embalagens desses produtos. Alguns desses cartões contêm um sal de cobalto que muda de cor em presença de água, de acordo com a equação química:."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/88fc996b-8e91-4b15-81a6-0d91e7044fee.png"
+                        },
+                        {
+                            "statement": "Como você procederia para reutilizar, num curto intervalo de tempo, um cartão que já estivesse com a coloração rosa?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "Resfriaria no congelador."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Borrifaria com <i>spray</i> de água."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Envolveria com papel alumínio."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Aqueceria com secador de cabelos."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Embrulharia em guardanapo de papel."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Nos desenhos animados, com frequência se vê um personagem correndo na direção de um abismo, mas, ao invés de cair, ele continua andando no vazio e só quando percebe que não há nada sob seus pés é que ele para de andar e cai verticalmente. No entanto, para observar uma trajetória de queda num experimento real, pode-se lançar uma bolinha, com velocidade constante (V<sub>0</sub>), sobre a superfície de uma mesa e verificar o seu movimento de queda até o chão."
+                        },
+                        {
+                            "statement": "Qual figura melhor representa a trajetória de queda da bolinha?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": "http://api.discipline.app.br/uploads/images/2e888a86-31f3-471e-8197-e1ea03982f1f.png"
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": "http://api.discipline.app.br/uploads/images/0c79f9bb-b923-458c-a494-611215856583.png"
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": "http://api.discipline.app.br/uploads/images/e87b07e3-fb19-43b4-bd89-3984a58bd1cd.png"
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": "http://api.discipline.app.br/uploads/images/2ac3d069-e75e-443f-91c4-a6afaa6abcbc.png"
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": "http://api.discipline.app.br/uploads/images/0e49dad9-d519-42ae-9ca2-b12a3dc6cc8d.png"
+                                }
+                            ]
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Dois engenheiros estão verificando se uma cavidade perfurada no solo está de acordo com o planejamento de uma obra, cuja profundidade requerida é de 30m. O teste é feito por um dispositivo denominado oscilador de áudio de frequência variável, que permite relacionar a profundidade com os valores da frequência de duas ressonâncias consecutivas, assim como em um tubo sonoro fechado. A menor frequência de ressonância que o aparelho mediu foi 135 Hz. Considere que a velocidade do som dentro da cavidade perfurada é de 360m s<sup>-1</sup>."
+                        },
+                        {
+                            "statement": "Se a profundidade estiver de acordo com o projeto, qual será o valor da próxima frequência de ressonância que será medida?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "137 Hz."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "138 Hz."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "141 Hz."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "144 Hz."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "159 Hz."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Instituições acadêmicas e de pesquisa no mundo estão inserindo genes em genomas de plantas que possam codificar produtos de interesse farmacológico. No Brasil, está sendo desenvolvida uma variedade de soja com um viricida ou microbicida capaz de prevenir a contaminação pelo vírus causador da aids. Essa leguminosa está sendo induzida a produzir a enzima cianovirina-N, que tem eficiência comprovada contra o vírus."
+                        },
+                        {
+                            "caption": "OLIVEIRA, M. Remédio na planta. <strong>Pesquisa Fapesp</strong>, n. 206, abr. 2013."
+                        },
+                        {
+                            "statement": "A técnica para gerar essa leguminosa é um exemplo de"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "hibridismo."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "transgenia."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "conjugação."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "terapia gênica."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "melhoramento genético."
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Um estudante tem uma fonte de tensão com corrente contínua que opera em tensão fixa de 12 V. Como precisa alimentar equipamentos que operam em tensões menores, ele emprega quatro resistores de 100 Ω para construir um divisor de tensão. Obtém-se este divisor associando os resistores, como exibido na figura. Os aparelhos podem ser ligados entre os pontos A, B, C, D e E, dependendo da tensão especificada."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/b5d9e793-1e48-47d6-b59b-79acb3ea9fac.png"
+                        },
+                        {
+                            "snippet": "Ele tem um equipamento que opera em 9,0 V com uma resistência interna de 10 kΩ."
+                        },
+                        {
+                            "statement": "Entre quais pontos do divisor de tensão esse equipamento deve ser ligado para funcionar corretamente e qual será o valor da intensidade da corrente nele estabelecida?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "Entre A e C; 30 mA."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Entre B e E; 30 mA."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Entre A e D; 1,2 mA."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Entre B e E; 0,9 mA."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Entre A e E; 0,9 mA."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Pesquisadores dos Estados Unidos desenvolveram uma nova técnica, que utiliza raios de luz infravermelha (invisíveis a olho nu) para destruir tumores. Primeiramente, o paciente recebe uma injeção com versões modificadas de anticorpos que têm a capacidade de “grudar” apenas nas células cancerosas. Sozinhos, eles não fazem nada contra o tumor. Entretanto, esses anticorpos estão ligados a uma molécula, denominada IR700, que funcionará como uma “microbomba”, que irá destruir o câncer. Em seguida, o paciente recebe raios infravermelhos. Esses raios penetram no corpo e chegam até a molécula IR700, que é ativada e libera uma substância que ataca a célula cancerosa."
+                        },
+                        {
+                            "caption": "Disponível em: http://super.abril.com.br. Acesso em: 13 dez. 2012 (adaptado)."
+                        },
+                        {
+                            "statement": "Com base nas etapas de desenvolvimento, o nome apropriado para a técnica descrita é:"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "Radioterapia."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Cromoterapia."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Quimioterapia."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Fotoimunoterapia."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Terapia magnética."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Aranhas, escorpiões, carrapatos e ácaros são representantes da classe dos <em>Aracnídeos</em>. Esses animais são terrestres em sua grande maioria e ocupam os mais variados hábitats, tais como montanhas altas, pântanos, desertos e solos arenosos. Podem ter sido os primeiros representantes do filo <em>Arthropoda</em> a habitar a terra seca."
+                        },
+                        {
+                            "statement": "A característica que justifica o sucesso adaptativo desse grupo na ocupação do ambiente terrestre é a presença de"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "quelíceras e pedipalpos que coordenam o movimento corporal."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "excreção de ácido úrico que confere estabilidade ao pH corporal."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "exoesqueleto constituído de quitina que auxilia no controle hídrico corporal."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "circulação sanguínea aberta que impede a desidratação dos tecidos corporais."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "sistema nervoso ganglionar que promove a coordenação central do movimento corporal."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Pesquisadores coletaram amostras de água de um rio em pontos diferentes, distantes alguns quilômetros um do outro. Ao longo do rio, há locais de águas limpas, como também locais que recebem descarga de esgoto de área urbana, e locais onde há decomposição ativa com ausência de peixes. Os pesquisadores analisaram dois parâmetros: oxigênio dissolvido (OD) e demanda bioquímica de oxigênio (DBO) em cada ponto de coleta de água, obtendo o gráfico:."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/555b06d7-d92c-4f07-97ad-f8955e2e0418.png"
+                        },
+                        {
+                            "snippet": "O OD é proveniente da atmosfera e da fotossíntese que ocorre no curso-d’água e sua concentração é função das variáveis físicas, químicas e bioquímicas locais. A DBO é a quantidade de oxigênio consumido por microrganismos em condições aeróbicas para degradar uma determinada quantidade de matéria orgânica, durante um período de tempo, numa temperatura de incubação específica."
+                        },
+                        {
+                            "caption": "Disponível em: www.programaaguaazul.rn.gov.br. Acesso em: 16 ago. 2014 (adaptado)."
+                        },
+                        {
+                            "statement": "Qual ponto de amostragem da água do rio está mais próximo ao local em que o rio recebe despejo de esgoto?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "1."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "3."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "4."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "5."
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "O crescimento da frota de veículos em circulação no mundo tem levado à busca e desenvolvimento de tecnologias que permitam minimizar emissões de poluentes atmosféricos. O uso de veículos elétricos é uma das propostas mais propagandeadas por serem de emissão zero. Podemos comparar a emissão de carbono na forma de CO<sub>2</sub> (massa molar igual a 44 g mol<sup>-1</sup>) para os dois tipos de carros (a combustão e elétrico). Considere que os veiculos tradicionais a combustão, movidos a etanol (massa molar igual a 46 g mol<sup>-1</sup>), emitem uma média de 2,6 mol de CO<sub>2</sub> por quilômetro rodado, e os elétricos emitem o equivalente a 0,45 mol de CO<sub>2</sub> por quilômetro rodado (considerando as emissões na geração e transmissão da eletricidade). A reação de combustão do etanol pode ser representada pela equação química:."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/24fc9a3d-1822-4e53-a124-97551b3d2f78.png"
+                        },
+                        {
+                            "snippet": "Foram analisadas as emissões de CO<sub>2</sub> envolvidas em dois veículos, um movido a etanol e outro elétrico, em um mesmo trajeto de 1 000 km."
+                        },
+                        {
+                            "caption": "CHIARADIA, C. A.<strong> Estudo da viabilidade da implantação de frotas de veículos elétricos e híbridos elétricos no atual cenário econômico, político, energético e ambiental brasileiro.</strong><br/> Guaratinguetá: Unesp, 2015 (adaptado)."
+                        },
+                        {
+                            "statement": "A quantidade equivalente de etanol economizada, em quilograma, com o uso do veículo elétrico nesse trajeto, é mais próxima de"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "50."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "60."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "95."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "99."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "120."
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Em uma aula sobre metabolismo energético, foi apresentado um experimento clássico realizado por Engelmann. Um recipiente contendo bactérias aeróbias e uma alga verde filamentosa foi submetido à iluminação de uma fonte de luz, representada pelo microespectro. Após a explicação, um aluno esquematizou na lousa o resultado do referido experimento."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/91b123c8-3ed2-47d5-894e-8a41135d8aee.png"
+                        },
+                        {
+                            "statement": "Considerando a figura, a faixa do microespectro em que a alga possui maior taxa de realização fotossintética é a do:"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "Anil."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Verde."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Violeta."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Amarelo."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Vermelho."
+                        }
+                    ],
+                    "correct_answer": "E"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "O exame parasitológico de fezes é utilizado para detectar ovos de parasitos. Um dos métodos utilizados, denominado de centrífugo-flutuação, considera a densidade dos ovos em relação a uma solução de densidade 1,15 g mL<sup>-1</sup>. Assim, ovos que flutuam na superfície dessa solução são detectados. Os dados de densidade dos ovos de alguns parasitos estão apresentados na tabela."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/cb64d080-1d49-4626-9b75-f7629a1f376c.png"
+                        },
+                        {
+                            "caption": "ZERBINI, A. M. <strong>Identificação e análise de viabilidade de ovos de helmintos em um sistema de tratamento de esgotos domésticos constituídos de reatores anaeróbios e rampas de escoamento superficial</strong>. Belo Horizonte: Prosab, 2001 (adaptado)."
+                        },
+                        {
+                            "statement": "Considerando-se a densidade dos ovos e da solução, ovos de quais parasitos podem ser detectados por esse método?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "<em>A. lumbricoides</em>, <em>A. suum</em> e <em>S. mansoni</em>."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<em>S. mansoni</em>, <em>T. saginata</em> e <em>Ancylostoma</em>."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<em>Ancylostoma</em>, <em>A. lumbricoides</em> e <em>A. suum</em>."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<em>T. saginata</em>, <em>S. mansoni</em> e <em>A. lumbricoides</em>."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<em>A. lumbricoides</em>, <em>A. suum</em> e <em>T. saginata</em>."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Em seu laboratório, um técnico em química foi incumbido de tratar um resíduo, evitando seu descarte direto no meio ambiente. Ao encontrar o frasco, observou a seguinte informação: “<i>Resíduo: mistura de acetato de etila e água</i>”.<br/> Considere os dados do acetato de etila:<br/>• Baixa solubilidade em água;<br/> • Massa específica = 0,9 g cm<sup>-3</sup>;<br/> • Temperatura de fusão = &minus;83 °C;<br/> • Pressão de vapor maior que a da água."
+                        },
+                        {
+                            "statement": "A fim de tratar o resíduo, recuperando o acetato de etila, o técnico deve"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "evaporar o acetato de etila sem alterar o conteúdo de água."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "filtrar a mistura utilizando um funil comum e um papel de filtro."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "realizar uma destilação simples para separar a água do acetato de etila."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "proceder a uma centrifugação da mistura para remover o acetato de etila."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "decantar a mistura separando os dois componentes em um funil adequado."
+                        }
+                    ],
+                    "correct_answer": "E"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Em 2011, uma falha no processo de perfuração realizado por uma empresa petrolífera ocasionou derramamento de petróleo na bacia hidrográfica de Campos, no Rio de Janeiro."
+                        },
+                        {
+                            "statement": "Os impactos decorrentes desse derramamento ocorrem porque os componentes do petróleo"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "reagem com a água do mar e sofrem degradação, gerando compostos com elevada toxicidade."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "acidificam o meio, promovendo o desgaste das conchas calcárias de moluscos e a morte de corais."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "dissolvem-se na água, causando a mortandade dos seres marinhos por ingestão da água contaminada."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "têm caráter hidrofóbico e baixa densidade, impedindo as trocas gasosas entre o meio aquático e a atmosfera."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "têm cadeia pequena e elevada volatilidade, contaminando a atmosfera local e regional em função dos ventos nas orlas marítimas."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Uma população encontra-se em equilíbrio genético quanto ao sistema ABO, em que 25% dos indivíduos pertencem ao grupo O e 16%, ao grupo A homozigotos. Considerando que: p = frequência de I<sup>A</sup>; q = frequência de I<sup>B</sup>; e r = frequência de i, espera-se encontrar:."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/6c1b18c0-8a74-4091-a056-654e45a23c06.png"
+                        },
+                        {
+                            "statement": "A porcentagem de doadores compatíveis para alguém do grupo B nessa população deve ser de"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "11%."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "19%."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "26%."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "36%."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "60%."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Embora a energia nuclear possa ser utilizada para fins pacíficos, recentes conflitos geopolíticos têm trazido preocupações em várias partes do planeta e estimulado discussões visando o combate ao uso de armas de destruição em massa. Além do potencial destrutivo da bomba atômica, uma grande preocupação associada ao emprego desse artefato bélico é a poeira radioativa deixada após a bomba ser detonada."
+                        },
+                        {
+                            "statement": "Qual é o processo envolvido na detonação dessa bomba?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "Fissão nuclear do urânio, provocada por nêutrons."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Fusão nuclear do hidrogênio, provocada por prótons."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Desintegração nuclear do plutônio, provocada por elétrons."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Associação em cadeia de chumbo, provocada por pósitrons."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Decaimento radioativo do carbono, provocado por partículas beta."
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Plantas pioneiras são as que iniciam o processo natural de cicatrização de uma área desprovida de vegetação. Em geral, têm pequeno porte e crescem muito rápido, desenvolvem-se a pleno sol e são pouco exigentes quanto às condições do solo. Produzem grande quantidade de sementes e possuem ciclo de vida curto."
+                        },
+                        {
+                            "caption": "BLUM, C. T. <strong>Lista preliminar de espécies vegetais pioneiras nativas do Paraná</strong> - versão 2008. Disponível em: www.chaua.org.br. Acesso em: 10 fev. 2015."
+                        },
+                        {
+                            "statement": "Essas plantas são importantes em um projeto de restauração ambiental, pois promovem, no solo,"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "aumento da incidência de luz solar."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "diminuição da absorção de água."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "estabilização da umidade."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "elevação de temperatura."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "liberação de oxigênio."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Mesmo para peixes de aquário, como o peixe arco-íris, a temperatura da água fora da faixa ideal (26 °C a 28 °C), bem como sua variação brusca, pode afetar a saúde do animal. Para manter a temperatura da água dentro do aquário na média desejada, utilizam-se dispositivos de aquecimento com termostato. Por exemplo, para um aquário de 50 L, pode-se utilizar um sistema de aquecimento de 50 W otimizado para suprir sua taxa de resfriamento. Essa taxa pode ser considerada praticamente constante, já que a temperatura externa ao aquário é mantida pelas estufas. Utilize para a água o calor específico 4,0 kJ kg<sup>-1</sup> K<sup>-1</sup> e a densidade 1 kg L<sup>-1</sup>."
+                        },
+                        {
+                            "statement": "Se o sistema de aquecimento for desligado por 1 h, qual o valor mais próximo para a redução da temperatura da água do aquário?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "4,0 °C"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "3,6 °C"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "0,9 °C"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "0,6 °C"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "0,3 °C"
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Em uma pesquisa estão sendo testados cinco quimioterápicos quanto à sua capacidade antitumoral. No entanto, para o tratamento de pacientes, sabe-se que é necessário verificar também o quanto cada composto agride células normais. Para o experimento, partiu-se de cultivos de células tumorais (colunas escuras na figura) e células normais (colunas claras) com o mesmo número de células iniciais. Dois grupos-controle não receberam quimioterápicos: controle de células tumorais (CT) e de células normais (CN). As colunas I, II, III, IV e V correspondem aos grupos tratados com os cinco compostos. O número de células viáveis após os tratamentos está representado pelas colunas."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/5e05254c-7b6e-4eb9-85f1-fba016971d7d.png"
+                        },
+                        {
+                            "statement": "Qual quimioterápico deve ser escolhido para tratamento desse tipo de tumor?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "I"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "II"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "III"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "IV"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "V"
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Herschel, em 1880, começou a escrever sobre a condensação da luz solar no foco de uma lente e queria verificar de que maneira os raios coloridos contribuem para o aquecimento. Para isso, ele projetou sobre um anteparo o espectro solar obtido com um prisma, colocou termômetros nas diversas faixas de cores e verificou nos dados obtidos que um dos termômetros iluminados indicou um aumento de temperatura maior para uma determinada faixa de frequências."
+                        },
+                        {
+                            "caption": "SAYURI, M.; GASPAR, M. B. Infravermelho na sala de aula. Disponível em: www.cienciamao.usp.br. Acesso em: 15 ago. 2016 (adaptado)."
+                        },
+                        {
+                            "snippet": "Para verificar a hipótese de Herschel, um estudante montou o dispositivo apresentado na figura. Nesse aparato, cinco recipientes contendo água, à mesma temperatura inicial, e separados por um material isolante térmico e refletor são posicionados lado a lado (A, B, C, D e E) no interior de uma caixa de material isolante térmico e opaco. A luz solar, ao entrar na caixa, atravessa o prisma e incide sobre os recipientes. O estudante aguarda até que ocorra o aumento da temperatura e a afere em cada recipiente."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/a08b7aed-2d81-4c8a-9237-3d53e1f42288.png"
+                        },
+                        {
+                            "statement": "Em qual dos recipientes a água terá maior temperatura ao final do experimento?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "A."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "B."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "C."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "D."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "E."
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A Química Verde é um ramo da química que prega o desenvolvimento de processos eficientes, que transformem a maior parte do reagente em produto, de forma mais rápida e seletiva, que utilizem poucos reagentes, que produzam somente o produto desejado, evitando a formação de coprodutos, e que utilizem solventes não agressivos ao meio ambiente. Assim, as indústrias contornariam problemas relacionados à poluição ambiental e ao desperdício de água e energia."
+                        },
+                        {
+                            "statement": "O perfil de um processo que segue todos os princípios desse ramo da química pode ser representado por:"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "A + B + C → D   (a reação ocorre a altas pressões)."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "A + B → C + D   (a reação é fortemente endotérmica)."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "A + 3B → C  (a reação ocorre com uso de solvente orgânico)."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "3A + 2B → 2C → 3D + 2E  (a reação ocorrre sob pressão atmosférica)."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mn>A</mn><mo>&plus;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mn>B</mn><mspace width='0.2em' /><mi>→</mi><mspace width='0.2em' /><mn>C</mn></math> (a reação ocorre com o uso de um catalisador contendo um metal não tóxico)."
+                        }
+                    ],
+                    "correct_answer": "E"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Megaespetáculos com queima de grande quantidade de fogos de artifício em festas de final de ano são muito comuns no Brasil. Após a queima, grande quantidade de material particulado permanece suspensa no ar. Entre os resíduos, encontram-se compostos de sódio, potássio, bário, cálcio, chumbo, antimônio, cromo, além de percloratos e gases, como os dióxidos de nitrogênio e enxofre."
+                        },
+                        {
+                            "caption": "BRUNNING, A. <strong>The Chemistry of Firework Pollution.</strong> Disponível em: www.compoundchem.com. Acesso em: 1 dez. 2017 (adaptado)."
+                        },
+                        {
+                            "statement": "Esses espetáculos promovem riscos ambientais, porque"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "as substâncias resultantes da queima de fogos de artifício são inflamáveis."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "os resíduos produzidos na queima de fogos de artifício ainda são explosivos."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "o sódio e o potássio são os principais responsáveis pela toxicidade do produto da queima."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "o material particulado gerado se deposita na superfície das folhas das plantas impedindo os processos de respiração celular."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Há muitos mitos em relação a como se proteger de raios, cobrir espelhos e não pegar em facas, garfos e outros objetos metálicos, por exemplo. Mas, de fato, se houver uma tempestade com raios, alguns cuidados são importantes, como evitar ambientes abertos. Um bom abrigo para proteção é o interior de um automóvel, desde que este não seja conversível."
+                        },
+                        {
+                            "caption": "OLIVEIRA, A. <strong>Raios nas tempestades de verão</strong>. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 10 dez. 2014 (adaptado)."
+                        },
+                        {
+                            "statement": "Qual o motivo físico da proteção fornecida pelos automóveis, conforme citado no texto?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "Isolamento elétrico dos pneus."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Efeito de para-raios da antena."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Blindagem pela carcaça metálica."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Escoamento da água pela lataria."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Aterramento pelo fio terra da bateria."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "As moedas despertam o interesse de colecionadores, numismatas e investidores há bastante tempo. Uma moeda de 100% cobre, circulante no período do Brasil Colônia, pode ser bastante valiosa. O elevado valor gera a necessidade de realização de testes que validem a procedência da moeda, bem como a veracidade de sua composição. Sabendo que a densidade do cobre metálico é próxima de 9 g cm<sup>-3</sup>, um investidor negocia a aquisição de um lote de quatro moedas A, B, C e D fabricadas supostamente de 100% cobre e massas 26 g, 27 g, 10 g e 36 g, respectivamente. Com o objetivo de testar a densidade das moedas, foi realizado um procedimento em que elas foram sequencialmente inseridas em uma proveta contendo 5 mL de água, conforme esquematizado."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/4b38e541-bfda-435a-a720-bb998b0d3fcf.png"
+                        },
+                        {
+                            "statement": "Com base nos dados obtidos, o investidor adquiriu as moedas"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "A e B."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "A e C."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "B e C."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "B e D."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "C e D."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "is_annulled": true
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A fabricação da Bandeira Nacional deve obedecer ao descrito na Lei n. 5.700, de 1º de setembro de 1971, que trata dos Símbolos Nacionais. No artigo que se refere às dimensões da Bandeira, observa-se:."
+                        },
+                        {
+                            "snippet": "“Para cálculos das dimensões, será tomada por base a largura, dividindo-a em 14 (quatorze) partes iguais, sendo que cada uma das partes será considerada uma medida ou módulo (M). Os demais requisitos dimensionais seguem o critério abaixo: <br/> I. Comprimento será de vinte módulos (20 M);<br/> II. A distância dos vértices do losango amarelo ao quadro externo será de um módulo e sete décimos (1,7 M);<br/> III. O raio do círculo azul no meio do losango amarelo será de três módulos e meio (3,5 M).”."
+                        },
+                        {
+                            "caption": "BRASIL. Lei n. 5.700, de 1º de setembro de 1971.Disponível em: www.planalto.gov.br. <br/>Acesso em: 15 set. 2015."
+                        },
+                        {
+                            "snippet": "A figura indica as cores da bandeira do Brasil e localiza o quadro externo a que se refere a Lei n. 5.700."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/d98f22ef-5e37-4d74-ad3b-4e5dd0634ae2.png"
+                        },
+                        {
+                            "snippet": "Um torcedor, preparando-se para a Copa do Mundo e dispondo de cortes de tecidos verde (180 cm x 150 cm) e amarelo (o quanto baste), deseja confeccionar a maior Bandeira Nacional possível a partir das medidas do tecido verde."
+                        },
+                        {
+                            "statement": "Qual a medida, em centímetro, do lado do menor quadrado de tecido azul que deverá ser comprado para confecção do círculo da bandeira desejada? "
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "27."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "32."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "53."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "63."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "90."
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Uma empresa de ônibus utiliza um sistema de vendas de passagens que fornece a imagem de todos os assentos do ônibus, diferenciando os assentos já vendidos, por uma cor mais escura, dos assentos ainda disponíveis. A empresa monitora, permanentemente, o número de assentos já vendidos e compara-o com o número total de assentos do ônibus para avaliar a necessidade de alocação de veículos extras.<br/> Na imagem tem-se a informação dos assentos já vendidos e dos ainda disponíveis em um determinado instante."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/d98f22ef-5e37-4d74-ad3b-4e5dd0634ae2.png"
+                        },
+                        {
+                            "statement": "A razão entre o número de assentos já vendidos e o total de assentos desse ônibus, no instante considerado na imagem, é"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>16</mn><mn>42</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>16</mn><mn>26</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>26</mn><mn>42</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>42</mn><mn>26</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>42</mn><mn>16</mn></mfrac></math>"
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A caixa-d'água de um edifício terá a forma de um paralelepípedo retângulo reto com volume igual a 28 080 litros. Em uma maquete que representa o edifício, a caixa-d'água tem dimensões 2 cm x 3,51 cm x 4 cm.<br/>Dado: 1 dm<sup>3</sup> = 1 L."
+                        },
+                        {
+                            "statement": "A escala usada pelo arquiteto foi"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "1 : 10"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "1 : 100"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "1 : 1 000"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "1 : 10 000"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "1 : 100 000"
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Os gráficos representam a produção de peças em uma indústria e as horas trabalhadas dos funcionários no período de cinco dias. Em cada dia, o gerente de produção aplica uma metodologia diferente de trabalho. Seu objetivo é avaliar a metodologia mais eficiente para utilizá-la como modelo nos próximos períodos. Sabe-se que, neste caso, quanto maior for a razão entre o número de peças produzidas e o número de horas trabalhadas, maior será a eficiência da metodologia."
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/78b8f65b-3ab2-48d6-b4bf-c3cbd1b422d1.png"
+                        },
+                        {
+                            "image_source": "http://api.discipline.app.br/uploads/images/6a5b18e7-254a-4972-a294-204663d52451.png"
+                        },
+                        {
+                            "statement": "Em qual dia foi aplicada a metodologia mais eficiente?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "1."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "3."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "4."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "5."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "O proprietário de um apartamento decidiu instalar porcelanato no piso da sala. Essa sala tem formato retangular com 3,2 m de largura e 3,6 m de comprimento. As peças do porcelanato têm formato de um quadrado com lado medindo 80 cm. Esse porcelanato é vendido em dois tipos de caixas, com os preços indicados a seguir.<br/>• Caixas do tipo A: 4 unidades de piso, R$ 35,00;<br/> • Caixas do tipo B: 3 unidades de piso, R$ 27,00."
+                        },
+                        {
+                            "snippet": "Na instalação do porcelanato, as peças podem ser recortadas e devem ser assentadas sem espaçamento entre elas, aproveitando-se ao máximo os recortes feitos."
+                        },
+                        {
+                            "statement": "A compra que atende às necessidades do proprietário, proporciona a menor sobra de pisos e resulta no menor preço é"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "5 caixas do tipo A."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "1 caixa do tipo A e 4 caixas do tipo B."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "3 caixas do tipo A e 2 caixas do tipo B."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "5 caixas do tipo A e 1 caixa do tipo B."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "6 caixas do tipo B."
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Um hotel de 3 andares está sendo construído. Cada andar terá 100 quartos. Os quartos serão numerados de 100 a 399 e cada um terá seu número afixado à porta. Cada número será composto por peças individuais, cada uma simbolizando um único algarismo."
+                        },
+                        {
+                            "statement": "Qual a quantidade mínima de peças, simbolizando o algarismo 2, necessárias para identificar o número de todos os quartos?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "160."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "157."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "130."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "120."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "60."
+                        }
+                    ],
+                    "correct_answer": "E"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "O Estatuto do Idoso, no Brasil, prevê certos direitos às pessoas com idade avançada, concedendo a estas, entre outros benefícios, a restituição de imposto de renda antes dos demais contribuintes. A tabela informa os nomes e as idades de 12 idosos que aguardam suas restituições de imposto de renda. Considere que, entre os idosos, a restituição seja concedida em ordem decrescente de idade e que, em subgrupos de pessoas com a mesma idade, a ordem seja decidida por sorteio."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "statement": "Nessas condições, a probabilidade de João ser a sétima pessoa do grupo a receber sua restituição é igual a"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>1</mn><mn>12</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>7</mn><mn>12</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>1</mn><mn>8</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>5</mn><mn>6</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>1</mn><mn>4</mn></mfrac></math>"
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "No Brasil, o tempo necessário para um estudante realizar sua formação até a diplomação em um curso superior, considerando os 9 anos de ensino fundamental, os 3 anos do ensino médio e os 4 anos de graduação (tempo médio), é de 16 anos. No entanto, a realidade dos brasileiros mostra que o tempo médio de estudo de pessoas acima de 14 anos é ainda muito pequeno, conforme apresentado na tabela."
+                        },
+                        {
+                            "image_source": "",
+                            "caption": "Disponível em: www.ibge.gov.br. Acesso em: 19 dez. 2012 (adaptado)."
+                        },
+                        {
+                            "snippet": "Considere que o incremento no tempo de estudo, a cada período, para essas pessoas, se mantenha constante até o ano 2050, e que se pretenda chegar ao patamar de 70% do tempo necessário à obtenção do curso superior dado anteriormente."
+                        },
+                        {
+                            "statement": "O ano em que o tempo médio de estudo de pessoas acima de 14 anos atingirá o percentual pretendido será"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "2018."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2023."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2031."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2035."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2043."
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Uma torneira está gotejando água em um balde com capacidade de 18 litros. No instante atual, o balde se encontra com ocupação de 50% de sua capacidade. A cada segundo caem 5 gotas de água da torneira, e uma gota é formada, em média, por <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>5</mn><mo>&times;</mo><msup><mn>10</mn><mn>-2</mn></msup></math> mL de água."
+                        },
+                        {
+                            "statement": "Quanto tempo, em hora, será necessário para encher completamente o balde, partindo do instante atual?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mn>2</mn><mo>&times;</mo><msup><mn>10</mn><mn>1</mn></msup></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mn>1</mn><mo>&times;</mo><msup><mn>10</mn><mn>1</mn></msup></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mn>2</mn><mo>&times;</mo><msup><mn>10</mn><mn>-2</mn></msup></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mn>1</mn><mo>&times;</mo><msup><mn>10</mn><mn>-2</mn></msup></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mn>1</mn><mo>&times;</mo><msup><mn>10</mn><mn>-3</mn></msup></math>"
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Um clube deseja produzir miniaturas em escala do troféu que ganhou no último campeonato. O troféu está representado na Figura 1 e é composto por uma base em formato de um paralelepípedo reto-retângulo de madeira, sobre a qual estão fixadas três hastes verticais que sustentam uma esfera de 30 cm de diâmetro, que fi ca centralizada sobre a base de madeira. O troféu tem 100 cm de altura, incluída sua base."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "A miniatura desse troféu deverá ser instalada no interior de uma caixa de vidro, em formato de paralelepípedo reto-retângulo, cujas dimensões internas de sua base estão indicadas na Figura 2, de modo que a base do troféu seja colada na base da caixa e distante das paredes laterais da caixa de vidro em pelo menos 1 cm. Deve ainda haver uma distância de exatos 2 cm entre o topo da esfera e a tampa dessa caixa de vidro. Nessas condições deseja-se fazer a maior miniatura possível."
+                        },
+                        {
+                            "statement": "A medida da altura, em centímetro, dessa caixa de vidro deverá ser igual a"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "12."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "14."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "16."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "18."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "20."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Uma casa de dois andares está sendo projetada. É necessário incluir no projeto a construção de uma escada para o acesso ao segundo andar. Para o cálculo das dimensões dos degraus utilizam-se as regras:<p style=\"text-align: center\"><math xmlns='http://www.w3.org/1998/Math/MathML'><mn>|2h</mn><mo>&plus;</mo><mtext>b</mtext><mo>&minus;</mo><mn>63,5|</mn><mo>≤</mo><mn>1,5</mn><mspace width='0.2em'></mspace><mtext>e</mtext><mspace width='0.2em'></mspace><mn>16</mn><mo>≤</mo><mtext>h</mtext><mo>≤</mo><mn>19</mn></math>,</p>."
+                        },
+                        {
+                            "snippet": "nas quais h é a altura do degrau (denominada espelho) e b é a profundidade da pisada, como mostra a fi gura. Por conveniência, escolheu-se a altura do degrau como sendo h = 16. As unidades de h e b estão em centímetro."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "statement": "Nesse caso, o mais amplo intervalo numérico ao qual a profundidade da pisada (b) deve pertencer, para que as regras sejam satisfeitas é"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "30 ≤ b "
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "30 ≤ b ≤ 31,5 "
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "30 ≤ b ≤ 33"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "31,5 ≤ b ≤ 33 "
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "b ≤ 33"
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Muitos modelos atuais de veículos possuem computador de bordo. Os computadores informam em uma tela diversas variações de grandezas associadas ao desempenho do carro, dentre elas o consumo médio de combustível. Um veículo, de um determinado modelo, pode vir munido de um dos dois tipos de computadores de bordo:<br/><br/> • Tipo A: informa a quantidade X de litro de combustível gasto para percorrer 100 quilômetros;<br/> • Tipo B: informa a quantidade de quilômetro que o veículo é capaz de percorrer com um litro de combustível.<br/> Um veículo utiliza o computador do Tipo A, e ao final de uma viagem o condutor viu apresentada na tela a informação “X/100”."
+                        },
+                        {
+                            "statement": "Caso o seu veículo utilizasse o computador do Tipo B, o valor informado na tela seria obtido pela operação"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>X</mi><mo>&sdot;</mo><mn>100</mn></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mi>X</mi><mn>100</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>100</mn><mi>X</mi></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>1</mn><mi>X</mi></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mn>1</mn><mo>&sdot;</mo><mi>X</mi></math>"
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A Pesquisa Nacional por Amostra de Domicílios (Pnad) é uma pesquisa feita anualmente pelo IBGE, exceto nos anos em que há Censo. Em um ano, foram entrevistados 363 mil jovens para fazer um levantamento sobre suas atividades profissionais e/ou acadêmicas. Os resultados da pesquisa estão indicados no gráfico."
+                        },
+                        {
+                            "image_source": "",
+                            "caption": "Disponível em: http://noticias.uol.com.br. Acesso em: 20 ago. 2014."
+                        },
+                        {
+                            "statement": "De acordo com as informações dadas, o número de jovens entrevistados que trabalha é"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "114 708."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "164 076."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "213 444."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "284 592."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "291 582."
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A Lei de Zipf, batizada com o nome do linguista americano George Zipf, é uma lei empírica que relaciona a frequência ( f ) de uma palavra em um dado texto com o seu ranking (r). Ela é dada por <p style=\"text-align: center;\"><math xmlns='http://www.w3.org/1998/Math/MathML'><mtext>f</mtext><mo>=</mo><mfrac><mtext>A</mtext><msup><mtext>r</mtext><mtext>B</mtext></msup></mfrac></math></p>."
+                        },
+                        {
+                            "snippet": "O ranking da palavra é a sua posição ao ordenar as palavras por ordem de frequência. Ou seja, r = 1 para a palavra mais frequente, r = 2 para a segunda palavra mais frequente e assim sucessivamente. A e B são constantes positivas.",
+                            "caption": "Diponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adaptado)."
+                        },
+                        {
+                            "snippet": "Com base nos valores de <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>X</mi><mo>=</mo><mi>log</mi><mi>(r)</mi></math> e <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>Y</mi><mo>=</mo><mi>log</mi><mi>(f)</mi></math> , é possível estimar valores para A e B."
+                        },
+                        {
+                            "statement": "No caso hipotético em que a lei é verificada exatamente, a relação entre Y e X é"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>Y</mi><mo>=</mo><mi>log</mi><mi>(A)</mi><mo>&minus;</mo><mn>B</mn><mo>&sdot;</mo><mi>X</mi></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>Y</mi><mo>=</mo><mfrac><mrow><mi>log</mi><mi>(A)</mi></mrow><mrow><mi>X</mi><mo>&plus;</mo><mi>log</mi><mi>(B)</mi></mrow></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>Y</mi><mo>=</mo><mfrac><mrow><mi>log</mi><mi>(A)</mi></mrow><mi>B</mi></mfrac><mo>&minus;</mo><mi>X</mi></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>Y</mi><mo>=</mo><mfrac><mrow><mi>log</mi><mi>(A)</mi></mrow><mrow><mn>B</mn><mo>&sdot;</mo><mi>X</mi></mrow></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>Y</mi><mo>=</mo><mfrac><mrow><mi>log</mi><mi>(A)</mi></mrow><mrow><msup><mi>X</mi><mi>B</mi></msup></mrow></mfrac></math>"
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Enquanto um ser está vivo, a quantidade de carbono 14 nele existente não se altera. Quando ele morre, essa quantidade vai diminuindo. Sabe-se que a meia-vida do carbono 14 é de 5 730 anos, ou seja, num fóssil de um organismo que morreu há 5 730 anos haverá metade do carbono 14 que existia quando ele estava vivo. Assim, cientistas e arqueólogos usam a seguinte fórmula para saber a idade de um fóssil encontrado: <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>Q</mi><mtext>(t)</mtext><mo>=</mo><msub><mi>Q</mi><mn>0</mn></msub><mo>&sdot;</mo><msup><mn>2</mn><mrow><mn>-</mn><mfrac><mi>t</mi><mn>5730</mn></mfrac></mrow></msup></math> em que <i>t</i> é o tempo, medido em ano, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>Q</mi><mtext>(t)</mtext></math> é a quantidade de carbono 14 medida no instante t e <math xmlns='http://www.w3.org/1998/Math/MathML'><msub><mi>Q</mi><mn>0</mn></msub></math>  é a quantidade de carbono 14 no ser vivo correspondente."
+                        },
+                        {
+                            "snippet": "Um grupo de arqueólogos, numa de suas expedições, encontrou 5 fósseis de espécies conhecidas e mediram a quantidade de carbono 14 neles existente. Na tabela temos esses valores juntamente com a quantidade de carbono 14 nas referidas espécies vivas."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "statement": "O fóssil mais antigo encontrado nessa expedição foi"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "1."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "3."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "4."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "5."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Uma das Sete Maravilhas do Mundo Moderno é o Templo de Kukulkán, localizado na cidade de Chichén Itzá, no México. Geometricamente, esse templo pode ser representado por um tronco reto de pirâmide de base quadrada."
+                        },
+                        {
+                            "statement": "As quantidades de cada tipo de figura plana que formam esse tronco de pirâmide são"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "2 quadrados e 4 retângulos."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "1 retângulo e 4 triângulos isósceles."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2 quadrados e 4 trapézios isósceles."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "1 quadrado, 3 retângulos e 2 trapézios retângulos."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2 retângulos, 2 quadrados e 2 trapézios retângulos."
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Um processo de aeração, que consiste na introdução de ar num líquido, acontece do seguinte modo: uma bomba B retira o líquido de um tanque T1 e o faz passar pelo aerador A1, que aumenta o volume do líquido em 15%, e em seguida pelo aerador A2, ganhando novo aumento de volume de 10%. Ao final, ele fica armazenado num tanque T2, de acordo com a figura."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "Os tanques T1 e T2 são prismas retos de bases retangulares, sendo que a base de T1 tem comprimento c e largura L, e a base de T2 tem comprimento <math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mi>c</mi><mn>2</mn></mfrac></math>  e largura 2L.<br/> Para finalizar o processo de aeração sem derramamento do líquido em T2, o responsável deve saber a relação entre a altura da coluna de líquido que já saiu de T1, denotada por X, e a altura da coluna de líquido que chegou a T2, denotada por y.",
+                            "caption": "Disponível em: www.dec.ufcg.edu.br. Acesso em: 21 abr. 2015."
+                        },
+                        {
+                            "statement": "A equação que relaciona as medidas das alturas y e x é dada por"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "y = 1,265x"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "y = 1,250x"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "y = 1,150x"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "y = 1,125x"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "y = x"
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções:<br/></br> • seguir num ônibus, percorrendo 2,0 km;<br/> • alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia.<br/> O quadro fornece as velocidades médias do ônibus e da bicicleta, em km/h, no trajeto metrô-universidade."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "statement": "A fim de poupar tempo no deslocamento para a universidade, em quais dias o aluno deve seguir pela ciclovia?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "Às segundas, quintas e sextas-feiras."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Às terças e quintas-feiras e aos sábados."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Às segundas, quartas e sextas-feiras."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Às terças, quartas e sextas-feiras."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Às terças e quartas-feiras e aos sábados."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Pesquisadores da Universidade de Tecnologia de Viena, na Áustria, produziram miniaturas de objetos em impressoras 3D de alta precisão. Ao serem ativadas, tais impressoras lançam feixes de laser sobre um tipo de resina, esculpindo o objeto desejado. O produto final da impressão é uma escultura microscópica de três dimensões, como visto na imagem ampliada."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "A escultura apresentada é uma miniatura de um carro de Fórmula 1, com 100 micrômetros de comprimento. Um micrômetro é a milionésima parte de um metro."
+                        },
+                        {
+                            "statement": "Usando notação científica, qual é a representação do comprimento dessa miniatura, em metro?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mn>1,0</mn><mo>&times;</mo><msup><mn>10</mn><mn>-1</mn></msup></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mn>1,0</mn><mo>&times;</mo><msup><mn>10</mn><mn>-3</mn></msup></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mn>1,0</mn><mo>&times;</mo><msup><mn>10</mn><mn>-4</mn></msup></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mn>1,0</mn><mo>&times;</mo><msup><mn>10</mn><mn>-6</mn></msup></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mn>1,0</mn><mo>&times;</mo><msup><mn>10</mn><mn>-7</mn></msup></math>"
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "O artista gráfico holandês Maurits Cornelius Escher criou belíssimas obras nas quais as imagens se repetiam, com diferentes tamanhos, induzindo ao raciocínio de repetição infinita das imagens. Inspirado por ele, um artista fez um rascunho de uma obra na qual propunha a ideia de construção de uma sequência de infinitos quadrados, cada vez menores, uns sob os outros, conforme indicado na figura."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "O quadrado <i>PRST</i>, com lado de medida 1, é o ponto de partida. O segundo quadrado é construído sob ele tomando-se o ponto médio da base do quadrado anterior e criando-se um novo quadrado, cujo lado corresponde à metade dessa base. Essa sequência de construção se repete recursivamente."
+                        },
+                        {
+                            "statement": "Qual é a medida do lado do centésimo quadrado construído de acordo com esse padrão?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><msup><mrow><mo>(</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>)</mo></mrow><mn>100</mn></msup></math> "
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><msup><mrow><mo>(</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>)</mo></mrow><mn>99</mn></msup></math> "
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><msup><mrow><mo>(</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>)</mo></mrow><mn>97</mn></msup></math> "
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><msup><mrow><mo>(</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>)</mo></mrow><mn>-98</mn></msup></math> "
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><msup><mrow><mo>(</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>)</mo></mrow><mn>-99</mn></msup></math> "
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "O gerente de uma loja de cosméticos colocou à venda cinco diferentes tipos de perfume, tendo em estoque na loja as mesmas quantidades de cada um deles. O setor de controle de estoque encaminhou ao gerente registros gráficos descrevendo os preços unitários de cada perfume, em real, e a quantidade vendida de cada um deles, em percentual, ocorrida no mês de novembro."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "Dados a chegada do final de ano e o aumento das vendas, a gerência pretende aumentar a quantidade estocada do perfume do tipo que gerou a maior arrecadação em espécie, em real, no mês de novembro."
+                        },
+                        {
+                            "statement": "Nessas condições, qual o tipo de perfume que deverá ter maior reposição no estoque?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "I."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "II."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "III."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "IV."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "V."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "is_annulled": true
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Três amigos, André, Bernardo e Carlos, moram em um condomínio fechado de uma cidade. O quadriculado representa a localização das ruas paralelas e perpendiculares, delimitando quadras de mesmo tamanho nesse condomínio, em que nos pontos <i>A</i>, <i>B</i> e <i>C</i> estão localizadas as casas de André, Bernardo e Carlos, respectivamente."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "André deseja deslocar-se da sua casa até a casa de Bernardo, sem passar pela casa de Carlos, seguindo ao longo das ruas do condomínio, fazendo sempre deslocamentos para a direita ( → ) ou para cima ( ↑ ), segundo o esquema da figura."
+                        },
+                        {
+                            "statement": "O número de diferentes caminhos que André poderá utilizar para realizar o deslocamento nas condições propostas é"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "4."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "14."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "17."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "35."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "48."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Uma pessoa precisa comprar 15 sacos de cimento para uma reforma em sua casa. Faz pesquisa de preço em cinco depósitos que vendem o cimento de sua preferência e cobram frete para entrega do material, conforme a distância do depósito à sua casa. As informações sobre preço do cimento, valor do frete e distância do depósito até a casa dessa pessoa estão apresentadas no quadro."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "A pessoa escolherá um desses depósitos para realizar sua compra, considerando os preços do cimento e do frete oferecidos em cada opção."
+                        },
+                        {
+                            "statement": "Se a pessoa decidir pela opção mais econômica, o depósito escolhido para a realização dessa compra será o"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "A."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "B."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "C."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "D."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "E."
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Um motociclista planeja realizar uma viagem cujo destino fica a 500 km de sua casa. Sua moto consome 5 litros de gasolina para cada 100 km rodados, e o tanque da moto tem capacidade para 22 litros. Pelo mapa, observou que no trajeto da viagem o último posto disponível para reabastecimento, chamado Estrela, fica a 80 km do seu destino. Ele pretende partir com o tanque da moto cheio e planeja fazer somente duas paradas para reabastecimento, uma na ida e outra na volta, ambas no posto Estrela. No reabastecimento para a viagem de ida, deve considerar também combustível suficiente para se deslocar por 200 km no seu destino."
+                        },
+                        {
+                            "statement": "A quantidade mínima de combustível, em litro, que esse motociclista deve reabastecer no posto Estrela na viagem de ida, que seja suficiente para fazer o segundo reabastecimento, é"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "13."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "14."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "17."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "18."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "21."
+                        }
+                    ],
+                    "correct_answer": "E"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Uma loja de materiais de construção vende dois tipos de caixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo volume, e a altura da caixa-d’água do tipo B é igual a 25% da altura da caixa-d’água do tipo A."
+                        },
+                        {
+                            "statement": "Se R denota o raio da caixa-d’água do tipo A, então o raio da caixa-d’água do tipo B é"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mtext>R</mtext><mn>2</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2 R"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "4 R"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "5 R"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "16 R"
+                        }
+                    ],
+                    "correct_answer": "E"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A lei municipal para a edificação de casas em lotes de uma cidade determina que sejam obedecidos os seguintes critérios:<br/><br/> • afastamento mínimo de 4 m da rua;<br/> • afastamento mínimo de 1 m da divisa com outro lote;<br/> • área total construída da casa entre 40% e 50% da área total do lote.<br/> Um construtor submeteu para aprovação na prefeitura dessa cidade uma planta com propostas para a construção de casas em seus 5 lotes. Cada lote tem área medindo 200 m².<br/> A imagem apresenta um esquema, sem escala, no qual estão representados os lotes, as ruas e os afastamentos considerados nos projetos entre as casas e as divisas dos lotes. As medidas indicadas no esquema estão expressas em metro."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "statement": "A prefeitura aprovará apenas a planta da casa"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "1."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "3."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "4."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "5."
+                        }
+                    ],
+                    "correct_answer": "E"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Nos livros Harry Potter, um anagrama do nome do personagem “TOM MARVOLO RIDDLE” gerou a frase “I AM LORD VOLDEMORT”.<br/> Suponha que Harry quisesse formar todos os anagramas da frase “I AM POTTER”, de tal forma que as vogais e consoantes aparecessem sempre intercaladas, e sem considerar o espaçamento entre as letras."
+                        },
+                        {
+                            "statement": "Nessas condições, o número de anagramas formados é dado por"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "9!."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "4! 5!."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2 &times; 4! 5!."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>9!</mn><mn>2</mn></mfrac></math>."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>4! 5!</mn><mn>2</mn></mfrac></math>."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A exposição a barulhos excessivos, como os que percebemos em geral em trânsitos intensos, casas noturnas e espetáculos musicais, podem provocar insônia, estresse, infarto, perda de audição, entre outras enfermidades. De acordo com a Organização Mundial da Saúde, todo e qualquer som que ultrapasse os 55 decibéis (unidade de intensidade do som) já pode ser considerado nocivo para a saúde. O gráfico foi elaborado a partir da medição do ruído produzido, durante um dia, em um canteiro de obras."
+                        },
+                        {
+                            "image_source": "",
+                            "caption": "Disponível em: www.revistaencontro.com.br. Acesso em: 12 ago. 2020 (adaptado)."
+                        },
+                        {
+                            "statement": "Nesse dia, durante quantas horas o ruído esteve acima de 55 decibéis?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "5."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "8."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "10."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "11."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "13."
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "O técnico de um time de basquete pretende aumentar a estatura média de sua equipe de 1,93 m para, no mínimo, 1,99 m. Para tanto, dentre os 15 jogadores que fazem parte de sua equipe, irá substituir os quatro mais baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m. Para isso, o técnico contratou um novo jogador de 2,02 m. Os outros três jogadores que ele ainda precisa contratar devem satisfazer à sua necessidade de aumentar a média das estaturas da equipe. Ele fi xará a média das estaturas para os três jogadores que ainda precisa contratar dentro do critério inicialmente estabelecido. "
+                        },
+                        {
+                            "statement": "Qual deverá ser a média mínima das estaturas, em metro, que ele deverá fi xar para o grupo de três novos jogadores que ainda irá contratar?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "1,96."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "1,98."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2,05."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2,06."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2,08."
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "O consumo de espumantes no Brasil tem aumentado nos últimos anos. Uma das etapas do seu processo de produção consiste no envasamento da bebida em garrafas semelhantes às da imagem. Nesse processo, a vazão do líquido no interior da garrafa é constante e cessa quando atinge o nível de envasamento."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "statement": "Qual esboço de gráfi co melhor representa a variação da altura do líquido em função do tempo, na garrafa indicada na imagem?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "O quadro representa os gastos mensais, em real, de uma família com internet, mensalidade escolar e mesada do fi lho."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "No início do ano, a internet e a mensalidade escolar tiveram acréscimos, respectivamente, de 20% e 10%. Necessitando manter o valor da despesa mensal total com os itens citados, a família reduzirá a mesada do filho."
+                        },
+                        {
+                            "statement": "Qual será a porcentagem da redução da mesada?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "15,0."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "23,5."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "30,0."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "70,0."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "76,5."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Num recipiente com a forma de paralelepípedo reto-retângulo, colocou-se água até a altura de 8 cm e um objeto, que ficou flutuando na superfície da água.<br/> Para retirar o objeto de dentro do recipiente, a altura da coluna de água deve ser de, pelo menos, 15 cm. Para a coluna de água chegar até essa altura, é necessário colocar dentro do recipiente bolinhas de volume igual a 6 cm³ cada, que ficarão totalmente submersas."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "statement": "O número mínimo de bolinhas necessárias para que se possa retirar o objeto que flutua na água, seguindo as instruções dadas, é de"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "14."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "16."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "18."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "30."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "34."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Um grupo sanguíneo, ou tipo sanguíneo, baseia-se na presença ou ausência de dois antígenos, A e B, na superfície das células vermelhas do sangue. Como dois antígenos estão envolvidos, os quatro tipos sanguíneos distintos são:<br/><br/> • Tipo A: apenas o antígeno A está presente;<br/> • Tipo B: apenas o antígeno B está presente;<br/> • Tipo AB: ambos os antígenos estão presentes;<br/> • Tipo O: nenhum dos antígenos está presente.",
+                            "caption": "Disponível em: http://saude.hsw.uol.com.br. Acesso em: 15 abr. 2012 (adaptado)."
+                        },
+                        {
+                            "snippet": "Foram coletadas amostras de sangue de 200 pessoas e, após análise laboratorial, foi identificado que em 100 amostras está presente o antígeno A, em 110 amostras há presença do antígeno B e em 20 amostras nenhum dos antígenos está presente."
+                        },
+                        {
+                            "statement": "Dessas pessoas que foram submetidas à coleta de sangue, o número das que possuem o tipo sanguíneo A é igual a"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "30."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "60."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "70."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "90."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "100."
+                        }
+                    ],
+                    "correct_answer": "D"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Antônio, Joaquim e José são sócios de uma empresa cujo capital é dividido, entre os três, em partes proporcionais a: 4, 6 e 6, respectivamente. Com a intenção de igualar a participação dos três sócios no capital da empresa, Antônio pretende adquirir uma fração do capital de cada um dos outros dois sócios."
+                        },
+                        {
+                            "statement": "A fração do capital de cada sócio que Antônio deverá adquirir é"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>1</mn><mn>2</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>1</mn><mn>3</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>1</mn><mn>9</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>2</mn><mn>3</mn></mfrac></math>"
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>4</mn><mn>3</mn></mfrac></math>"
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Azulejo designa peça de cerâmica vitrificada e/ou esmaltada usada, sobretudo, no revestimento de paredes. A origem das técnicas de fabricação de azulejos é oriental, mas sua expansão pela Europa traz consigo uma diversificação de estilos, padrões e usos, que podem ser decorativos, utilitários e arquitetônicos.",
+                            "caption": "Disponível em: www.itaucultural.org.br. Acesso em: 31 jul. 2012."
+                        },
+                        {
+                            "snippet": "Azulejos no formato de octógonos regulares serão utilizados para cobrir um painel retangular conforme ilustrado na figura."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "Entre os octógonos e na borda lateral dessa área, será necessária a colocação de 15 azulejos de outros formatos para preencher os 15 espaços em branco do painel. Uma loja oferece azulejos nos seguintes formatos:<br/><br/> 1 – Triângulo retângulo isósceles;<br/> 2 – Triângulo equilátero;<br/> 3 – Quadrado."
+                        },
+                        {
+                            "statement": "Os azulejos necessários para o devido preenchimento das áreas em branco desse painel são os de formato"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "1."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "3."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "1 e 2."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "1 e 3."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "2 e 3."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "No período de fi m de ano, o síndico de um condomínio resolveu colocar, em um poste, uma iluminação natalina em formato de cone, lembrando uma árvore de Natal, conforme as fi guras 1 e 2."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "A árvore deverá ser feita colocando-se mangueiras de iluminação, consideradas segmentos de reta de mesmo comprimento, a partir de um ponto situado a 3 m de altura no poste até um ponto de uma circunferência de fi xação, no chão, de tal forma que esta fi que dividida em 20 arcos iguais. O poste está fi xado no ponto C (centro da circunferência) perpendicularmente ao plano do chão.<br/> Para economizar, ele utilizará mangueiras de iluminação aproveitadas de anos anteriores, que juntas totalizaram pouco mais de 100 m de comprimento, dos quais ele decide usar exatamente 100 m e deixar o restante como reserva."
+                        },
+                        {
+                            "statement": "Para que ele atinja seu objetivo, o raio, em metro, da circunferência deverá ser de"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "4,00."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "4,87."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "5,00."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "5,83."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "6,26."
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Pergolado é o nome que se dá a um tipo de cobertura projetada por arquitetos, comumente em praças e jardins, para criar um ambiente para pessoas ou plantas, no qual há uma quebra da quantidade de luz, dependendo da posição do sol. É feito como um estrado de vigas iguais, postas paralelas e perfeitamente em fila, como ilustra a figura."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "Um arquiteto projeta um pergolado com vãos de 30 cm de distância entre suas vigas, de modo que, no solstício de verão, a trajetória do sol durante o dia seja realizada num plano perpendicular à direção das vigas, e que o sol da tarde, no momento em que seus raios fi zerem 30° com a posição a pino, gere a metade da luz que passa no pergolado ao meio-dia."
+                        },
+                        {
+                            "statement": "Para atender à proposta do projeto elaborado pelo arquiteto, as vigas do pergolado devem ser construídas de maneira que a altura, em centímetro, seja a mais próxima possível de"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "9."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "15."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "26."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "52."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "60."
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "O fenômeno das manifestações populares de massa traz à discussão como estimar o número de pessoas presentes nesse tipo de evento. Uma metodologia usada é: no momento do ápice do evento, é feita uma foto aérea da via pública principal na área ocupada, bem como das vias afl uentes que apresentem aglomerações de pessoas que acessam a via principal. A foto é sobreposta por um mapa virtual das vias, ambos na mesma escala, fazendo-se um esboço geométrico da situação. Em seguida, subdivide-se o espaço total em trechos, quantifi cando a densidade, da seguinte forma:<br/><br/> • 4 pessoas por metro quadrado, se elas estiverem andando em uma mesma direção;<br/> • 5 pessoas por metro quadrado, se elas estiverem se movimentando sem deixar o local;<br/> • 6 pessoas por metro quadrado, se elas estiverem paradas.<br/> É feito, então, o cálculo do total de pessoas, considerando os diversos trechos, e desconta-se daí 1 000 pessoas para cada carro de som fotografado.<br/> Com essa metodologia, procederam-se aos cálculos para estimar o número de participantes na manifestação cujo esboço geométrico é dado na figura. Há três trechos na via principal: <i>MN</i>, <i>NO</i> e <i>OP</i>, e um trecho numa via afluente da principal: <i>QR</i> ."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "<strong>Obs</strong>.: a figura não está em escala (considere as medidas dadas)."
+                        },
+                        {
+                            "statement": "Segundo a metodologia descrita, o número estimado de pessoas presentes a essa manifestação foi igual a"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "110 000."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "104 000."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "93 000."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "92 000."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "87 000."
+                        }
+                    ],
+                    "correct_answer": "E"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de produção de seus itens, em real, em função da quantidade de itens produzidos."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "O lucro é determinado pela diferença: Receita – Custo."
+                        },
+                        {
+                            "statement": "O gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, é"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "correct_answer": "B"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Em um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até alcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posicioná-lo convenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos, formando assim um sólido rígido, como ilustrado na figura."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "Para facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três planos quadriculados perpendiculares entre si, durante sua descida."
+                        },
+                        {
+                            "statement": "A figura que apresenta uma possível posição desse sólido, com suas respectivas projeções ortogonais sobre os três planos citados, durante sua descida é"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "correct_answer": "A"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "A Figura 1 apresenta uma casa e a planta do seu telhado, em que as setas indicam o sentido do escoamento da água de chuva. Um pedreiro precisa fazer a planta do escoamento da água de chuva de um telhado que tem três caídas de água, como apresentado na Figura 2."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "statement": "A figura que representa a planta do telhado da Figura 2 com o escoamento da água de chuva que o pedreiro precisa fazer é"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        },
+                        {
+                            "hash": "",
+                            "image": [
+                                {
+                                    "image_source": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "correct_answer": "E"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Suponha que uma equipe de corrida de automóveis disponha de cinco tipos de pneu (I, II, III, IV, V), em que o fator de eficiência climática EC (índice que fornece o comportamento do pneu em uso, dependendo do clima) é apresentado:<br/><br/> • EC do pneu I: com chuva 6, sem chuva 3;<br/> • EC do pneu II: com chuva 7, sem chuva -4;<br/> • EC do pneu III: com chuva -2, sem chuva 10;<br/> • EC do pneu IV: com chuva 2, sem chuva 8;<br/> • EC do pneu V: com chuva -6, sem chuva 7.<br/> O coeficiente de rendimento climático (CRC) de um pneu é calculado como a soma dos produtos dos fatores de EC, com ou sem chuva, pelas correspondentes probabilidades de se ter tais condições climáticas: ele é utilizado para determinar qual pneu deve ser selecionado para uma dada corrida, escolhendo-se o pneu que apresentar o maior CRC naquele dia. No dia de certa corrida, a probabilidade de chover era de 70% e o chefe da equipe calculou o CRC de cada um dos cinco tipos de pneu."
+                        },
+                        {
+                            "statement": "O pneu escolhido foi"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "I."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "II."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "III."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "IV."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "V."
+                        }
+                    ],
+                    "correct_answer": "C"
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Um pé de eucalipto em idade adequada para o corte rende, em média, 20 mil folhas de papel A4. A densidade superficial do papel A4, medida pela razão da massa de uma folha desse papel por sua área, é de 75 gramas por metro quadrado, e a área de uma folha de A4 é 0,062 metro quadrado.",
+                            "caption": "Disponível em: http://revistagalileu.globo.com. Acesso em: 28 fev. 2013 (adaptado)."
+                        },
+                        {
+                            "statement": "Nessas condições, quantos quilogramas de papel rende, em média, um pé de eucalipto?"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "4 301."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "1 500."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "930."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "267."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "93."
+                        }
+                    ]
+                },
+                {
+                    "hash": "",
+                    "type": "question",
+                    "question_type": "radio",
+                    "header": [
+                        {
+                            "snippet": "Com o objetivo de contratar uma empresa responsável pelo serviço de atendimento ao público, os executivos de uma agência bancária realizaram uma pesquisa de satisfação envolvendo cinco empresas especializadas nesse segmento. Os procedimentos analisados (com pesos que medem sua importância para a agência) e as respectivas notas que cada empresa recebeu estão organizados no quadro."
+                        },
+                        {
+                            "image_source": ""
+                        },
+                        {
+                            "snippet": "A agência bancária contratará a empresa com a maior média ponderada das notas obtidas nos procedimentos analisados."
+                        },
+                        {
+                            "statement": "Após a análise dos resultados da pesquisa de satisfação, os executivos da agência bancária contrataram a empresa"
+                        }
+                    ],
+                    "options": [
+                        {
+                            "hash": "",
+                            "option_text": "X."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Y."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "Z."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "W."
+                        },
+                        {
+                            "hash": "",
+                            "option_text": "T."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

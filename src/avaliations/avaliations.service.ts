@@ -14,6 +14,8 @@ import {
     DisciplineFileData,
 } from "src/discipline-file.interface";
 
+import * as fs from 'fs'
+
 @Injectable()
 export class AvaliationsService {
     constructor(
@@ -22,7 +24,7 @@ export class AvaliationsService {
     ) {}
 
     async findAll(params: any): Promise<{ data: Avaliation[]; total: number }> {
-        let query = this.repository
+        const query = this.repository
             .createQueryBuilder("avaliation")
             .leftJoinAndSelect("avaliation.institution", "institution")
             .where("avaliation.is_active = :is_active", { is_active: 1 });
@@ -68,7 +70,6 @@ export class AvaliationsService {
     }
 
     getDisciplineFile(hash: string): Promise<DisciplineFileData> {
-        const fs = require("fs");
         const empty = `${__dirname}/../../public/examples/avaliation/empty.discipline`;
         const example = `${__dirname}/../../public/examples/avaliation/arquivo.discipline`;
         const path = `${__dirname}/../../uploads/avaliations/${hash}/arquivo.discipline`;
@@ -82,14 +83,17 @@ export class AvaliationsService {
                         fileData = JSON.parse(fs.readFileSync(empty, "utf-8"));
                         break;
                     case "example":
+                        const fileContent = fs.readFileSync(example, "utf-8")
+                        console.log(example)
                         fileData = JSON.parse(
-                            fs.readFileSync(example, "utf-8"),
+                            fileContent
                         );
                         break;
                     case "mock":
                         fileData = this.getDisciplineFileMock();
                         break;
                     default:
+                        //console.log(path)
                         fileData = JSON.parse(fs.readFileSync(path, "utf-8"));
                         break;
                 }
@@ -299,7 +303,7 @@ export class AvaliationsService {
             ],
         };
 
-        let data: DisciplineFileData = {
+        const data: DisciplineFileData = {
             hash: "d2d343b8-1a12-4243-8f8e-65ddece48918",
             title: "Enem 2020",
             description:
